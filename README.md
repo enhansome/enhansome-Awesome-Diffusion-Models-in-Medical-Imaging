@@ -80,7 +80,7 @@
 **Foundation Models for Music: A Survey** \
 *Yinghao Ma, Anders Øland, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elona Shatri, Fabio Morreale, Ge Zhang, György Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen, Wenhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, Ziyu Wang* \
 \[26th Aug., 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2408.14340)] \[[GitHub](https://github.com/nicolaus625/FM4Music) ⭐ 224 | 🐛 2 | 📅 2024-09-04] \[Music Generation - Music Therapy & Medical Applications]
+\[[Paper](https://arxiv.org/abs/2408.14340)] \[[GitHub](https://github.com/nicolaus625/FM4Music) ⭐ 225 | 🐛 2 | 📅 2024-09-04] \[Music Generation - Music Therapy & Medical Applications]
 
 **A Comprehensive Survey on Diffusion Models and Their Applications** \
 *Md Manjurul Ahsan, Shivakumar Raman, Yingtao Liu, Zahed Siddique* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,523 | 🐛 124 | 🌐 Jupyter Notebook | 📅 2026-07-07] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,523 | 🐛 123 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -1781,7 +1781,7 @@
 **U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation** \
 *Chenxin Li, Xinyu Liu, Wuyang Li, Cheng Wang, Hengyu Liu, Yixuan Yuan* \
 \[5th Jun, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2406.02918)] \[[GitHub](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 551 | 🐛 40 | 🌐 Python | 📅 2025-06-23] \[[Website](https://yes-ukan.github.io/)]
+\[[Paper](https://arxiv.org/abs/2406.02918)] \[[GitHub](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 552 | 🐛 40 | 🌐 Python | 📅 2025-06-23] \[[Website](https://yes-ukan.github.io/)]
 
 **EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing** \
 *Hadrien Reynaud, Qingjie Meng, Mischa Dombrowski, Arijit Ghosh, Thomas Day, Alberto Gomez, Paul Leeson, Bernhard Kainz* \
@@ -2374,7 +2374,7 @@
 **Learning Diffeomorphism for Image Registration with Time-Continuous Networks using Semigroup Regularization** \
 *Mohammadjavad Matinkia, Nilanjan Ray* \
 \[28th May, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2405.18684)] \[[GitHub](https://github.com/mattkia/SGDIR) ⭐ 21 | 🐛 4 | 🌐 Python | 📅 2026-07-02]
+\[[Paper](https://arxiv.org/abs/2405.18684)] \[[GitHub](https://github.com/mattkia/SGDIR) ⭐ 21 | 🐛 5 | 🌐 Python | 📅 2026-07-02]
 
 **FSDiffReg: Feature-wise and Score-wise Diffusion-guided Unsupervised Deformable Image Registration for Cardiac Images** \
 *Yi Qin, Xiaomeng Li* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
