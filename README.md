@@ -1,6 +1,6 @@
 # Awesome Diffusion Models in Medical Imaging with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) ⭐ 2,109 | 🐛 2 | 📅 2025-11-17
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) ⭐ 2,108 | 🐛 2 | 📅 2025-11-17
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire: This is a collection of awesome articles about diffusion models in medical imaging:fire::fire:
@@ -1566,7 +1566,7 @@
 **Ultrasound Image Generation using Latent Diffusion Models** \
 *Benoit Freiche, Anthony El-Khoury, Ali Nasiri-Sarvi, Mahdi S. Hosseini, Damien Garcia, Adrian Basarab, Mathieu Boily, Hassan Rivaz* \
 \[12th Feb., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2502.08580v1)] <https://github.com/Toterino/US-image-generation> ⭐ 7 | 🐛 1 | 📅 2024-09-03
+\[[Paper](http://arxiv.org/abs/2502.08580v1)] <https://github.com/Toterino/US-image-generation> ⭐ 6 | 🐛 1 | 📅 2024-09-03
 
 **Ambient Denoising Diffusion Generative Adversarial Networks for Establishing Stochastic Object Models from Noisy Image Data** \
 *Xichen Xu, Wentao Chen, Weimin Zhou* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
