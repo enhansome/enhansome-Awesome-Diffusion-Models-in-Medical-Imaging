@@ -195,7 +195,7 @@
 **Diffusion Models: A Comprehensive Survey of Methods and Applications** \
 *Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang* \
 \[2nd Sep., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,364 | 🐛 6 | 📅 2025-09-27]
+\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,365 | 🐛 6 | 📅 2025-09-27]
 
 ## Challenge Reports
 
@@ -509,7 +509,7 @@
 **Unleashing Diffusion and State Space Models for Medical Image Segmentation** \
 *Rong Wu, Ziqi Chen, Liming Zhong, Heng Li, Hai Shu* \
 \[15th Jun., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2506.12747v2)] \[[Github](https://github.com/Rows21/k-Means_Mask_Mamba) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-11-13]
+\[[Paper](http://arxiv.org/abs/2506.12747v2)] \[[Github](https://github.com/Rows21/k-Means_Mask_Mamba) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2025-11-13]
 
 **Enhancing Privacy: The Utility of Stand-Alone Synthetic CT and MRI for Tumor and Bone Segmentation** \
 *André Ferreira, Kunpeng Xie, Caroline Wilpert, Gustavo Correia, Felix Barajas Ordonez, Tiago Gil Oliveira, Maike Bode, Robert Siepmann, Frank Hölzle, Rainer Röhrig, Jens Kleesiek, Daniel Truhn, Jan Egger, Victor Alves, Behrus Puladi* \
@@ -629,7 +629,7 @@
 **Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model** \
 *Kun Zhao, Jakub Prokop, Javier Montalt Tordera, Sadegh Mohammadi* \
 \[19th Jul., 2024] \[DGM4MICCAI, 2024] \
-\[[Paper](https://arxiv.org/abs/2407.14326)] \[[GitHub](https://github.com/NVlabs/ODISE) ⭐ 945 | 🐛 57 | 🌐 Python | 📅 2024-07-06]
+\[[Paper](https://arxiv.org/abs/2407.14326)] \[[GitHub](https://github.com/NVlabs/ODISE) ⭐ 944 | 🐛 57 | 🌐 Python | 📅 2024-07-06]
 
 **Denoising Diffusions in Latent Space for Medical Image Segmentation** \
 *Fahim Ahmed Zaman, Mathews Jacob, Amanda Chang, Kan Liu, Milan Sonka, Xiaodong Wu* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,524 | 🐛 123 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,525 | 🐛 123 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
