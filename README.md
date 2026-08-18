@@ -195,7 +195,7 @@
 **Diffusion Models: A Comprehensive Survey of Methods and Applications** \
 *Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang* \
 \[2nd Sep., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,365 | 🐛 6 | 📅 2025-09-27]
+\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,364 | 🐛 6 | 📅 2025-09-27]
 
 ## Challenge Reports
 
@@ -629,7 +629,7 @@
 **Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model** \
 *Kun Zhao, Jakub Prokop, Javier Montalt Tordera, Sadegh Mohammadi* \
 \[19th Jul., 2024] \[DGM4MICCAI, 2024] \
-\[[Paper](https://arxiv.org/abs/2407.14326)] \[[GitHub](https://github.com/NVlabs/ODISE) ⭐ 944 | 🐛 57 | 🌐 Python | 📅 2024-07-06]
+\[[Paper](https://arxiv.org/abs/2407.14326)] \[[GitHub](https://github.com/NVlabs/ODISE) ⭐ 943 | 🐛 57 | 🌐 Python | 📅 2024-07-06]
 
 **Denoising Diffusions in Latent Space for Medical Image Segmentation** \
 *Fahim Ahmed Zaman, Mathews Jacob, Amanda Chang, Kan Liu, Milan Sonka, Xiaodong Wu* \
@@ -739,7 +739,7 @@
 **Towards Generic Semi-Supervised Framework for Volumetric Medical Image Segmentation** \
 *Haonan Wang, Xiaomeng Li* \
 \[17th Oct., 2023] \[NeurIPS, 2023] \
-\[[Paper](https://openreview.net/forum?id=NibgkUin5n)] \[[Github](https://github.com/xmed-lab/GenericSSL) ⭐ 116 | 🐛 6 | 🌐 Python | 📅 2024-06-04]
+\[[Paper](https://openreview.net/forum?id=NibgkUin5n)] \[[Github](https://github.com/xmed-lab/GenericSSL) ⭐ 117 | 🐛 6 | 🌐 Python | 📅 2024-06-04]
 
 **Certification of Deep Learning Models for Medical Image Segmentation** \
 *Othmane Laousy, Alexandre Araujo, Guillaume Chassagnon, Nikos Paragios, Marie-Pierre Revel, Maria Vakalopoulou* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,525 | 🐛 123 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,526 | 🐛 123 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -1601,7 +1601,7 @@
 **cWDM: Conditional Wavelet Diffusion Models for Cross-Modality 3D Medical Image Synthesis** \
 *Paul Friedrich, Alicia Durrer, Julia Wolleb, Philippe C. Cattin* \
 \[26th Nov., 2024] \[BraTS, 2024] \
-\[[Paper](http://arxiv.org/abs/2411.17203v1)] \[[GitHub](https://github.com/pfriedri/cwdm) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2024-11-27]
+\[[Paper](http://arxiv.org/abs/2411.17203v1)] \[[GitHub](https://github.com/pfriedri/cwdm) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2024-11-27]
 
 **Counterfactual MRI Data Augmentation using Conditional Denoising Diffusion Generative Models** \
 *Pedro Morão, Joao Santinha, Yasna Forghani, Nuno Loução, Pedro Gouveia, Mario A. T. Figueiredo* \
@@ -1921,7 +1921,7 @@
 **WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis** \
 *Paul Friedrich, Julia Wolleb, Florentin Bieder, Alicia Durrer, Philippe C. Cattin* \
 \[29th Feb., 2024] \[DGM4MICCAI, 2024] \
-\[[Paper](https://arxiv.org/abs/2402.19043)] \[[Github](https://github.com/pfriedri/wdm-3d) ⭐ 138 | 🐛 1 | 🌐 Python | 📅 2025-09-01] \[[Project Page](https://pfriedri.github.io/wdm-3d-io/)]
+\[[Paper](https://arxiv.org/abs/2402.19043)] \[[Github](https://github.com/pfriedri/wdm-3d) ⭐ 139 | 🐛 1 | 🌐 Python | 📅 2025-09-01] \[[Project Page](https://pfriedri.github.io/wdm-3d-io/)]
 
 **Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models** \
 *Nicholas Konz, Yuwen Chen, Haoyu Dong, Maciej A. Mazurowski* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
