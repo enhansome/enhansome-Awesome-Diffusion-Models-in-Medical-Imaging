@@ -839,7 +839,7 @@
 **Diff-UNet: A Diffusion Embedded Network for Volumetric Segmentation** \
 *Zhaohu Xing, Liang Wan, Huazhu Fu, Guang Yang, Lei Zhu* \
 \[18th Mar., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2303.10326)] \[[Github](https://github.com/ge-xing/Diff-UNet) ⭐ 197 | 🐛 34 | 🌐 Python | 📅 2024-03-22]
+\[[Paper](https://arxiv.org/abs/2303.10326)] \[[Github](https://github.com/ge-xing/Diff-UNet) ⭐ 198 | 🐛 34 | 🌐 Python | 📅 2024-03-22]
 
 **Stochastic Segmentation with Conditional Categorical Diffusion Models** \
 *Lukas Zbinden, Lars Doorenbos, Theodoros Pissas, Raphael Sznitman, Pablo Márquez-Neila* \
