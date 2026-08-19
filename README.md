@@ -1,6 +1,6 @@
 # Awesome Diffusion Models in Medical Imaging with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) ⭐ 2,108 | 🐛 2 | 📅 2025-11-17
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) ⭐ 2,109 | 🐛 2 | 📅 2025-11-17
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire: This is a collection of awesome articles about diffusion models in medical imaging:fire::fire:
@@ -95,7 +95,7 @@
 **Diffusion Models in Low-Level Vision: A Survey** \
 *Chunming He, Yuqi Shen, Chengyu Fang, Fengyang Xiao, Longxiang Tang, Yulun Zhang, Wangmeng Zuo, Zhenhua Guo, Xiu Li* \
 \[16th Jun., 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2406.11138)] \[[GitHub](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) ⭐ 556 | 🐛 2 | 📅 2025-02-23]
+\[[Paper](https://arxiv.org/abs/2406.11138)] \[[GitHub](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) ⭐ 557 | 🐛 2 | 📅 2025-02-23]
 
 **Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review** \
 *Mohammadreza Amirian, Daniel Barco, Ivo Herzig, Frank-Peter Schilling* \
@@ -589,7 +589,7 @@
 **Comparative Study of Probabilistic Atlas and Deep Learning Approaches for Automatic Brain Tissue Segmentation from MRI Using N4 Bias Field Correction and Anisotropic Diffusion Pre-processing Techniques** \
 *Mohammad Imran Hossain, Muhammad Zain Amin, Daniel Tweneboah Anyimadu, Taofik Ahmed Suleiman* \
 \[08th Nov., 2024] \[arXiv, 2024] \
-\[[Paper](http://arxiv.org/abs/2411.05456v1)] \[[GitHub](https://github.com/imran-maia/IBSR_18_BraTSeg_Deep_Learning) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-02]
+\[[Paper](http://arxiv.org/abs/2411.05456v1)] \[[GitHub](https://github.com/imran-maia/IBSR_18_BraTSeg_Deep_Learning) ⭐ 1 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-02]
 
 **Generalizable Single-Source Cross-modality Medical Image Segmentation via Invariant Causal Mechanisms** \
 *Boqi Chen, Yuanzhi Zhu, Yunke Ao, Sebastiano Caprara, Reto Sutter, Gunnar Rätsch, Ender Konukoglu, Anna Susmelj* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
