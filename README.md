@@ -195,7 +195,7 @@
 **Diffusion Models: A Comprehensive Survey of Methods and Applications** \
 *Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang* \
 \[2nd Sep., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,364 | 🐛 6 | 📅 2025-09-27]
+\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,363 | 🐛 6 | 📅 2025-09-27]
 
 ## Challenge Reports
 
@@ -1053,7 +1053,7 @@
 **Class-Guided Image-to-Image Diffusion: Cell Painting from Brightfield Images with Class Labels** \
 *Jan Oscar Cross-Zamirski, Praveen Anand, Guy Williams, Elizabeth Mouchet, Yinhai Wang, Carola-Bibiane Schönlieb* \
 \[15th Mar., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2303.08863)] \[[Github](https://github.com/crosszamirski/guided-I2I) ⭐ 54 | 🐛 2 | 🌐 Python | 📅 2023-03-17]
+\[[Paper](https://arxiv.org/abs/2303.08863)] \[[Github](https://github.com/crosszamirski/guided-I2I) ⭐ 55 | 🐛 2 | 🌐 Python | 📅 2023-03-17]
 
 **Diffusion Models for Contrast Harmonization of Magnetic Resonance Images** \
 *Alicia Durrer, Julia Wolleb, Florentin Bieder, Tim Sinnecker, Matthias Weigel, Robin Sandkühler, Cristina Granziera, Özgür Yaldizli, Philippe C. Cattin* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
