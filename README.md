@@ -80,7 +80,7 @@
 **Foundation Models for Music: A Survey** \
 *Yinghao Ma, Anders Øland, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elona Shatri, Fabio Morreale, Ge Zhang, György Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen, Wenhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, Ziyu Wang* \
 \[26th Aug., 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2408.14340)] \[[GitHub](https://github.com/nicolaus625/FM4Music) ⭐ 225 | 🐛 2 | 📅 2024-09-04] \[Music Generation - Music Therapy & Medical Applications]
+\[[Paper](https://arxiv.org/abs/2408.14340)] \[[GitHub](https://github.com/nicolaus625/FM4Music) ⭐ 226 | 🐛 2 | 📅 2024-09-04] \[Music Generation - Music Therapy & Medical Applications]
 
 **A Comprehensive Survey on Diffusion Models and Their Applications** \
 *Md Manjurul Ahsan, Shivakumar Raman, Yingtao Liu, Zahed Siddique* \
@@ -95,7 +95,7 @@
 **Diffusion Models in Low-Level Vision: A Survey** \
 *Chunming He, Yuqi Shen, Chengyu Fang, Fengyang Xiao, Longxiang Tang, Yulun Zhang, Wangmeng Zuo, Zhenhua Guo, Xiu Li* \
 \[16th Jun., 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2406.11138)] \[[GitHub](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) ⭐ 555 | 🐛 2 | 📅 2025-02-23]
+\[[Paper](https://arxiv.org/abs/2406.11138)] \[[GitHub](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) ⭐ 556 | 🐛 2 | 📅 2025-02-23]
 
 **Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review** \
 *Mohammadreza Amirian, Daniel Barco, Ivo Herzig, Frank-Peter Schilling* \
@@ -1916,7 +1916,7 @@
 **Towards Generalizable Tumor Synthesis** \
 *Qi Chen, Xiaoxi Chen, Haorui Song, Zhiwei Xiong, Alan Yuille, Chen Wei, Zongwei Zhou* \
 \[29th Feb., 2024] \[CVPR, 2024] \
-\[[Paper](https://arxiv.org/abs/2402.19470)] \[[Github](https://github.com/MrGiovanni/DiffTumor) ⭐ 219 | 🐛 13 | 🌐 Python | 📅 2026-02-18]
+\[[Paper](https://arxiv.org/abs/2402.19470)] \[[Github](https://github.com/MrGiovanni/DiffTumor) ⭐ 219 | 🐛 13 | 🌐 Python | 📅 2026-08-25]
 
 **WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis** \
 *Paul Friedrich, Julia Wolleb, Florentin Bieder, Alicia Durrer, Philippe C. Cattin* \
@@ -2532,7 +2532,7 @@
 **InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model** \
 *Jueqi Wang, Jacob Levman, Walter Hugo Lopez Pinaya, Petru-Daniel Tudosiu, M. Jorge Cardoso, Razvan Marinescu* \
 \[23rd Aug, 2023] \[MICCAI, 2023] \
-\[[Paper](https://arxiv.org/abs/2308.12465)] \[[GitHub](https://github.com/BioMedAI-UCSC/InverseSR) ⭐ 78 | 🐛 10 | 🌐 Python | 📅 2024-08-06]
+\[[Paper](https://arxiv.org/abs/2308.12465)] \[[GitHub](https://github.com/BioMedAI-UCSC/InverseSR) ⭐ 78 | 🐛 10 | 🌐 Python | 📅 2026-08-25]
 
 **Self-similarity-based super-resolution of photoacoustic angiography from hand-drawn doodles** \
 *Yuanzheng Ma, Wangting Zhou, Rui Ma, Sihua Yang, Yansong Tang, Xun Guan* \
