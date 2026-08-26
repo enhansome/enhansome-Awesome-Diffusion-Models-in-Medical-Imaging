@@ -654,7 +654,7 @@
 **HiDiff: Hybrid Diffusion Framework for Medical Image Segmentation** \
 *Tao Chen, Chenhui Wang, Zhihao Chen, Yiming Lei, Hongming Shan* \
 \[3rd Jul., 2024] \[IEEE TMI, 2024] \
-\[[Paper](https://arxiv.org/abs/2407.03548)] \[[GitHub](https://github.com/takimailto/HiDiff) ⭐ 57 | 🐛 7 | 🌐 Python | 📅 2024-04-03]
+\[[Paper](https://arxiv.org/abs/2407.03548)] \[[GitHub](https://github.com/takimailto/HiDiff) ⭐ 57 | 🐛 8 | 🌐 Python | 📅 2024-04-03]
 
 **Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process** \
 *Tianyu Lin, Zhiguang Chen, Zhonghao Yan, Weijiang Yu, Fudan Zheng* \
@@ -1247,7 +1247,7 @@
 **Learning Fourier-Constrained Diffusion Bridges for MRI Reconstruction** \
 *Muhammad U. Mirza, Onat Dalmaz, Hasan A. Bedel, Gokberk Elmas, Yilmaz Korkmaz, Alper Gungor, Salman UH Dar, Tolga Çukur* \
 \[4th Aug., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2308.01096)] \[[Github](https://github.com/icon-lab/FDB) ⭐ 41 | 🐛 2 | 🌐 Python | 📅 2023-12-20]
+\[[Paper](https://arxiv.org/abs/2308.01096)] \[[Github](https://github.com/icon-lab/FDB) ⭐ 41 | 🐛 3 | 🌐 Python | 📅 2023-12-20]
 
 **Fast and Stable Diffusion Inverse Solver with History Gradient Update** \
 *Linchao He, Hongyu Yan, Mengting Luo, Hongjie Wu, Kunming Luo, Wang Wang, Wenchao Du, Hu Chen, Hongyu Yang, Yi Zhang, Jiancheng Lv* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,530 | 🐛 123 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,533 | 🐛 123 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -1496,7 +1496,7 @@
 **MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs** \
 *Jiawei Mao, Yuhan Wang, Yucheng Tang, Daguang Xu, Kang Wang, Yang Yang, Zongwei Zhou, Yuyin Zhou* \
 \[09th Apr., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2504.06897v2)] \[[GitHub](https://github.com/jwmao1/MedSegFactory) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-01-26] \[[Project Page](https://jwmao1.github.io/MedSegFactory_web/)]
+\[[Paper](http://arxiv.org/abs/2504.06897v2)] \[[GitHub](https://github.com/jwmao1/MedSegFactory) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2026-01-26] \[[Project Page](https://jwmao1.github.io/MedSegFactory_web/)]
 
 **Few-Shot Generation of Brain Tumors for Secure and Fair Data Sharing** \
 *Yongyi Shi, Ge Wang* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

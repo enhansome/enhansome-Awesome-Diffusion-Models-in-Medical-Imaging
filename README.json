@@ -30,7 +30,7 @@
             "last_commit": "2024-07-01T14:33:54Z",
             "owner": "Project-MONAI",
             "repo": "GenerativeModels",
-            "stars": 761
+            "stars": 760
           }
         },
         {
@@ -1603,7 +1603,7 @@
                 "last_commit": "2026-08-13T20:13:38Z",
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2530
+                "stars": 2533
               }
             },
             {
@@ -1768,7 +1768,7 @@
                 "last_commit": "2026-01-26T23:18:44Z",
                 "owner": "jwmao1",
                 "repo": "MedSegFactory",
-                "stars": 44
+                "stars": 45
               }
             },
             {
@@ -2335,7 +2335,7 @@
                 "archived": false,
                 "id": 763854539,
                 "language": "Python",
-                "last_commit": "2026-08-25T13:30:04Z",
+                "last_commit": "2026-08-25T17:15:36Z",
                 "owner": "MrGiovanni",
                 "repo": "DiffTumor",
                 "stars": 219
@@ -3342,7 +3342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:04:08.435Z",
+    "last_updated": "2026-08-26T15:52:04.098Z",
     "original_repository": "amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging",
     "original_repository_id": 540766853,
     "original_repository_sha": "4278133236ad3cc9012ec13698302dea53c02192",
