@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,533 | 🐛 123 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,533 | 🐛 124 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -2899,7 +2899,7 @@
 **DUE: Dynamic Uncertainty-Aware Explanation Supervision via 3D Imputation** \
 *Qilong Zhao, Yifei Zhang, Mengdan Zhu, Siyi Gu, Yuyang Gao, Xiaofeng Yang, Liang Zhao* \
 \[16th Feb., 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2403.10831)] \[[GitHub](https://github.com/AlexQilong/DUE) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2024-04-13]
+\[[Paper](https://arxiv.org/abs/2403.10831)] \[[GitHub](https://github.com/AlexQilong/DUE) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2024-04-13]
 
 **Statistical Test for Generated Hypotheses by Diffusion Models** \
 *Teruyuki Katsuoka, Tomohiro Shiraishi, Daiki Miwa, Vo Nguyen Le Duy, Ichiro Takeuchi* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

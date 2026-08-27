@@ -3254,7 +3254,7 @@
                 "last_commit": "2024-04-13T13:08:10Z",
                 "owner": "AlexQilong",
                 "repo": "DUE",
-                "stars": 0
+                "stars": 1
               }
             },
             {
@@ -3342,9 +3342,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:52:04.098Z",
-    "original_repository": "amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging",
-    "original_repository_id": 540766853,
+    "last_updated": "2026-08-27T11:22:33.407Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 540766853,
+      "language": null,
+      "last_commit": "2025-11-17T17:13:18Z",
+      "owner": "amirhossein-kz",
+      "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
+      "stars": 2109
+    },
     "original_repository_sha": "4278133236ad3cc9012ec13698302dea53c02192",
     "enhanced_repository": "enhansome/enhansome-Awesome-Diffusion-Models-in-Medical-Imaging",
     "enhanced_repository_description": null,
