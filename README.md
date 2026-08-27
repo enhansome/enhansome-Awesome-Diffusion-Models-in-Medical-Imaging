@@ -190,7 +190,7 @@
 **A Survey on Generative Diffusion Model** \
 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* \
 \[6th Sep., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/pdf/2209.02646.pdf)] \[[Github](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) ⭐ 971 | 🐛 2 | 📅 2023-10-18]
+\[[Paper](https://arxiv.org/pdf/2209.02646.pdf)] \[[Github](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) ⭐ 972 | 🐛 2 | 📅 2023-10-18]
 
 **Diffusion Models: A Comprehensive Survey of Methods and Applications** \
 *Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang* \
@@ -1247,7 +1247,7 @@
 **Learning Fourier-Constrained Diffusion Bridges for MRI Reconstruction** \
 *Muhammad U. Mirza, Onat Dalmaz, Hasan A. Bedel, Gokberk Elmas, Yilmaz Korkmaz, Alper Gungor, Salman UH Dar, Tolga Çukur* \
 \[4th Aug., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2308.01096)] \[[Github](https://github.com/icon-lab/FDB) ⭐ 41 | 🐛 3 | 🌐 Python | 📅 2023-12-20]
+\[[Paper](https://arxiv.org/abs/2308.01096)] \[[Github](https://github.com/icon-lab/FDB) ⭐ 41 | 🐛 4 | 🌐 Python | 📅 2023-12-20]
 
 **Fast and Stable Diffusion Inverse Solver with History Gradient Update** \
 *Linchao He, Hongyu Yan, Mengting Luo, Hongjie Wu, Kunming Luo, Wang Wang, Wenchao Du, Hu Chen, Hongyu Yang, Yi Zhang, Jiancheng Lv* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,533 | 🐛 124 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,534 | 🐛 124 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -1781,7 +1781,7 @@
 **U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation** \
 *Chenxin Li, Xinyu Liu, Wuyang Li, Cheng Wang, Hengyu Liu, Yixuan Yuan* \
 \[5th Jun, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2406.02918)] \[[GitHub](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 552 | 🐛 40 | 🌐 Python | 📅 2025-06-23] \[[Website](https://yes-ukan.github.io/)]
+\[[Paper](https://arxiv.org/abs/2406.02918)] \[[GitHub](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 553 | 🐛 40 | 🌐 Python | 📅 2025-06-23] \[[Website](https://yes-ukan.github.io/)]
 
 **EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing** \
 *Hadrien Reynaud, Qingjie Meng, Mischa Dombrowski, Arijit Ghosh, Thomas Day, Alberto Gomez, Paul Leeson, Bernhard Kainz* \
