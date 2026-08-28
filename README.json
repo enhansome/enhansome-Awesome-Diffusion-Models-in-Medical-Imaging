@@ -16,7 +16,8 @@
             "owner": "ChunmingHe",
             "repo": "awesome-diffusion-models-in-low-level-vision",
             "stars": 556
-          }
+          },
+          "first_seen": "2026-08-28T23:33:07.770Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Project-MONAI",
             "repo": "GenerativeModels",
             "stars": 760
-          }
+          },
+          "first_seen": "2026-08-28T23:33:07.770Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "CroitoruAlin",
             "repo": "Diffusion-Models-in-Vision-A-Survey",
             "stars": 405
-          }
+          },
+          "first_seen": "2026-08-28T23:33:07.770Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "chq1155",
             "repo": "A-Survey-on-Generative-Diffusion-Model",
             "stars": 972
-          }
+          },
+          "first_seen": "2026-08-28T23:33:07.770Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2025-09-27T02:49:32Z",
             "owner": "YangLing0818",
             "repo": "Diffusion-Models-Papers-Survey-Taxonomy",
-            "stars": 3363
-          }
+            "stars": 3364
+          },
+          "first_seen": "2026-08-28T23:33:07.770Z"
         }
       ],
       "title": "Survey Papers"
@@ -99,7 +104,8 @@
                 "owner": "FinnBehrendt",
                 "repo": "Mahalanobis-Unsupervised-Anomaly-Detection",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "vivekkumartri",
                 "repo": "MCDDPM",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "FinnBehrendt",
                 "repo": "Ensembled-SSIM-for-Unsupervised-Anomaly-Detection",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "FinnBehrendt",
                 "repo": "Supervised-Anomaly-Detection-with-Diffusion-Models",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "ci-ber",
                 "repo": "THOR_DDPM",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "AlexanderFrotscher",
                 "repo": "ANDi",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "FinnBehrendt",
                 "repo": "Conditioned-Diffusion-Models-UAD",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "evihuijben",
                 "repo": "mood_challenge",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "ZiyunLiang",
                 "repo": "MMCCD",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -233,8 +247,9 @@
                 "last_commit": "2024-09-02T16:32:27Z",
                 "owner": "alessandro-f",
                 "repo": "Dif-fuse",
-                "stars": 18
-              }
+                "stars": 19
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -249,7 +264,8 @@
                 "owner": "hasan1292",
                 "repo": "mDDPM",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -264,7 +280,8 @@
                 "owner": "FinnBehrendt",
                 "repo": "patched-Diffusion-Models-UAD",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -279,7 +296,8 @@
                 "owner": "AntanasKascenas",
                 "repo": "DenoisingAE",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -294,7 +312,8 @@
                 "owner": "vios-s",
                 "repo": "Diff-SCM",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -309,7 +328,8 @@
                 "owner": "Julian-Wyatt",
                 "repo": "AnoDDPM",
                 "stars": 218
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -324,7 +344,8 @@
                 "owner": "JuliaWolleb",
                 "repo": "diffusion-anomaly",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             }
           ],
           "description": "Denoising Diffusion Models for Anomaly Localization in Medical Images Cosmin I. Bercea, Philippe C. Cattin, Julia A. Schnabel, Julia Wolleb [31th Oct., 2024] [arXiv, 2024] [Paper]\nCADD: Context aware disease deviations via restoration of brain images using normative conditional diffusion models Ana Lawry Aguila, Ayodeji Ijishakin, Juan Eugenio Iglesias, Tomomi Takenaga, Yukihiro Nomura, Takeharu Yoshikawa, Osamu Abe, Shouhei Hanaoka [05th Aug., 2025] [arXiv, 2025] [Paper]\nUnsupervised anomaly detection using Bayesian flow networks: application to brain FDG PET in the context of Alzheimer's disease Hugues Roy, Reuben Dorent, Ninon Burgos [23th Jul., 2025] [arXiv, 2025] [Paper]\nHarnessing EHRs for Diffusion-based Anomaly Detection on Chest X-rays Harim Kim, Yuhan Wang, Minkyu Ahn, Heeyoul Choi, Yuyin Zhou, Charmgil Hong [22th May., 2025] [arXiv, 2025] [Paper]\nHDM: Hybrid Diffusion Model for Unified Image Anomaly Detection Zekang Weng, Jinjin Shi, Jinwei Wang, Zeming Han [26th Feb., 2025] [arXiv, 2025] [Paper]\nMAD-AD: Masked Diffusion for Unsupervised Brain Anomaly Detection Farzad Beizaee, Gregory Lodygensky, Christian Desrosiers, Jose Dolz [24th Feb., 2025] [arXiv, 2025] [Paper]\nSynomaly Noise and Multi-Stage Diffusion: A Novel Approach for Unsupervised Anomaly Detection in Medical Images Yuan Bi, Lucie Huang, Ricarda Clarenbach, Reza Ghotbi, Angelos Karlas, Nassir Navab, Zhongliang Jiang [06th Nov., 2024] [arXiv, 2024] [Paper]\nObjective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model Sangjoon Park, Yong Bae Kim, Jee Suk Chang, Seo Hee Choi, Hyungjin Chung, Ik Jae Lee, Hwa Kyung Byun [28th Feb., 2024] [arXiv, 2024] [Paper]\nMAEDiff: Masked Autoencoder-enhanced Diffusion Models for Unsupervised Anomaly Detection in Brain Images Rui Xu, Yunke Wang, Bo Du [19th Jan., 2024] [arXiv, 2024] [Paper]\nDISYRE: Diffusion-Inspired SYnthetic REstoration for Unsupervised Anomaly Detection Sergio Naval Marimont, Matthew Baugh, Vasilis Siomos, Christos Tzelepis, Bernhard Kainz, Giacomo Tarroni [26th Nov., 2023] [arXiv, 2023] [Paper]\nAnoDODE: Anomaly Detection with Diffusion ODE Xianyao Hu, Congming Jin [10th Aug., 2023] [arXiv, 2023] [Paper]\nSANO: Score-Based Diffusion Model for Anomaly Localization in Dermatology Alvaro Gonzalez-Jimenez, Simone Lionetti, Marc Pouly, Alexander A. Navarini [18th Jun., 2023] [CVPR Workshop, 2023] paper]\nMask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models Cosmin I. Bercea, Michael Neumayr, Daniel Rueckert, Julia A. Schnabel [31st May, 2023] [arXiv, 2023] [Paper]\nReversing the Abnormal: Pseudo-Healthy Generative Networks for Anomaly Detection Cosmin I Bercea, Benedikt Wiestler, Daniel Rueckert, Julia A Schnabel [15th Mar., 2023] [arXiv, 2023] [Paper]\nDissolving Is Amplifying: Towards Fine-Grained Anomaly Detection Jian Shi, Pengyi Zhang, Ni Zhang, Hakim Ghazzai, Yehia Massoud [28th Feb., 2023] [arXiv, 2023] [Paper]\nThe Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models Julia Wolleb, Robin Sandkühler, Florentin Bieder, Philippe C. Cattin [6th Apr., 2022] [arXiv, 2022] [Paper]",
@@ -346,7 +367,8 @@
                 "owner": "Yuxin-Zhang-Jasmine",
                 "repo": "DRUSvar",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -361,7 +383,8 @@
                 "owner": "StanfordMIMI",
                 "repo": "DDM2",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -376,7 +399,8 @@
                 "owner": "DeweiHu",
                 "repo": "OCT_DDPM",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             }
           ],
           "description": "DiffDenoise: Self-Supervised Medical Image Denoising with Conditional Diffusion Models Basar Demir, Yikang Liu, Xiao Chen, Eric Z. Chen, Lin Zhao, Boris Mailhe, Terrence Chen, Shanhui Sun [31st Mar., 2025] [arXiv, 2025] [Paper]\nDose-aware Diffusion Model for 3D Low-dose PET: Multi-institutional Validation with Reader Study and Real Low-dose Data Huidong Xie, Weijie Gan, Bo Zhou, Ming-Kai Chen, Michal Kulon, Annemarie Boustani, Benjamin A. Spencer, Reimund Bayerlein, Xiongchao Chen, Qiong Liu, Xueqi Guo, Menghua Xia, Yinchi Zhou, Hui Liu, Liang Guo, Hongyu An, Ulugbek S. Kamilov, Hanzhong Wang, Biao Li, Axel Rominger, Kuangyu Shi, Ge Wang, Ramsey D. Badawi, Chi Liu [2nd May, 2024] [arXiv, 2024] [Paper]\nImplicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising Yuang Wang, Siyeop Yoon, Pengfei Jin, Matthew Tivnan, Zhennong Chen, Rui Hu, Li Zhang, Zhiqiang Chen, Quanzheng Li, Dufan Wu [10th Mar., 2024] [arXiv, 2024] [Paper]\nSDDPM: Speckle Denoising Diffusion Probabilistic Models Soumee Guha, Scott T. Acton [17th Nov., 2023] [arXiv, 2023] [Paper]\nDeep Ultrasound Denoising Using Diffusion Probabilistic Models Hojat Asgariandehkordi, Sobhan Goudarzi, Adrian Basarab, Hassan Rivaz [12th Jun., 2023] [arXiv, 2023] [Paper]\nA Diffusion Probabilistic Prior for Low-Dose CT Image Denoising Xuan Liu, Yaoqin Xie, Songhui Diao, Shan Tan, Xiaokun Liang [25th May, 2023] [arXiv, 2023] [Paper]\nCoreDiff: Contextual Error-Modulated Generalized Diffusion Model for Low-Dose CT Denoising and Generalization Qi Gao, Zilong Li, Junping Zhang, Yi Zhang, Hongming Shan [4th Apr., 2023] [arXiv, 2023] [Paper]\nLow-Dose CT Using Denoising Diffusion Probabilistic Model for 20× Speedup Wenjun Xia, Qing Lyu, Ge Wang [29th Sep., 2022] [arXiv, 2022] [Paper]\nPET image denoising based on denoising diffusion probabilistic models Kuang Gong, Keith A. Johnson, Georges El Fakhri, Quanzheng Li, Tinsu Pan [13th Sep., 2022] [European Journal of Nuclear Medicine and Molecular Imaging, 2022] [Paper]",
@@ -398,7 +422,8 @@
                 "owner": "huynhspm",
                 "repo": "Data-Uncertainty",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -413,7 +438,8 @@
                 "owner": "biomedia-mira",
                 "repo": "flow-ssn",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -428,7 +454,8 @@
                 "owner": "Bekhouche",
                 "repo": "SegDT",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -443,7 +470,8 @@
                 "owner": "string-ellipses",
                 "repo": "DiffOSeg",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -458,7 +486,8 @@
                 "owner": "farheenjabeen",
                 "repo": "CLAIM-Scar-Synthesis",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -473,7 +502,8 @@
                 "owner": "abdur75648",
                 "repo": "Echo-DND",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -488,7 +518,8 @@
                 "owner": "Rows21",
                 "repo": "k-Means_Mask_Mamba",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -503,7 +534,8 @@
                 "owner": "andre-fs-ferreira",
                 "repo": "generative_networks",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -518,7 +550,8 @@
                 "owner": "ciampluca",
                 "repo": "diffusion_semi_supervised_biomedical_image_segmentation",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -533,7 +566,8 @@
                 "owner": "M3DV",
                 "repo": "DiffAtlas",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -548,7 +582,8 @@
                 "owner": "Hejrati",
                 "repo": "cDAL",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -563,7 +598,8 @@
                 "owner": "nmduonggg",
                 "repo": "FDDM",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -578,7 +614,8 @@
                 "owner": "luo-lorry",
                 "repo": "Stylized-Medical-Segmentation",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -593,7 +630,8 @@
                 "owner": "bwittmann",
                 "repo": "vesselFM",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -608,7 +646,8 @@
                 "owner": "ortonwang",
                 "repo": "ScribbleVS",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -623,7 +662,8 @@
                 "owner": "imran-maia",
                 "repo": "IBSR_18_BraTSeg_Deep_Learning",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -638,7 +678,8 @@
                 "owner": "ratschlab",
                 "repo": "ICMSeg",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -653,7 +694,8 @@
                 "owner": "DeweiHu",
                 "repo": "AdaptDiff",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -668,7 +710,8 @@
                 "owner": "NVlabs",
                 "repo": "ODISE",
                 "stars": 943
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -683,7 +726,8 @@
                 "owner": "LDSeg",
                 "repo": "LDSeg",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -698,7 +742,8 @@
                 "owner": "CUHK-AIM-Group",
                 "repo": "DiffRect",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -713,7 +758,8 @@
                 "owner": "wenyi-li",
                 "repo": "FairDiff",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -728,7 +774,8 @@
                 "owner": "chunmeifeng",
                 "repo": "TextDiff",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -743,7 +790,8 @@
                 "owner": "takimailto",
                 "repo": "HiDiff",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -758,7 +806,8 @@
                 "owner": "lin-tianyu",
                 "repo": "Stable-Diffusion-Seg",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -773,7 +822,8 @@
                 "owner": "LiuTingWed",
                 "repo": "CriDiff",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -788,7 +838,8 @@
                 "owner": "zenghy96",
                 "repo": "Reliable-Source-Approximation",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -803,7 +854,8 @@
                 "owner": "LanHEU",
                 "repo": "CTS",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -818,7 +870,8 @@
                 "owner": "leabogensperger",
                 "repo": "FlowSDF",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -833,7 +886,8 @@
                 "owner": "mobaidoctor",
                 "repo": "polyp-ddpm",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -848,7 +902,8 @@
                 "owner": "virginiafdez",
                 "repo": "brainSPADE3D_rel",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -863,7 +918,8 @@
                 "owner": "xmed-lab",
                 "repo": "GenericSSL",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -878,7 +934,8 @@
                 "owner": "othmanela",
                 "repo": "medical_cert_seg",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -893,7 +950,8 @@
                 "owner": "mathpluscode",
                 "repo": "ImgX-DiffSeg",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -908,7 +966,8 @@
                 "owner": "xmindflow",
                 "repo": "DermoSegDiff",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -923,7 +982,8 @@
                 "owner": "hectorcarrion",
                 "repo": "FEDD",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -938,7 +998,8 @@
                 "owner": "tomeramit",
                 "repo": "Annotator-Consensus-Prediction",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -953,7 +1014,8 @@
                 "owner": "xhu248",
                 "repo": "cond_ddpm_wsss",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -968,7 +1030,8 @@
                 "owner": "risc-mi",
                 "repo": "braintumor-ddpm",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -983,7 +1046,8 @@
                 "owner": "FengheTan9",
                 "repo": "Multi-Level-Global-Context-Cross-Consistency",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -998,7 +1062,8 @@
                 "owner": "aimansnigdha",
                 "repo": "Ambiguous-Medical-Image-Segmentation-using-Diffusion-Models",
                 "stars": 215
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1013,7 +1078,8 @@
                 "owner": "haipengzhou856",
                 "repo": "DPNet",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1028,7 +1094,8 @@
                 "owner": "ge-xing",
                 "repo": "Diff-UNet",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1043,7 +1110,8 @@
                 "owner": "LarsDoorenbos",
                 "repo": "ccdm-stochastic-segmentation",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1058,7 +1126,8 @@
                 "owner": "mathpluscode",
                 "repo": "ImgX-DiffSeg",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1073,7 +1142,8 @@
                 "owner": "ImprintLab",
                 "repo": "MedSegDiff",
                 "stars": 1363
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1088,7 +1158,8 @@
                 "owner": "ImprintLab",
                 "repo": "MedSegDiff",
                 "stars": 1363
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1103,7 +1174,8 @@
                 "owner": "JuliaWolleb",
                 "repo": "Diffusion-based-Segmentation",
                 "stars": 318
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             }
           ],
           "description": "LEAF: Latent Diffusion with Efficient Encoder Distillation for Aligned Features in Medical Image Segmentation Qilin Huang, Tianyu Lin, Zhiguang Chen, Fudan Zheng [24th Jul., 2025] [arXiv, 2025] [Paper] [Github]\nRobust Noisy Pseudo-label Learning for Semi-supervised Medical Image Segmentation Using Diffusion Model Lin Xi, Yingliang Ma, Cheng Wang, Sandra Howell, Aldo Rinaldi, Kawal S. Rhode [22nd Jul., 2025] [arXiv, 2025] [Paper]\nLatent Space Synergy: Text-Guided Data Augmentation for Direct Diffusion Biomedical Segmentation Muhammad Aqeel, Maham Nazir, Zanxi Ruan, Francesco Setti [21st Jul., 2025] [arXiv, 2025] [Paper]\nDiffusion Model-based Data Augmentation Method for Fetal Head Ultrasound Segmentation Fangyijie Wang, Kevin Whelan, Félix Balado, Kathleen M. Curran, Guénolé Silvestre [30th Jun., 2025] [arXiv, 2025] [Paper]\nContrastive Learning with Diffusion Features for Weakly Supervised Medical Image Segmentation Dewen Zeng, Xinrong Hu, Yu-Jen Chen, Yawen Wu, Xiaowei Xu, Yiyu Shi [30th Jun., 2025] [arXiv, 2025] [Paper]\nInpainting is All You Need: A Diffusion-based Augmentation Method for Semi-supervised Medical Image Segmentation Xinrong Hu, Yiyu Shi [28th Jun., 2025] [arXiv, 2025] [Paper]\nTumorGen: Boundary-Aware Tumor-Mask Synthesis with Rectified Flow Matching Shengyuan Liu, Wenting Chen, Boyun Zheng, Wentao Pan, Xiang Li, Yixuan Yuan [30th May, 2025] [arXiv, 2025] [Paper]\nBeyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization Abderrachid Hamrani, Daniela Leizaola, Renato Sousa, Jose P. Ponce, Stanley Mathis, David G. Armstrong, Anuradha Godavarty [24th Apr., 2025] [IEEE Journal of Biomedical and Health Informatics, 2025] [Paper]\nTextDiffSeg: Text-guided Latent Diffusion Model for 3d Medical Images Segmentation Kangbo Ma [16th Apr., 2025] [arXiv, 2025] [Paper]\nDiffusion Based Ambiguous Image Segmentation Jakob Lønborg Christensen, Morten Rieger Hannemose, Anders Bjorholm Dahl, Vedrana Andersen Dahl [08th Apr., 2025] [arXiv, 2025] [Paper]\nDiff-CL: A Novel Cross Pseudo-Supervision Method for Semi-supervised Medical Image Segmentation Xiuzhen Guo, Lianyuan Yu, Ji Shi, Na Lei, Hongxiao Wang [12th Mar., 2025] [arXiv, 2025] [Paper]\nMedical Semantic Segmentation with Diffusion Pretrain David Li, Anvar Kurmukov, Mikhail Goncharov, Roman Sokolov, Mikhail Belyaev [31st Jan., 2025] [arXiv, 2025] [Paper]\nMedSegDiffNCA: Diffusion Models With Neural Cellular Automata for Skin Lesion Segmentation Avni Mittal, John Kalkhof, Anirban Mukhopadhyay, Arnav Bhavsar [05th Jan., 2025] [arXiv, 2025] [Paper]\nEnhancing Medical Image Segmentation with Deep Learning and Diffusion Models Houze Liu, Tong Zhou, Yanlin Xiang, Aoran Shen, Jiacheng Hu, Junliang Du [21th Nov., 2024] [arXiv, 2024] [Paper]\nPGDiffSeg: Prior-Guided Denoising Diffusion Model with Parameter-Shared Attention for Breast Cancer Segmentation Feiyan Feng, Tianyu Liu, Hong Wang, Jun Zhao, Wei Li, Yanshen Sun [23th Oct., 2024] [arXiv, 2024] [Paper]\nDiffuse-UDA: Addressing Unsupervised Domain Adaptation in Medical Image Segmentation with Appearance and Structure Aligned Diffusion Models Haifan Gong, Yitao Wang, Yihan Wang, Jiashun Xiao, Xiang Wan, Haofeng Li [12th Aug., 2024] [arXiv, 2024] [Paper]\nAdvancing Medical Image Segmentation: Morphology-Driven Learning with Diffusion Transformer Sungmin Kang, Jaeha Song, Jihie Kim [1st Aug., 2024] [BMVC, 2024] [Paper]\nFDiff-Fusion:Denoising diffusion fusion network based on fuzzy learning for 3D medical image segmentation Weiping Ding, Sheng Geng, Haipeng Wang, Jiashuang Huang, Tianyi Zhou [21st Jul., 2024] [arXiv, 2024] [Paper]\nPancreatic Tumor Segmentation as Anomaly Detection in CT Images Using Denoising Diffusion Models Reza Babaei, Samuel Cheng, Theresa Thai, Shangqing Zhao [4th Jun., 2024] [arXiv, 2024] [Paper]\nDiscrepancy-based Diffusion Models for Lesion Detection in Brain MRI Keqiang Fan, Xiaohao Cai, Mahesan Niranjan [8th May, 2024] [arXiv, 2024] [Paper]\nDiffSeg: A Segmentation Model for Skin Lesions Based on Diffusion Difference Zhihao Shuai, Yinan Chen, Shunqiang Mao, Yihan Zho, Xiaohong Zhang [25th Apr., 2024] [arXiv, 2024] [Paper]\nAnalysing Diffusion Segmentation for Medical Images Mathias Öttl, Siyuan Mei, Frauke Wilm, Jana Steenpass, Matthias Rübner, Arndt Hartmann, Matthias Beckmann, Peter Fasching, Andreas Maier, Ramona Erber, Katharina Breininger [21st Mar., 2024] [arXiv, 2024] [Paper]\nDiffusion and Multi-Domain Adaptation Methods for Eosinophil Segmentation Kevin Lin, Donald Brown, Sana Syed, Adam Greene [17th Mar., 2024] [arXiv, 2024] [Paper]\nSurf-CDM: Score-Based Surface Cold-Diffusion Model For Medical Image Segmentation Fahim Ahmed Zaman, Mathews Jacob, Amanda Chang, Kan Liu, Milan Sonka, Xiaodong Wu [19th Dec., 2023] [arXiv, 2023] [Paper]\nLSegDiff: A Latent Diffusion Model for Medical Image Segmentation Fahim Ahmed Zaman, Mathews Jacob, Amanda Chang, Kan Liu, Milan Sonka, Xiaodong Wu [7th Dec., 2023] [SOICT, 2023] [Paper]\nRobust semi-supervised segmentation with timestep ensembling diffusion models Margherita Rosnati, Melanie Roschewitz, Ben Glocker [13th Nov., 2023] [arXiv, 2023] [Paper]\nOne-shot Localization and Segmentation of Medical Images with Foundation Models Deepa Anand, Gurunath Reddy M, Vanika Singhal, Dattesh D. Shanbhag, Shriram KS, Uday Patil, Chitresh Bhushan, Kavitha Manickam, Dawei Gui, Rakesh Mullick, Avinash Gopal, Parminder Bhatia, Taha Kass-Hout [28th Oct., 2023] [arXiv, 2023] [Paper]\nIntroducing Shape Prior Module in Diffusion Model for Medical Image Segmentation Zhiqing Zhang, Guojia Fan, Tianyong Liu, Nan Li, Yuyang Liu, Ziyu Liu, Canwei Dong, Shoujun Zhou [12th Aug., 2023] [arXiv, 2023] [Paper]\nMasked Diffusion as Self-supervised Representation Learner Zixuan Pan, Jianxu Chen, Yiyu Shi [10th Aug., 2023] [arXiv, 2023] [Paper]\nC-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation Boah Kim, Yujin Oh, Bradford J. Wood, Ronald M. Summers, Jong Chul Ye [31st Jul., 2023] [arXiv, 2023] [Paper]\nPre-Training with Diffusion models for Dental Radiography Segmentation Jérémy Rousseau, Christian Alaka, Emma Covili, Hippolyte Mayard, Laura Misrachi, Willy Au [26th Jul., 2023] [arXiv, 2023] [Paper]\nBrain tumor segmentation using synthetic MR images -- A comparison of GANs and diffusion models Muhammad Usman Akbar, Måns Larsson, and Anders Eklund [5th Jun., 2023] [arXiv, 2023] [Paper]\nUnsupervised Discovery of 3D Hierarchical Structure with Generative Diffusion Features Nurislam Tursynbek, Marc Niethammer [28th Apr., 2023] [arXiv, 2023] [Paper]\nDiffuseExpand: Expanding dataset for 2D medical image segmentation using diffusion models Shitong Shao, Xiaohan Yuan, Zhen Huang, Ziming Qiu, Shuai Wang, Kevin Zhou [26th Apr., 2023] [arXiv, 2023] [Paper] [Github]\nBerDiff: Conditional Bernoulli Diffusion Model for Medical Image Segmentation Tao Chen, Chenhui Wang, Hongming Shan [10th Apr., 2023] [arXiv, 2023] [Paper]\nDiffusion Models for Memory-efficient Processing of 3D Medical Images Florentin Bieder, Julia Wolleb, Alicia Durrer, Robin Sandkühler, Philippe C. Cattin [27th Mar., 2023] [MIDL, 2023] [Paper]\nScore-Based Generative Models for Medical Image Segmentation using Signed Distance Functions Lea Bogensperger, Dominik Narnhofer, Filip Ilic, Thomas Pock [10th Mar., 2023] [arXiv, 2023] [Paper]\nImproved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks Mathias Öttl, Jana Mönius, Matthias Rübner, Carol I. Geppert, Jingna Qiu, Frauke Wilm, Arndt Hartmann, Matthias W. Beckmann, Peter A. Fasching, Andreas Maier, Ramona Erber, Katharina Breininger [11th Nov., 2022] [ISBI, 2023] [Paper]\nAccelerating Diffusion Models via Pre-segmentation Diffusion Sampling for Medical Image Segmentation Xutao Guo, Yanwu Yang, Chenfei Ye, Shang Lu, Yang Xiang, Ting Ma [27th Oct., 2022] [ISBI, 2023] [Paper]\nDiffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation Boah Kim, Yujin Oh, Jong Chul Ye [19th Sep., 2022] [ICLR, 2023] [Paper]\nCan segmentation models be trained with fully synthetically generated data? Virginia Fernandez, Walter Hugo Lopez Pinaya, Pedro Borges, Petru-Daniel Tudosiu, Mark S Graham, Tom Vercauteren, M Jorge Cardoso [17th Sep., 2022] [MICCAI Workshop, 2022] [Paper]",
@@ -1125,7 +1197,8 @@
                 "owner": "AndreaMoschetto",
                 "repo": "medical-I2I-benchmark",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1140,7 +1213,8 @@
                 "owner": "ai-med",
                 "repo": "Cor2Vox",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1155,7 +1229,8 @@
                 "owner": "MICV-yonsei",
                 "repo": "CT2MRI",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1170,7 +1245,8 @@
                 "owner": "wongzbb",
                 "repo": "DiffMa-Diffusion-Mamba",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1185,7 +1261,8 @@
                 "owner": "mirthAI",
                 "repo": "Fast-DDPM",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1200,7 +1277,8 @@
                 "owner": "icon-lab",
                 "repo": "SelfRDB",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1215,7 +1293,8 @@
                 "owner": "jongdory",
                 "repo": "ALDM",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1230,7 +1309,8 @@
                 "owner": "Kent0n-Li",
                 "repo": "FGDM",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1245,7 +1325,8 @@
                 "owner": "crosszamirski",
                 "repo": "guided-I2I",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             }
           ],
           "description": "Human-Guided Shade Artifact Suppression in CBCT-to-MDCT Translation via Schrödinger Bridge with Conditional Diffusion Sung Ho Kang, Hyun-Cheol Park [15th Jul., 2025] [arXiv, 2025] [Paper]\nRegression is all you need for medical image translation Sebastian Rassmann, David Kügler, Christian Ewert, Martin Reuter [04th May, 2025] [arXiv, 2025] [Paper]\nDiffusion Bridge Models for 3D Medical Image Translation Shaorong Zhang, Tamoghna Chattopadhyay, Sophia I. Thomopoulos, Jose-Luis Ambite, Paul M. Thompson, Greg Ver Steeg [21st Apr., 2025] [arXiv, 2025] [Paper]\nStructure-Accurate Medical Image Translation via Dynamic Frequency Balance and Knowledge Guidance Jiahua Xu, Dawei Zhou, Lei Hu, Zaiyi Liu, Nannan Wang, Xinbo Gao [13th Apr., 2025] [arXiv, 2025] [Paper]\nseg2med: a bridge from artificial anatomy to multimodal medical images Zeyu Yang, Zhilin Chen, Yipeng Sun, Anika Strittmatter, Anish Raj, Ahmad Allababidi, Johann S. Rink, Frank G. Zöllner [12th Apr., 2025] [arXiv, 2025] [Paper]\nTranslation of Fetal Brain Ultrasound Images into Pseudo-MRI Images using Artificial Intelligence Naomi Silverstein, Efrat Leibowitz, Ron Beloosesky, Haim Azhari [03rd Apr., 2025] [arXiv, 2025] [Paper]\nDeterministic Medical Image Translation via High-fidelity Brownian Bridges Qisheng He, Nicholas Summerfield, Peiyong Wang, Carri Glide-Hurst, Ming Dong [28th Mar., 2025] [CVPR, 2025] [Paper]\nVasTSD: Learning 3D Vascular Tree-state Space Diffusion Model for Angiography Synthesis Zhifeng Wang, Renjiao Yi, Xin Wen, Chenyang Zhu, Kai Xu [17th Mar., 2025] [CVPR, 2025] [Paper] [GitHub]\nGeodesic Diffusion Models for Medical Image-to-Image Generation Teng Zhang, Hongxu Jiang, Kuang Gong, Wei Shao [2nd Mar., 2025] [arXiv, 2025] [Paper]\nTrustworthy image-to-image translation: evaluating uncertainty calibration in unpaired training scenarios Ciaran Bench, Emir Ahmed, Spencer A. Thomas [29th Jan., 2025] [IPMI, 2025] [Paper]\nIntroducing 3D Representation for Medical Image Volume-to-Volume Translation via Score Fusion Xiyue Zhu, Dou Hoon Kwark, Ruike Zhu, Kaiwen Hong, Yiqi Tao, Shirui Luo, Yudu Li, Zhi-Pei Liang, Volodymyr Kindratenko [13th Jan., 2025] [ICML, 2025] [Paper] [Project Page]\nMulti-Subject Image Synthesis as a Generative Prior for Single-Subject PET Image Reconstruction George Webber, Yuya Mizuno, Oliver D. Howes, Alexander Hammers, Andrew P. King, Andrew J. Reader [05th Dec., 2024] [IEEE Symposium on Nuclear Science (NSS/MIC), 2024] [Paper]\nCross-conditioned Diffusion Model for Medical Image to Image Translation Zhaohu Xing, Sicheng Yang, Sixiang Chen, Tian Ye, Yijun Yang, Jing Qin, Lei Zhu [12th Sep., 2024] [MICCAI, 2024] [Paper]\nBi-modality medical images synthesis by a bi-directional discrete process matching method Zhe Xiong, Qiaoqiao Ding, Xiaoqun Zhang [06th Sep., 2024] [arXiv, 2024] [Paper]\n2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction Tianqi Chen, Jun Hou, Yinchi Zhou, Huidong Xie, Xiongchao Chen, Qiong Liu, Xueqi Guo, Menghua Xia, James S. Duncan, Chi Liu, Bo Zhou [12th Jun., 2024] [arXiv, 2024] [Paper]\nSimilarity-aware Syncretic Latent Diffusion Model for Medical Image Translation with Representation Learning Tingyi Lin, Pengju Lyu, Jie Zhang, Yuqing Wang, Cheng Wang, Jianjun Zhu [19th Jun., 2024] [arXiv, 2024] [Paper]\nCascaded Multi-path Shortcut Diffusion Model for Medical Image Translation Yinchi Zhou, Tianqi Chen, Jun Hou, Huidong Xie, Nicha C. Dvornek, S. Kevin Zhou, David L. Wilson, James S. Duncan, Chi Liu, Bo Zhou [5th Apr., 2024] [MedIA, 2024] [Paper]\nDiffusion based Zero-shot Medical Image-to-Image Translation for Cross Modality Segmentation Zihao Wang, Yingyu Yang, Yuzhou Chen, Tingting Yuan, Maxime Sermesant, Herve Delingette, Ona Wu [1st Apr., 2024] [arXiv, 2024] [Paper]\nTackling Structural Hallucination in Image Translation with Local Diffusion Seunghoi Kim, Chen Jin, Tom Diethe, Matteo Figini, Henry F. J. Tregidgo, Asher Mullokandov, Philip Teare, Daniel C. Alexander [9th Apr., 2024] [arXiv, 2024] [Paper]\nMitigating analytical variability in fMRI results with style transfer Elodie Germani, Elisa Fromont, Camille Maumet [4th Apr., 2024] [arXiv, 2024] [Paper]\nContourDiff: Unpaired Image Translation with Contour-Guided Diffusion Models Yuwen Chen, Nicholas Konz, Hanxue Gu, Haoyu Dong, Yaqian Chen, Lin Li, Jisoo Lee, Maciej A. Mazurowski [16th Mar., 2024] [arXiv, 2024] [Paper]\nFDDM: Unsupervised Medical Image Translation with a Frequency-Decoupled Diffusion Model Yunxiang Li, Hua-Chieh Shao, Xiaoxue Qian, You Zhang [19th Nov., 2023] [arXiv, 2023] [Paper]\nCycle-guided Denoising Diffusion Probability Model for 3D Cross-modality MRI Synthesis Shaoyan Pan, Chih-Wei Chang, Junbo Peng, Jiahan Zhang, Richard L.J. Qiu, Tonghe Wang, Justin Roper, Tian Liu, Hui Mao, Xiaofeng Yang [28th Apr., 2023] [arXiv, 2023] [Paper]\nDiffusion Models for Contrast Harmonization of Magnetic Resonance Images Alicia Durrer, Julia Wolleb, Florentin Bieder, Tim Sinnecker, Matthias Weigel, Robin Sandkühler, Cristina Granziera, Özgür Yaldizli, Philippe C. Cattin [14th Mar., 2023] [MIDL, 2023] [Paper]\nZero-shot-Learning Cross-Modality Data Translation Through Mutual Information Guided Stochastic Diffusion Zihao Wang, Yingyu Yang, Maxime Sermesant, Hervé Delingette, Ona Wu [31st Jan., 2023] [arXiv, 2023] [Paper]\nBrain PET Synthesis from MRI Using Joint Probability Distribution of Diffusion Model at Ultrahigh Fields Xie Taofeng, Cao Chentao, Cui Zhuoxu, Li Fanshi, Wei Zidong, Zhu Yanjie, Li Ye, Liang Dong, Jin Qiyu, Chen Guoqing, Wang Haifeng [16th Nov., 2022] [arXiv, 2022] [Paper]\nConversion Between CT and MRI Images Using Diffusion and Score-Matching Models Qing Lyu, Ge Wang [24th Sep., 2022] [arXiv, 2022] [Paper]\nUnsupervised Medical Image Translation with Adversarial Diffusion Models Muzaffer Özbey, Salman UH Dar, Hasan A Bedel, Onat Dalmaz, Şaban Özturk, Alper Güngör, Tolga Çukur [17th Jul., 2022] [IEEE TMI Journal, 2022] [Paper]\nA Novel Unified Conditional Score-based Generative Framework for Multi-modal Medical Image Completion Xiangxi Meng, Yuning Gu, Yongsheng Pan, Nizhuan Wang, Peng Xue, Mengkang Lu, Xuming He, Yiqiang Zhan, Dinggang Shen [7th Jul., 2022] [arXiv, 2022] [Paper]",
@@ -1267,7 +1348,8 @@
                 "owner": "yqx7150",
                 "repo": "AMDM",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1282,7 +1364,8 @@
                 "owner": "GuoJiaqi-1020",
                 "repo": "RN-SDE",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1297,7 +1380,8 @@
                 "owner": "noamelata",
                 "repo": "AdaSense",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1312,7 +1396,8 @@
                 "owner": "yqx7150",
                 "repo": "DTM",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1327,7 +1412,8 @@
                 "owner": "FabianSBD",
                 "repo": "SBD-task-dependent",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1342,7 +1428,8 @@
                 "owner": "yqx7150",
                 "repo": "DP-MDM",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1357,7 +1444,8 @@
                 "owner": "alexdenker",
                 "repo": "eit_fenicsx",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1372,7 +1460,8 @@
                 "owner": "Z7Gao",
                 "repo": "MRPD",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1387,7 +1476,8 @@
                 "owner": "adahfbch",
                 "repo": "DGM-EIT",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1402,7 +1492,8 @@
                 "owner": "Yuxin-Zhang-Jasmine",
                 "repo": "DRUS-v1",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1417,7 +1508,8 @@
                 "owner": "icon-lab",
                 "repo": "FDB",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1432,7 +1524,8 @@
                 "owner": "Sriram-Ravula",
                 "repo": "MRI_Sampling_Diffusion",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1447,7 +1540,8 @@
                 "owner": "hyungjin-chung",
                 "repo": "DiffusionMBIR",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1462,7 +1556,8 @@
                 "owner": "yqx7150",
                 "repo": "HKGM",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1477,7 +1572,8 @@
                 "owner": "yqx7150",
                 "repo": "WKGM",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1492,7 +1588,8 @@
                 "owner": "cpeng93",
                 "repo": "DiffuseRecon",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1507,7 +1604,8 @@
                 "owner": "Theodore-PKU",
                 "repo": "MC-DDPM",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1522,7 +1620,8 @@
                 "owner": "mrirecon",
                 "repo": "spreco",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1536,8 +1635,9 @@
                 "last_commit": "2022-06-20T18:37:17Z",
                 "owner": "yang-song",
                 "repo": "score_inverse_problems",
-                "stars": 272
-              }
+                "stars": 271
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1551,8 +1651,9 @@
                 "last_commit": "2022-06-20T18:37:17Z",
                 "owner": "yang-song",
                 "repo": "score_inverse_problems",
-                "stars": 272
-              }
+                "stars": 271
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1567,7 +1668,8 @@
                 "owner": "utcsilab",
                 "repo": "csgm-mri-langevin",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             }
           ],
           "description": "PET Image Reconstruction Using Deep Diffusion Image Prior Fumio Hashimoto, Kuang Gong [20th Jul., 2025] [arXiv, 2025] [Paper]\nPhysics-informed guided diffusion for accelerated multi-parametric MRI reconstruction Perla Mayo, Carolin M. Pirkl, Alin Achim, Bjoern Menze, Mohammad Golbabaee [29th Jun., 2025] [arXiv, 2025] [Paper]\nPersonalized MR-Informed Diffusion Models for 3D PET Image Reconstruction George Webber, Alexander Hammers, Andrew P. King, Andrew J. Reader [04th Jun., 2025] [arXiv, 2025] [Paper]\nPseudoinverse Diffusion Models for Generative CT Image Reconstruction from Low Dose Data Matthew Tivnan, Dufan Wu, Quanzheng Li [20th Feb., 2025] [arXiv, 2025] [Paper]\nWhen are Diffusion Priors Helpful in Sparse Reconstruction? A Study with Sparse-view CT Matt Y. Cheung, Sophia Zorek, Tucker J. Netherton, Laurence E. Court, Sadeer Al-Kindi, Ashok Veeraraghavan, Guha Balakrishnan [04th Feb., 2025] [ISBI, 2025] [Paper]\nSolving Blind Inverse Problems: Adaptive Diffusion Models for Motion-corrected Sparse-view 4DCT Antoine De Paepe, Alexandre Bousse, Clémentine Phung-Ngoc, Dimitris Visvikis [21st Jan., 2025] [arXiv, 2025] [Paper]\nBigger Isn't Always Better: Towards a General Prior for Medical Image Reconstruction Lukas Glaszner, Martin Zach [13th Jan., 2025] [DAGM, 2024] [Paper]\nA Conditional Diffusion Model for Electrical Impedance Tomography Image Reconstruction Shuaikai Shi, Ruiyuan Kang, Panos Liatsis [22th Dec., 2024] [arXiv, 2024] [Paper]\nLikelihood-Scheduled Score-Based Generative Modeling for Fully 3D PET Image Reconstruction George Webber, Yuya Mizuno, Oliver D. Howes, Alexander Hammers, Andrew P. King, Andrew J. Reader [05th Dec., 2024] [IEEE TMI, 2024] [Paper]\nDX2CT: Diffusion Model for 3D CT Reconstruction from Bi or Mono-planar 2D X-ray(s) Yun Su Jeong, Hye Bin Yoo, Il Yong Chun [13th Sep., 2024] [arXiv, 2024] [Paper] [[GitHub] \\ (https://www.github.com/intyeger/DX2CT)]\nDiffuX2CT: Diffusion Learning to Reconstruct CT Images from Biplanar X-Rays Xuhui Liu, Zhi Qiao, Runkun Liu, Hong Li, Juan Zhang, Xiantong Zhen, Zhen Qian, Baochang Zhang [18th Jul., 2024] [ECCV, 2025] [Paper]\nHighly Accelerated MRI via Implicit Neural Representation Guided Posterior Sampling of Diffusion Models Jiayue Chu, Chenhe Du, Xiyue Lin, Yuyao Zhang, Hongjiang Wei [2nd Jul., 2024] [MedIA, 2024] [Paper]\nDiffusionBlend: Learning 3D Image Prior through Position-aware Diffusion Score Blending for 3D Computed Tomography Reconstruction Bowen Song, Jason Hu, Zhaoxu Luo, Jeffrey A. Fessler, Liyue Shen [14th Jun., 2024] [arXiv, 2024] [Paper]\nLearning Image Priors through Patch-based Diffusion Models for Solving Inverse Problems Jason Hu, Bowen Song, Xiaojian Xu, Liyue Shen, Jeffrey A. Fessler [4th Jun., 2024] [arXiv, 2024] [Paper]\nDEFT: Efficient Finetuning of Conditional Diffusion Models by Learning the Generalised $h$-transform Alexander Denker, Francisco Vargas, Shreyas Padhy, Kieran Didi, Simon Mathis, Vincent Dutordoir, Riccardo Barbano, Emile Mathieu, Urszula Julia Komorowska, Pietro Lio [3rd Jun., 2024] [arXiv, 2024] [Paper]\nBlaze3DM: Marry Triplane Representation with Diffusion for 3D Medical Inverse Problem Solving Jia He, Bonan Li, Ge Yang, Ziwen Liu [24th May, 2024] [arXiv, 2024] [Paper]\nBi-level Guided Diffusion Models for Zero-Shot Medical Imaging Inverse Problems Hossein Askari, Fred Roosta, Hongfu Sun [4th Apr., 2024] [arXiv, 2024] [Paper]\nScore-Based Diffusion Models for Photoacoustic Tomography Image Reconstruction Sreemanti Dey, Snigdha Saha, Berthy T. Feng, Manxiu Cui, Laure Delisle, Oscar Leong, Lihong V. Wang, Katherine L. Bouman [30th Mar., 2024] [arXiv, 2024] [Paper]\nHyper-Diffusion: Estimating Epistemic and Aleatoric Uncertainty with a Single Model Matthew A. Chan, Maria J. Molina, Christopher A. Metzler [5th Feb., 2024] [arXiv, 2024] [Paper]\nSequential Diffusion-Guided Deep Image Prior For Medical Image Reconstruction Shijun Liang, Ismail Alkhouri, Qing Qu, Rongrong Wang, Saiprasad Ravishankar [06th Oct., 2024] [ICASSP, 2025] [Paper]\nSteerable Conditional Diffusion for Out-of-Distribution Adaptation in Medical Image Reconstruction Riccardo Barbano, Alexander Denker, Hyungjin Chung, Tae Hoon Roh, Simon Arridge, Peter Maass, Bangti Jin, Jong Chul Ye [28th Aug., 2023] [IEEE TMI, 2023] [Paper]\nFast and Stable Diffusion Inverse Solver with History Gradient Update Linchao He, Hongyu Yan, Mengting Luo, Hongjie Wu, Kunming Luo, Wang Wang, Wenchao Du, Hu Chen, Hongyu Yang, Yi Zhang, Jiancheng Lv [22th Jul., 2023] [arXiv, 2023] [Paper]\nSolving Inverse Problems with Latent Diffusion Models via Hard Data Consistency Bowen Song, Soo Min Kwon, Zecheng Zhang, Xinyu Hu, Qing Qu, Liyue Shen [16th Jul., 2023] [arXiv, 2023] [Paper]\nDiffuseIR: Diffusion Models For Isotropic Reconstruction of 3D Microscopic Images Mingjie Pan, Yulu Gan, Fangxu Zhou, Jiaming Liu, Aimin Wang, Shanghang Zhang, Dawei Li [21st Jun., 2023] [arXiv, 2023] [Paper]\nSolving Inverse Problems with Score-Based Generative Priors learned from Noisy Data Asad Aali, Marius Arvinte, Sidharth Kumar, Jonathan I. Tamir [2nd May, 2023] [arXiv, 2023] [Paper]\nSPIRiT-Diffusion: Self-Consistency Driven Diffusion Model for Accelerated MRI Zhuo-Xu Cui, Chentao Cao, Jing Cheng, Sen Jia, Hairong Zheng, Dong Liang, Yanjie Zhu [11th Apr., 2023] [arXiv, 2023] [Paper]\nSub-volume-based Denoising Diffusion Probabilistic Model for Cone-beam CT Reconstruction from Incomplete Data Wenjun Xia, Chuang Niu, Wenxiang Cong, Ge Wang [22nd Mar., 2023] [arXiv, 2023] [Paper]\nImproving 3D Imaging with Pre-Trained Perpendicular 2D Diffusion Models Suhyeon Lee, Hyungjin Chung, Minyoung Park, Jonghyuk Park, Wi-Sun Ryu, Jong Chul Ye [15th Mar., 2023] [arXiv, 2023] [Paper]\nFast Diffusion Sampler for Inverse Problems by Geometric Decomposition Hyungjin Chung, Suhyeon Lee, Jong Chul Ye [10th Mar., 2023] [arXiv, 2023] [Paper]\nDiffusion Denoising for Low-Dose-CT Model Runyi Li [27th Jan., 2023] [arXiv, 2023] [Paper]\nAnnealed Score-Based Diffusion Model for MR Motion Artifact Reduction Gyutaek Oh, Jeong Eun Lee, Jong Chul Ye [8th Jan., 2023] [arXiv, 2023] [Paper]\nUniversal Generative Modeling in Dual-domain for Dynamic MR Imaging Chuanming Yu, Yu Guan, Ziwen Ke, Dong Liang, Qiegen Liu [15th Dec., 2022] [arXiv, 2022] [Paper]\nSPIRiT-Diffusion: SPIRiT-driven Score-Based Generative Modeling for Vessel Wall imaging Chentao Cao, Zhuo-Xu Cui, Jing Cheng, Sen Jia, Hairong Zheng, Dong Liang, Yanjie Zhu [14th Dec., 2022] [arXiv, 2022] [Paper]\nOne Sample Diffusion Model in Projection Domain for Low-Dose CT Imaging Bin Huang, Liu Zhang, Shiyu Lu, Boyu Lin, Weiwen Wu, Qiegen Liu [7th Dec., 2022] [arXiv, 2022] [Paper]\nDOLCE: A Model-Based Probabilistic Diffusion Framework for Limited-Angle CT Reconstruction Jiaming Liu, Rushil Anirudh, Jayaraman J. Thiagarajan, Stewart He, K. Aditya Mohan, Ulugbek S. Kamilov, Hyojin Kim [22nd Nov., 2022] [arXiv, 2022] [Paper]\nPatch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction Wenjun Xia, Wenxiang Cong, Ge Wang [18th Nov., 2022] [arXiv, 2022] [Paper]\nAccelerated Motion Correction for MRI using Score-Based Generative Models Brett Levac, Ajil Jalal, Jonathan I. Tamir [1st Nov., 2022] [arXiv, 2022] [Paper]\nSelf-Score: Self-Supervised Learning on Score-Based Models for MRI Reconstruction Zhuo-Xu Cui, Chentao Cao, Shaonan Liu, Qingyong Zhu, Jing Cheng, Haifeng Wang, Yanjie Zhu, Dong Liang [2nd Sep., 2022] [IEEE TMI, 2022] [Paper]\nHigh-Frequency Space Diffusion Models for Accelerated MRI Chentao Cao, Zhuo-Xu Cui, Shaonan Liu, Dong Liang, Yanjie Zhu [10th Aug., 2022] [arXiv, 2022] [Paper]\nAdaptive Diffusion Priors for Accelerated MRI Reconstruction Salman UH Dar, Şaban Öztürk, Yilmaz Korkmaz, Gokberk Elmas, Muzaffer Özbey, Alper Güngör, Tolga Çukur [12th Jul., 2022] [arXiv, 2022] [Paper]\nImproving Diffusion Models for Inverse Problems using Manifold Constraints Hyungjin Chung, Byeongsu Sim, Dohoon Ryu, Jong Chul Ye [2nd Jun., 2022] [NeurIPS, 2022] [Paper]\nCome-Closer-Diffuse-Faster: Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction Hyungjin Chung, Byeongsu Sim, Jong Chul Ye [9th Dec., 2021] [CVPR, 2021] [Paper]",
@@ -1589,7 +1691,8 @@
                 "owner": "gregschuit",
                 "repo": "radiologist-perceptual-eval-xrays",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1603,8 +1706,9 @@
                 "last_commit": "2026-08-13T20:13:38Z",
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2534
-              }
+                "stars": 2533
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1619,7 +1723,8 @@
                 "owner": "Qiukunpeng",
                 "repo": "ADC",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1634,7 +1739,8 @@
                 "owner": "jfayyad",
                 "repo": "LesionGen",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1649,7 +1755,8 @@
                 "owner": "JianhaoXie1",
                 "repo": "MedDiff-FT",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1664,7 +1771,8 @@
                 "owner": "VinyehShaw",
                 "repo": "TRACE",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1679,7 +1787,8 @@
                 "owner": "zfw-cv",
                 "repo": "AngioDiff",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1694,7 +1803,8 @@
                 "owner": "janet-sw",
                 "repo": "MAGIC",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1709,7 +1819,8 @@
                 "owner": "grabkeem",
                 "repo": "CCELLA",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1724,7 +1835,8 @@
                 "owner": "midisec",
                 "repo": "SCCDM",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1739,7 +1851,8 @@
                 "owner": "Qiukunpeng",
                 "repo": "Siamese-Diffusion",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1754,7 +1867,8 @@
                 "owner": "Onkarsus13",
                 "repo": "ViCTr-2D",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1769,7 +1883,8 @@
                 "owner": "jwmao1",
                 "repo": "MedSegFactory",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1784,7 +1899,8 @@
                 "owner": "tehraninasab",
                 "repo": "sd-latent-traversal",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1799,7 +1915,8 @@
                 "owner": "Brack-Wang",
                 "repo": "ZECO",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1814,7 +1931,8 @@
                 "owner": "mominul-ssv",
                 "repo": "alz-cq-cnn",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1829,7 +1947,8 @@
                 "owner": "milad1378yz",
                 "repo": "MOTFM",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1844,7 +1963,8 @@
                 "owner": "Jia7878",
                 "repo": "compositional-prompt-diffusion-for-polyp-generation",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1859,7 +1979,8 @@
                 "owner": "Manem-Lab",
                 "repo": "Lung-DDPM",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1874,7 +1995,8 @@
                 "owner": "Toterino",
                 "repo": "US-image-generation",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1889,7 +2011,8 @@
                 "owner": "haoningwu3639",
                 "repo": "MRGen",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1904,7 +2027,8 @@
                 "owner": "Ahn-Ssu",
                 "repo": "VCM",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1919,7 +2043,8 @@
                 "owner": "pfriedri",
                 "repo": "cwdm",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1934,7 +2059,8 @@
                 "owner": "pedromorao",
                 "repo": "Counterfactual-MRI-Data-Augmentation",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1949,7 +2075,8 @@
                 "owner": "Tinysqua",
                 "repo": "LPUWF-LDM",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1964,7 +2091,8 @@
                 "owner": "gungui98",
                 "repo": "echo-free",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1979,7 +2107,8 @@
                 "owner": "scechnicka",
                 "repo": "URCDM",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -1994,7 +2123,8 @@
                 "owner": "LemuelPuglisi",
                 "repo": "BrLP",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2009,7 +2139,8 @@
                 "owner": "compai-lab",
                 "repo": "2024-miccai-dgm-daum",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2024,7 +2155,8 @@
                 "owner": "nainye",
                 "repo": "RadiomicsFill",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2039,7 +2171,8 @@
                 "owner": "yuan-12138",
                 "repo": "Synomaly",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2054,7 +2187,8 @@
                 "owner": "dyxu-cuhkcse",
                 "repo": "SMG-Learning",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2069,7 +2203,8 @@
                 "owner": "maxiao0234",
                 "repo": "TTGA",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2084,7 +2219,8 @@
                 "owner": "NoaCahan",
                 "repo": "X-ray2CTPA",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2099,7 +2235,8 @@
                 "owner": "ZheLi2020",
                 "repo": "InfoDist",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2114,7 +2251,8 @@
                 "owner": "Arksyd96",
                 "repo": "synthesis-with-slice-based-ldm",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2129,7 +2267,8 @@
                 "owner": "CUHK-AIM-Group",
                 "repo": "U-KAN",
                 "stars": 553
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2144,7 +2283,8 @@
                 "owner": "HReynaud",
                 "repo": "EchoNet-Synthetic",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2159,7 +2299,8 @@
                 "owner": "CristianoPatricio",
                 "repo": "unsupervised-contrastive-cond-diff",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2174,7 +2315,8 @@
                 "owner": "nicetomeetu21",
                 "repo": "CA-LDM",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2189,7 +2331,8 @@
                 "owner": "SugarFreeManatee",
                 "repo": "Feature-Space-Augmentation-and-Iterated-Learning",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2204,7 +2347,8 @@
                 "owner": "2022yingjie",
                 "repo": "MaSkel",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2219,7 +2363,8 @@
                 "owner": "faildeny",
                 "repo": "debiasing-cardiac-mri",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2234,7 +2379,8 @@
                 "owner": "Pooria90",
                 "repo": "DiffEcho",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2249,7 +2395,8 @@
                 "owner": "yasamin-med",
                 "repo": "SCDA",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2264,7 +2411,8 @@
                 "owner": "M3DV",
                 "repo": "LeFusion",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2279,7 +2427,8 @@
                 "owner": "HKU-MedAI",
                 "repo": "GEM-3D",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2294,7 +2443,8 @@
                 "owner": "BioMedIA-MBZUAI",
                 "repo": "XReal",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2309,7 +2459,8 @@
                 "owner": "sinAshish",
                 "repo": "TreeDiffusion",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2324,7 +2475,8 @@
                 "owner": "sinAshish",
                 "repo": "TreeDiffusion",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2339,7 +2491,8 @@
                 "owner": "MrGiovanni",
                 "repo": "DiffTumor",
                 "stars": 219
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2354,7 +2507,8 @@
                 "owner": "pfriedri",
                 "repo": "wdm-3d",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2369,7 +2523,8 @@
                 "owner": "parap1uie-s",
                 "repo": "SynFundus-1M",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2384,7 +2539,8 @@
                 "owner": "Rowerliu",
                 "repo": "ADD",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2399,7 +2555,8 @@
                 "owner": "BardiaKh",
                 "repo": "SyntheticallyEnhanced",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2414,7 +2571,8 @@
                 "owner": "dsaragih",
                 "repo": "diffuse-gen",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2429,7 +2587,8 @@
                 "owner": "DuYooho",
                 "repo": "ArSDM",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2444,7 +2603,8 @@
                 "owner": "karenyyy",
                 "repo": "HistoDiffAug",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2459,7 +2619,8 @@
                 "owner": "icon-lab",
                 "repo": "DreaMR",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2474,7 +2635,8 @@
                 "owner": "mdanyalmalik",
                 "repo": "chest-xray-synthesis",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2489,7 +2651,8 @@
                 "owner": "ibrahimethemhamamci",
                 "repo": "GenerateCT",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2504,7 +2667,8 @@
                 "owner": "david-stojanovski",
                 "repo": "echo_from_noise",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2519,7 +2683,8 @@
                 "owner": "simulamet-host",
                 "repo": "conditional-polyp-diffusion",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2534,7 +2699,8 @@
                 "owner": "xfetus",
                 "repo": "midl2023",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2549,7 +2715,8 @@
                 "owner": "HReynaud",
                 "repo": "EchoDiffusion",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2564,7 +2731,8 @@
                 "owner": "stegmaierj",
                 "repo": "DiffusionModelsForImageSynthesis",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2579,7 +2747,8 @@
                 "owner": "FirasGit",
                 "repo": "medicaldiffusion",
                 "stars": 495
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2594,7 +2763,8 @@
                 "owner": "marrlab",
                 "repo": "DISPR",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2609,7 +2779,8 @@
                 "owner": "torchDDM",
                 "repo": "DDM",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2624,7 +2795,8 @@
                 "owner": "DL-Circle",
                 "repo": "3D-DDPM",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             }
           ],
           "description": "Lung-DDPM+: Efficient Thoracic CT Image Synthesis using Diffusion Probabilistic Model Yifan Jiang, Ahmad Shariftabrizi, Venkata SK. Manem [12th Aug., 2025] [arXiv, 2025] [Paper]\nAI-Driven Cytomorphology Image Synthesis for Medical Diagnostics Jan Carreras Boada, Rao Muhammad Umer, Carsten Marr [07th Jul., 2025] [arXiv, 2025] [Paper]\nTowards 3D Semantic Image Synthesis for Medical Imaging Wenwu Tang, Khaled Seyam, Bin Yang [30th Jun., 2025] [arXiv, 2025] [Paper]\nBringing together invertible UNets with invertible attention modules for memory-efficient diffusion models Karan Jain, Mohammad Nayeem Teli [15th Apr., 2025] [arXiv, 2025] [Paper]\nFew-Shot Generation of Brain Tumors for Secure and Fair Data Sharing Yongyi Shi, Ge Wang [31st Mar., 2025] [arXiv, 2025] [Paper]\nCoSimGen: Controllable Diffusion Model for Simultaneous Image and Mask Generation Rupak Bose, Chinedu Innocent Nwoye, Aditya Bhat, Nicolas Padoy [25th Mar., 2025] [arXiv, 2025] [Paper] [Project Page]\nMedLoRD: A Medical Low-Resource Diffusion Model for High-Resolution 3D CT Image Synthesis Marvin Seyfarth, Salman Ul Hassan Dar, Isabelle Ayx, Matthias Alexander Fink, Stefan O. Schoenberg, Hans-Ulrich Kauczor, Sandy Engelhardt [17th Mar., 2025] [arXiv, 2025] [Paper]\nFCaS: Fine-grained Cardiac Image Synthesis based on 3D Template Conditional Diffusion Model Jiahao Xia, Yutao Hu, Yaolei Qi, Zhenliang Li, Wenqi Shao, Junjun He, Ying Fu, Longjiang Zhang, Guanyu Yang [12th Mar., 2025] [arXiv, 2025] [Paper]\nSynthetic Lung X-ray Generation through Cross-Attention and Affinity Transformation Ruochen Pi, Lianlei Shan [10th Mar., 2025] [arXiv, 2025] [Paper]\nTask-Specific Knowledge Distillation from the Vision Foundation Model for Enhanced Medical Image Segmentation Pengchen Liang, Haishan Huang, Bin Pu, Jianguo Chen, Xiang Hua, Jing Zhang, Weibo Ma, Zhuangzhuang Chen, Yiwei Li, Qing Chang [10th Mar., 2025] [arXiv, 2025] [Paper]\nAdvancing AI-Powered Medical Image Synthesis: Insights from MedVQA-GI Challenge Using CLIP, Fine-Tuned Stable Diffusion, and Dream-Booth + LoRA Ojonugwa Oluwafemi Ejiga Peter, Md Mahmudur Rahman, Fahmi Khalifa [28th Feb., 2025] [CEUR workshop, 2025] [Paper]\nAmbient Denoising Diffusion Generative Adversarial Networks for Establishing Stochastic Object Models from Noisy Image Data Xichen Xu, Wentao Chen, Weimin Zhou [31th Jan., 2025] [arXiv, 2025] [Paper]\nAddressing Small and Imbalanced Medical Image Datasets Using Generative Models: A Comparative Study of DDPM and PGGANs with Random and Greedy K Sampling Iman Khazrak, Shakhnoza Takhirova, Mostafa M. Rezaee, Mehrdad Yadollahi, Robert C. Green II, Shuteng Niu [17th Dec., 2024] [arXiv, 2024] [Paper]\n3D MedDiffusion: A 3D Medical Diffusion Model for Controllable and High-quality Medical Image Generation Haoshen Wang, Zhentao Liu, Kaicong Sun, Xiaodong Wang, Dinggang Shen, Zhiming Cui [17th Dec., 2024] [arXiv, 2024] [Paper]\nEvaluating and Improving the Effectiveness of Synthetic Chest X-Rays for Medical Image Analysis Eva Prakash, Jeya Maria Jose Valanarasu, Zhihong Chen, Eduardo Pontes Reis, Andrew Johnston, Anuj Pareek, Christian Bluethgen, Sergios Gatidis, Cameron Olsen, Akshay Chaudhari, Andrew Ng, Curtis Langlotz [27th Nov., 2024] [arXiv, 2024] [Paper]\nDeep Generative Models for 3D Medical Image Synthesis Paul Friedrich, Yannik Frisch, Philippe C. Cattin [23th Oct., 2024] [arXiv, 2024] [Paper]\nSynthetic Augmentation for Anatomical Landmark Localization using DDPMs Arnela Hadzic, Lea Bogensperger, Simon Johannes Joham, Martin Urschler [16th Oct., 2024] [SASHIMI, 2024] [Paper]\nEvaluating Utility of Memory Efficient Medical Image Generation: A Study on Lung Nodule Segmentation Kathrin Khadra, Utku Türkbey [16th Oct., 2024] [arXiv, 2024] [Paper]\nMultiscale Latent Diffusion Model for Enhanced Feature Extraction from Medical Images Rabeya Tus Sadia, Jie Zhang, Jin Chen [05th Oct., 2024] [arXiv, 2024] [Paper]\nDevil is in Details: Locality-Aware 3D Abdominal CT Volume Generation for Self-Supervised Organ Segmentation Yuran Wang, Zhijing Wan, Yansheng Qiu, Zheng Wang [30th Sep., 2024] [arXiv, 2024] [Paper]\nCtrl-GenAug: Controllable Generative Augmentation for Medical Sequence Classification \\ Xinrui Zhou, Yuhao Huang, Haoran Dou, Shijing Chen, Ao Chang, Jia Liu, Weiran Long, Jian Zheng, Erjiao Xu, Jie Ren, Ruobing Huang, Jun Cheng, Wufeng Xue, Dong Ni [25th Sep., 2024] [arXiv, 2024] [Paper]\nPhysics-Informed Latent Diffusion for Multimodal Brain MRI Synthesis Sven Lüpke, Yousef Yeganeh, Ehsan Adeli, Nassir Navab, Azade Farshad [20th Sep., 2024] [arXiv, 2024] [Paper]\nMAISI: Medical AI for Synthetic Imaging Pengfei Guo, Can Zhao, Dong Yang, Ziyue Xu, Vishwesh Nath, Yucheng Tang, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu [13th Sep., 2024] [arXiv, 2024] [Paper]\nTowards Predicting Temporal Changes in a Patient's Chest X-ray Images based on Electronic Health Records Daeun Kyung, Junu Kim, Tackeun Kim, Edward Choi [11th Sep., 2024] [arXiv, 2024] [Paper]\nExploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques Davide Clode da Silva, Marina Musse Bernardes, Nathalia Giacomini Ceretta, Gabriel Vaz de Souza, Gabriel Fonseca Silva, Rafael Heitor Bordini, Soraia Raupp Musse [6th Sep., 2024] [arXiv, 2024] [Paper]\nMulti-Conditioned Denoising Diffusion Probabilistic Model (mDDPM) for Medical Image Synthesis Arjun Krishna, Ge Wang, Klaus Mueller [6th Sep., 2024] [arXiv, 2024] [Paper]\nMpox Detection Advanced: Rapid Epidemic Response Through Synthetic Data Yudara Kularathne, Prathapa Janitha, Sithira Ambepitiya, Prarththanan Sothyrajah, Thanveer Ahamed, Dinuka Wijesundara [25th Jul., 2024] [arXiv, 2024] [Paper]\nCATD: Unified Representation Learning for EEG-to-fMRI Cross-Modal Generation Weiheng Yao, Shuqiang Wang [16th Jul., 2024] [arXiv, 2024] [Paper]\nBora: Biomedical Generalist Video Generation Model Weixiang Sun, Xiaocao You, Ruizhe Zheng, Zhengqing Yuan, Xiang Li, Lifang He, Quanzheng Li, Lichao Sun [11th Jul., 2024] [arXiv, 2024] [Paper] [GitHub]\nData Augmentation with Diffusion Models for Colon Polyp Localization on the Low Data Regime: How much real data is enough? Adrian Tormos, Blanca Llauradó, Fernando Núñez, Axel Romero, Dario Garcia-Gasulla, Javier Béjar [28th Nov., 2024] [arXiv, 2024] [Paper]\nSeLoRA: Self-Expanding Low-Rank Adaptation of Latent Diffusion Model for Medical Image Synthesis Yuchen Mao, Hongwei Li, Wei Pang, Giorgos Papanastasiou, Guang Yang, Chengjia Wang [13th Aug., 2024] [arXiv, 2024] [Paper]\nTemporal Evolution of Knee Osteoarthritis: A Diffusion-based Morphing Model for X-ray Medical Image Synthesis Zhe Wang, Aladine Chetouani, Rachid Jennane, Yuhua Ru, Wasim Issa, Mohamed Jarraya [1st Aug., 2024] [arXiv, 2024] [Paper]\nNon-Reference Quality Assessment for Medical Imaging: Application to Synthetic Brain MRIs Karl Van Eeden Risager, Torkan Gholamalizadeh, Mostafa Mehdipour Ghazi [20th Jul., 2024] [arXiv, 2024] [Paper]\nDiNO-Diffusion. Scaling Medical Diffusion via Self-Supervised Pre-Training Guillermo Jimenez-Perez, Pedro Osorio, Josef Cersovsky, Javier Montalt-Tordera, Jens Hooge, Steffen Vogler, Sadegh Mohammadi [16th Jul., 2024] [arXiv, 2024] [Paper]\nDeformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis Jian-Qing Zheng, Yuanhan Mo, Yang Sun, Jiahua Li, Fuping Wu, Ziyang Wang, Tonia Vincent, Bartłomiej W. Papież [9th Jul., 2024] [arXiv, 2024] [Paper] [GitHub]\nDeep learning for automated detection of breast cancer in deep ultraviolet fluorescence images with diffusion probabilistic model Sepehr Salem Ghahfarokhi, Tyrell To, Julie Jorns, Tina Yen, Bing Yu, Dong Hye Ye [1st Jul., 2024] [ISBI, 2024] [Paper]\nFrom Majority to Minority: A Diffusion-based Augmentation for Underrepresented Groups in Skin Lesion Analysis Janet Wang, Yunsung Chung, Zhengming Ding, Jihun Hamm [26th Jun., 2024] [arXiv, 2024] [Paper]\nGenMix: Combining Generative and Mixture Data Augmentation for Medical Image Classification Hansang Lee, Haeil Lee, Helen Hong [31st May, 2024] [arXiv, 2024] [Paper]\nMediSyn: Text-Guided Diffusion Models for Broad Medical 2D and 3D Image Synthesis Joseph Cho, Cyril Zakka, Rohan Shad, Ross Wightman, Akshay Chaudhari, William Hiesinger [16th May, 2024] [arXiv, 2024] [Paper]\nVM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis Zhihan Ju, Wanting Zhou [09th May, 2024] [arXiv, 2024] [Paper]\nGenerating Counterfactual Trajectories with Latent Diffusion Models for Concept Discovery Payal Varshney, Adriano Lucieri, Christoph Balada, Andreas Dengel, Sheraz Ahmed [16th Apr., 2024] [arXiv, 2024] [Paper]\nSegmentation-Guided Knee Radiograph Generation using Conditional Diffusion Models Siyuan Mei, Fuxin Fan, Fabian Wagner, Mareike Thies, Mingxuan Gu, Yipeng Sun, Andreas Maier [4th Apr., 2024] [arXiv, 2024] [Paper]\nCT Synthesis with Conditional Diffusion Models for Abdominal Lymph Node Segmentation Yongrui Yu, Hanyu Chen, Zitian Zhang, Qiong Xiao, Wenhui Lei, Linrui Dai, Yu Fu, Hui Tan, Guan Wang, Peng Gao, Xiaofan Zhang [26th Mar., 2024] [arXiv, 2024] [Paper]\nPaired Diffusion: Generation of related, synthetic PET-CT-Segmentation scans using Linked Denoising Diffusion Probabilistic Models Rowan Bradbury, Katherine A. Vallis, Bartlomiej W. Papiez [26th Mar., 2024] [arXiv, 2024] [Paper]\nFederated Data Model Xiao Chen, Shunan Zhang, Eric Z. Chen, Yikang Liu, Lin Zhao, Terrence Chen, Shanhui Sun [13th Mar., 2024] [arXiv, 2024] [Paper]\nGuideGen: A Text-Guided Framework for Full-torso Anatomy and CT Volume Generation Linrui Dai, Rongzhao Zhang, Yongrui Yu, Xiaofan Zhang [12th Mar., 2024] [arXiv, 2024] [Paper]\nA Domain Translation Framework with an Adversarial Denoising Diffusion Model to Generate Synthetic Datasets of Echocardiography Images Cristiana Tiago, Sten Roar Snare, Jurica Sprem, Kristin McLeod [7th Mar., 2024] [arXiv, 2024] [Paper]\nMedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant Chenlu Zhan, Yu Lin, Gaoang Wang, Hongwei Wang, Jian Wu [7th Mar., 2024] [CVPR, 2024] [Paper]\nAn Ordinal Diffusion Model for Generating Medical Images with Different Severity Levels Shumpei Takezaki, Seiichi Uchida [1st Mar., 2024] [ISBI, 2024] [Paper]\nStructure Preserving Diffusion Models Haoye Lu, Spencer Szabados, Yaoliang Yu [29th Feb., 2024] [arXiv, 2024] [Paper]\nAnatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models Nicholas Konz, Yuwen Chen, Haoyu Dong, Maciej A. Mazurowski [7th Feb., 2024] [arXiv, 2024] [Paper]\nSynthVision -- Harnessing Minimal Input for Maximal Output in Computer Vision Models using Synthetic Image data Yudara Kularathne, Prathapa Janitha, Sithira Ambepitiya, Thanveer Ahamed, Dinuka Wijesundara, Prarththanan Sothyrajah [5th Jan., 2024] [arXiv, 2024] [Paper]\nDDPM based X-ray Image Synthesizer Praveen Mahaulpatha, Thulana Abeywardane, Tomson George [3rd Jan., 2024] [arXiv, 2024] [Paper]\nFast Diffusion-Based Counterfactuals for Shortcut Removal and Generation Nina Weng, Paraskevas Pegios, Aasa Feragen, Eike Petersen, Siavash Bigdeli [21st Dec., 2023] [arXiv, 2023] [Paper]\nFederated Learning with Diffusion Models for Privacy-Sensitive Vision Tasks Ye Lin Tun, Chu Myaet Thwal, Ji Su Yoon, Sun Moo Kang, Chaoning Zhang, Choong Seon Hong [28th Nov., 2023] [arXiv, 2023] [Paper]\nSynthesizing Diabetic Foot Ulcer Images with Diffusion Model Reza Basiri, Karim Manji, Francois Harton, Alisha Poonja, Milos R. Popovic, Shehroz S. Khan [31st Oct., 2023] [arXiv, 2023] [Paper]\nMCRAGE: Synthetic Healthcare Data for Fairness Keira Behal, Jiayi Chen, Caleb Fikes, Sophia Xiao [27th Oct., 2023] [arXiv, 2023] [Paper]\nEMIT-Diff: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model Zheyuan Zhang, Lanhong Yao, Bin Wang, Debesh Jha, Elif Keles, Alpay Medetalibeyoglu, Ulas Bagci [19th Oct., 2023] [arXiv, 2023] [Paper]\nEchocardiography video synthesis from end diastolic semantic map via diffusion model Phi Nguyen Van, Duc Tran Minh, Hieu Pham Huy, Long Tran Quoc [11th Oct., 2023] [arXiv, 2023] [Paper]\nMedDiffusion: Boosting Health Risk Prediction via Diffusion-based Data Augmentation Yuan Zhong, Suhan Cui, Jiaqi Wang, Xiaochen Wang, Ziyi Yin, Yaqing Wang, Houping Xiao, Mengdi Huai, Ting Wang, Fenglong Ma [4th Oct., 2023] [SIAM, 2024] [Paper]\nM3Dsynth: A dataset of medical 3D images with AI-generated local manipulations Giada Zingarini, Davide Cozzolino, Riccardo Corvi, Giovanni Poggi, Luisa Verdoliva [3rd Sep., 2023] [MICCAI, 2023] [Paper] [GitHub]\nAugmenting medical image classifiers with synthetic data from latent diffusion models Luke W. Sagers, James A. Diao, Luke Melas-Kyriazi, Matthew Groh, Pranav Rajpurkar, Adewole S. Adamson, Veronica Rotemberg, Roxana Daneshjou, Arjun K. Manrai [23rd Aug., 2023] [arXiv, 2023] [Paper]\nMake-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis Lingting Zhu, Zeyue Xue, Zhenchao Jin, Xian Liu, Jingzhen He, Ziwei Liu, Lequan Yu [19th Jul., 2023] [arXiv, 2023] [Paper]\nHybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane Kun Han, Shanlin Sun, Xiaohui Xie [4th July. 2023] [arXiv, 2023] [Paper]\nInvestigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis Salman Ul Hassan Dar, Arman Ghanaat, Jannik Kahmann, Isabelle Ayx, Theano Papavassiliu, Stefan O. Schoenberg, Sandy Engelhardt [3rd July. 2023] [arXiv, 2023] [Paper]\nDiffMix: Diffusion Model-based Data Synthesis for Nuclei Segmentation and Classification in Imbalanced Pathology Image Datasets Hyun-Jic Oh, Won-Ki Jeong [25th Jun. 2023] [arXiv, 2023] [Paper]\nDiffInfinite: Large Mask-Image Synthesis via Parallel Random Patch Diffusion in Histopathology Marco Aversa, Gabriel Nobis, Miriam Hägele, Kai Standvoss, Mihaela Chirica, Roderick Murray-Smith, Ahmed Alaa, Lukas Ruff, Daniela Ivanova, Wojciech Samek, Frederick Klauschen, Bruno Sanguinetti, Luis Oala [23th Jun. 2023] [arXiv, 2023] [Paper]\nAligning Synthetic Medical Images with Clinical Knowledge using Human Feedback Shenghuan Sun, Gregory M. Goldgof, Atul Butte, Ahmed M. Alaa [16th Jun., 2023] [arXiv, 2023] [Paper]\nDiffusion Models for Realistic CT Image Generation Maialen Stephens Txurio, Karen López-Linares Román, Andrés Marcos-Carrión, Pilar Castellote-Huguet, José M. Santabárbara-Gómez, Iván Macía Oliver, Miguel A. González Ballester [31th May, 2023] [KES, 2023] [Paper]\nConditional Diffusion Models for Semantic 3D Medical Image Synthesis Zolnamar Dorjsembe, Hsing-Kuo Pao, Sodtavilan Odonchimed, Furen Xiao [29th May, 2023] [arXiv, 2023] [Paper]\nBeware of diffusion models for synthesizing medical images -- A comparison with GANs in terms of memorizing brain tumor images Muhammad Usman Akbar, Wuhao Wang, Anders Eklund [12th May, 2023] [arXiv, 2023] [Paper]\nGeneration of Structurally Realistic Retinal Fundus Images with Diffusion Models Sojung Go, Younghoon Ji, Sang Jun Park, Soochahn Lee [11th May, 2023] [arXiv, 2023] [Paper]\nSynthesizing PET images from High-field and Ultra-high-field MR images Using Joint Diffusion Attention Model Taofeng Xie, Chentao Cao, Zhuoxu Cui, Yu Guo, Caiying Wu, Xuemei Wang, Qingneng Li, Zhanli Hu, Tao Sun, Ziru Sang, Yihang Zhou, Yanjie Zhu, Dong Liang, Qiyu Jin, Guoqing Chen, Haifeng Wang [6th May, 2023] [arXiv, 2023] [Paper]\nHigh-Fidelity Image Synthesis from Pulmonary Nodule Lesion Maps using Semantic Diffusion Model Xuan Zhao, Benjamin Hou [2nd May, 2023] [arXiv, 2023] [Paper]\nDenoising Diffusion Medical Models Pham Ngoc Huy, Tran Minh Quan [19th Apr., 2023] [arXiv, 2023] [Paper]\nMedGen3D: A Deep Generative Framework for Paired 3D Image and Mask Generation Kun Han, Yifeng Xiong, Chenyu You, Pooya Khosravi, Shanlin Sun, Xiangyi Yan, James Duncan, Xiaohui Xie [8th Apr., 2023] [arXiv, 2023] [Paper]\n2D Medical Image Synthesis Using Transformer-based Denoising Diffusion Probabilistic Model Shaoyan Pan, Tonghe Wang, Richard L J Qiu, Marian Axente, Chih-Wei Chang, Junbo Peng, Ashish B Patel, Joseph Shelton, Sagar A Patel, Justin Roper [4th Apr., 2023] [Physics in Medicine & Biology, 2023] [Paper]\nViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis Xuan Xu, Saarthak Kapse, Rajarsi Gupta, Prateek Prasanna [3rd Apr., 2023] [arXiv, 2023] [Paper]\nDDMM-Synth: A Denoising Diffusion Model for Cross-modal Medical Image Synthesis with Sparse-view Measurement Embedding Xiaoyue Li, Kai Shang, Gaoang Wang, Mark D. Butala [28th Mar., 2023] [arXiv, 2023] [Paper]\nCoLa-Diff: Conditional Latent Diffusion Model for Multi-Modal MRI Synthesis Lan Jiang, Ye Mao, Xi Chen, Xiangfeng Wang, Chao Li [24th Mar., 2023] [arXiv, 2023] [Paper]\nNASDM: Nuclei-Aware Semantic Histopathology Image Generation Using Diffusion Models Aman Shrivastava, P. Thomas Fletcher [20th Mar., 2023] [arXiv, 2023] [Paper]\nCascaded Latent Diffusion Models for High-Resolution Chest X-ray Synthesis Tobias Weber, Michael Ingrisch, Bernd Bischl, David Rügamer [20th Mar., 2023] [arXiv, 2023] [Paper]\nEfficiently Training Vision Transformers on Structural MRI Scans for Alzheimer's Disease Detection Nikhil J. Dhinagar, Sophia I. Thomopoulos, Emily Laltoo, Paul M. Thompson [14th Mar., 2023] [arXiv, 2023] [Paper]\nDDFM: Denoising Diffusion Model for Multi-Modality Image Fusion Zixiang Zhao, Haowen Bai, Yuanzhi Zhu, Jiangshe Zhang, Shuang Xu, Yulun Zhang, Kai Zhang, Deyu Meng, Radu Timofte, Luc Van Gool [13th Mar., 2023] [arXiv, 2023] [Paper]\nBi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion Shaheer U. Saeed, Tom Syer, Wen Yan, Qianye Yang, Mark Emberton, Shonit Punwani, Matthew J. Clarkson, Dean C. Barratt, Yipeng Hu [3rd Mar., 2023] [arXiv, 2023] [Paper]\nDon't Play Favorites: Minority Guidance for Diffusion Models Soobin Um, Suhyeon Lee, Jong Chul Ye [29th Jan., 2023] [ICLR, 2024] [Paper]\nConversion of the Mayo LDCT Data to Synthetic Equivalent through the Diffusion Model for Training Denoising Networks with a Theoretically Perfect Privacy Yongyi Shi, Ge Wang [16th Jan., 2023] [arXiv, 2023] [Paper]\nGenerating Realistic 3D Brain MRIs Using a Conditional Diffusion Probabilistic Model Wei Peng, Ehsan Adeli, Qingyu Zhao, Kilian M Pohl [15th Dec., 2022] [MICCAI, 2023] [Paper]\nSADM: Sequence-Aware Diffusion Model for Longitudinal Medical Image Generation Jee Seok Yoon, Chenghao Zhang, Heung-Il Suk, Jia Guo, Xiaoxiao Li [16th Dec., 2022] [arXiv, 2022] [Paper]\nDiffusion Probabilistic Models beat GANs on Medical Images Gustav Müller-Franzes, Jan Moritz Niehues, Firas Khader, Soroosh Tayebi Arasteh, Christoph Haarburger, Christiane Kuhl, Tianci Wang, Tianyu Han, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn [14th Dec., 2022] [arXiv, 2022] [Paper]\nImproving dermatology classifiers across populations using images generated by large diffusion models Luke W. Sagers, James A. Diao, Matthew Groh, Pranav Rajpurkar, Adewole S. Adamson, Arjun K. Manrai [23rd Nov., 2022] [NeurIPS Workshop, 2022] [Paper]\nSeeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding Zijiao Chen, Jiaxin Qing, Tiange Xiang, Wan Lin Yue, Juan Helen Zhou [13th Nov., 2022] [arXiv, 2022] [Paper]\nAn unobtrusive quality supervision approach for medical image annotation Sonja Kunzmann, Mathias Öttl, Prathmesh Madhu, Felix Denzinger, Andreas Maier [11th Nov., 2022] [arXiv, 2022] [Paper]\nGeneration of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems Kai Packhäuser, Lukas Folle, Florian Thamm, Andreas Maier [2nd Nov., 2022] [arXiv, 2022] [Paper]\nSpot the fake lungs: Generating Synthetic Medical Images using Neural Diffusion Models Hazrat Ali, Shafaq Murad, Zubair Shah [2nd Nov., 2022] [arXiv, 2022] [Paper]\nA Morphology Focused Diffusion Probabilistic Model for Synthesis of Histopathology Images Puria Azadi Moghadam, Sanne Van Dalen, Karina C. Martin, Jochen Lennerz, Stephen Yip, Hossein Farahani, Ali Bashashati [27th Sep., 2022] [arXiv, 2022] [Paper]\nBrain Imaging Generation with Latent Diffusion Models Walter H. L. Pinaya, Petru-Daniel Tudosiu, Jessica Dafflon, Pedro F da Costa, Virginia Fernandez, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso [15th Sep., 2022] [MICCAI Workshop, 2022] [Paper]",
@@ -2646,7 +2818,8 @@
                 "owner": "THunderCondOR",
                 "repo": "ImageCLEFmed-MEDVQA-GI-2024-MMCP-Team",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2661,7 +2834,8 @@
                 "owner": "SimeonAllmendinger",
                 "repo": "SyntheticImageGeneration",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2676,7 +2850,8 @@
                 "owner": "batmanlab",
                 "repo": "MedSyn",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2691,7 +2866,8 @@
                 "owner": "MischaD",
                 "repo": "chest-distillation",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             }
           ],
           "description": "Aiding Medical Diagnosis through Image Synthesis and Classification Kanishk Choudhary [01th Jun., 2025] [arXiv, 2025] [Paper]\nText-to-CT Generation via 3D Latent Diffusion Model with Contrastive Vision-Language Pretraining Daniele Molino, Camillo Maria Caruso, Filippo Ruffini, Paolo Soda, Valerio Guarrasi [31st May, 2025] [arXiv, 2025] [Paper]\nPathology-Aware Adaptive Watermarking for Text-Driven Medical Image Synthesis Chanyoung Kim, Dayun Ju, Jinyeong Kim, Woojung Han, Roberto Alcover-Couso, Seong Jae Hwang [11th Mar., 2025] [arXiv, 2025] [Paper]\nCan Medical Vision-Language Pre-training Succeed with Purely Synthetic Data? Che Liu, Zhongwei Wan, Haozhe Wang, Yinda Chen, Talha Qaiser, Chen Jin, Fariba Yousefi, Nikolay Burlutskiy, Rossella Arcucci [17th Oct., 2024] [ACL, 2025] [Paper]\nMedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient Yanzeng Li, Cheng Zeng, Jinchao Zhang, Jie Zhou, Lei Zou [22nd Aug., 2024] [arXiv, 2024] [Paper]\nChest-Diffusion: A Light-Weight Text-to-Image Model for Report-to-CXR Generation Peng Huang, Xue Gao, Lihong Huang, Jing Jiao, Xiaokang Li, Yuanyuan Wang, Yi Guo [30 Jun., 2024] [ISBI, 2024] [Paper]\nFair Text to Medical Image Diffusion Model with Subgroup Distribution Aligned Tuning Xu Han, Fangfang Fan, Jingzhao Rong, Xiaofeng Liu [20th Jun., 2024] [arXiv, 2024] [Paper]\nAdvancing Text-Driven Chest X-Ray Generation with Policy-Based Reinforcement Learning Woojung Han, Chanyoung Kim, Dayun Ju, Yumin Shim, Seong Jae Hwang [11th Mar., 2024] [arXiv, 2024] [Paper]\nSynthesizing CTA Image Data for Type-B Aortic Dissection using Stable Diffusion Models Ayman Abaid, Muhammad Ali Farooq, Niamh Hynes, Peter Corcoran, Ihsan Ullah [10th Feb., 2024] [arXiv, 2024] [Paper]\nMedXChat: Bridging CXR Modalities with a Unified Multimodal Large Model Ling Yang, Zhanyu Wang, Luping Zhou [4th Dec., 2023] [arXiv, 2023] [Paper]\nBiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys Yu Gu, Jianwei Yang, Naoto Usuyama, Chunyuan Li, Sheng Zhang, Matthew P. Lungren, Jianfeng Gao, Hoifung Poon [16th Oct., 2023] [arXiv, 2023] [Paper]\nBoosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts Shiyi Du, Xiaosong Wang, Yongyi Lu, Yuyin Zhou, Shaoting Zhang, Alan Yuille, Kang Li, Zongwei Zhou [4th Oct., 2023] [arXiv, 2023] [Paper]\nTauPETGen: Text-Conditional Tau PET Image Synthesis Based on Latent Diffusion Models Se-In Jang, Cristina Lois, Emma Thibault, J. Alex Becker, Yafei Dong, Marc D. Normandin, Julie C. Price, Keith A. Johnson, Georges El Fakhri, Kuang Gong [21st Jun., 2023] [arXiv, 2023] [Paper]\nMedical diffusion on a budget: textual inversion for medical image generation Bram de Wilde, Anindo Saha, Richard P.G. ten Broek, Henkjan Huisman [23rd Mar., 2023] [arXiv, 2023] [Paper]\nDiffusion-based Data Augmentation for Skin Disease Classification: Impact Across Original Medical Datasets to Fully Synthetic Images Mohamed Akrout, Bálint Gyepesi, Péter Holló, Adrienn Poór, Blága Kincső, Stephen Solis, Katrina Cirone, Jeremy Kawahara, Dekker Slade, Latif Abid, Máté Kovács, István Fazekas [12th Jan., 2023] [arXiv, 2023] [Paper]\nRoentGen: Vision-Language Foundation Model for Chest X-ray Generation Pierre Chambon, Christian Bluethgen, Jean-Benoit Delbrouck, Rogier Van der Sluijs, Małgorzata Połacin, Juan Manuel Zambrano Chaves, Tanishq Mathew Abraham, Shivanshu Purohit, Curtis P. Langlotz, Akshay Chaudhari [23rd Nov., 2022] [arXiv, 2022] [Paper]\nAdapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains Pierre Chambon, Christian Bluethgen, Curtis P. Langlotz, Akshay Chaudhari [9th Oct., 2022] [arXiv, 2022] [Paper]",
@@ -2713,7 +2889,8 @@
                 "owner": "mattkia",
                 "repo": "SGDIR",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2728,7 +2905,8 @@
                 "owner": "xmed-lab",
                 "repo": "FSDiffReg",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             }
           ],
           "description": "DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration Yongtai Zhuo, Yiqing Shen [07th Oct., 2024] [MICCAI, 2024] [Paper]\nDiffuseMorph: Unsupervised Deformable Image Registration Along Continuous Trajectory Using Diffusion Models Boah Kim, Inhwa Han, Jong Chul Ye [9th Dec., 2021] [ECCV, 2022] [Paper]",
@@ -2750,7 +2928,8 @@
                 "owner": "Deltadahl",
                 "repo": "CytoDiffusion",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2765,7 +2944,8 @@
                 "owner": "matanat",
                 "repo": "dae_counterfactual",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2780,7 +2960,8 @@
                 "owner": "ayanglab",
                 "repo": "Diff3Dformer",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2795,7 +2976,8 @@
                 "owner": "scott-yjyang",
                 "repo": "DiffMIC",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             }
           ],
           "description": "DAug: Diffusion-based Channel Augmentation for Radiology Image Retrieval and Classification Ying Jin, Zhuoran Zhou, Haoquan Fang, Jenq-Neng Hwang [06th Dec., 2024] [NeurIPS Workshop, 2024] [Paper]\nCtrl-GenAug: Controllable Generative Augmentation for Medical Sequence Classification \\ Xinrui Zhou, Yuhao Huang, Haoran Dou, Shijing Chen, Ao Chang, Jia Liu, Weiran Long, Jian Zheng, Erjiao Xu, Jie Ren, Ruobing Huang, Jun Cheng, Wufeng Xue, Dong Ni [25th Sep., 2024] [arXiv, 2024] [Paper]\nAnisotropic Diffusion Probabilistic Model for Imbalanced Image Classification Jingyu Kong, Yuan Guo, Yu Wang, Yuping Duan [22nd Sep., 2024] [arXiv, 2024] [Paper]\nGuided Conditional Diffusion Classifier (ConDiff) for Enhanced Prediction of Infection in Diabetic Foot Ulcers Palawat Busaranuvong, Emmanuel Agu, Deepak Kumar, Shefalika Gautam, Reza Saadati Fard, Bengisu Tulu, Diane Strong [1st May, 2024] [arXiv, 2024] [Paper]\nImproving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles Xing Shen, Hengguan Huang, Brennan Nichyporuk, Tal Arbel [10th Nov., 2023] [arXiv, 2023] [Paper]\nImproving Nonalcoholic Fatty Liver Disease Classification Performance With Latent Diffusion Models Romain Hardy, Cornelia Ilin, Joe Klepich, Ryan Mitchell, Steve Hall, Jericho Villareal [13th Jul., 2023] [arXiv, 2023] [Paper]\nInterpretable Alzheimer's Disease Classification Via a Contrastive Diffusion Autoencoder Ayodeji Ijishakin, Ahmed Abdulaal, Adamos Hadjivasiliou, Sophie Martin, James Cole [5th Jun., 2023] [arXiv, 2023] [Paper]",
@@ -2817,7 +2999,8 @@
                 "owner": "mueller-mp",
                 "repo": "logex",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -2832,7 +3015,8 @@
                 "owner": "ibrahimethemhamamci",
                 "repo": "HierarchicalDet",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             }
           ],
           "description": null,
@@ -2856,7 +3040,8 @@
                     "owner": "QixuanJin99",
                     "repo": "generative_validation",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:33:07.770Z"
                 },
                 {
                   "node_type": "item",
@@ -2871,7 +3056,8 @@
                     "owner": "Mayo-Radiology-Informatics-Lab",
                     "repo": "MBTI",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:33:07.770Z"
                 }
               ],
               "description": "Investigating the Role of Bilateral Symmetry for Inpainting Brain MRI Sergey Kuznetsov, Sanduni Pinnawala, Peter A. Wijeratne, Ivor J. A. Simpson [14th Apr., 2025] [arXiv, 2025] [Paper]\nFCDM: Sparse-view Sinogram Inpainting with Frequency Domain Convolution Enhanced Diffusion Models Jiaze E, Srutarshi Banerjee, Tekin Bicer, Guannan Wang, Yanfu Zhang, Bin Ren [26th Aug., 2024] [arXiv, 2024] [Paper]\nInpainting Pathology in Lumbar Spine MRI with Latent Diffusion Colin Hansen, Simas Glinskis, Ashwin Raju, Micha Kornreich, JinHyeong Park, Jayashri Pawar, Richard Herzog, Li Zhang, Benjamin Odry [4th Jun., 2024] [arXiv, 2024] [Paper]",
@@ -2893,7 +3079,8 @@
                     "owner": "mosaf",
                     "repo": "Res-SRDiff",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:33:07.770Z"
                 },
                 {
                   "node_type": "item",
@@ -2908,7 +3095,8 @@
                     "owner": "vishal-dubey-0026",
                     "repo": "TemporalSpatialSR_LDM",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:33:07.770Z"
                 },
                 {
                   "node_type": "item",
@@ -2923,7 +3111,8 @@
                     "owner": "BioMedAI-UCSC",
                     "repo": "InverseSR",
                     "stars": 78
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:33:07.770Z"
                 },
                 {
                   "node_type": "item",
@@ -2938,7 +3127,8 @@
                     "owner": "yuanzhengthu",
                     "repo": "handDrawnPAAImages",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:33:07.770Z"
                 }
               ],
               "description": "Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution Luigi Sigillo, Christian Bianchi, Aurelio Uncini, Danilo Comminiello [1st May, 2025] [arXiv, 2025] [Paper]\nSimultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model Yushen Xu, Xiaosong Li, Yuchan Jie, Haishu Tan [26th Apr., 2024] [arXiv, 2024] [Paper]\nImplicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising Yuang Wang, Siyeop Yoon, Pengfei Jin, Matthew Tivnan, Zhennong Chen, Rui Hu, Li Zhang, Zhiqiang Chen, Quanzheng Li, Dufan Wu [10th Mar., 2024] [arXiv, 2024] [Paper]\nCas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion Lianghu Guo, Tianli Tao, Xinyi Cai, Zihao Zhu, Jiawei Huang, Lixuan Zhu, Zhuoyang Gu, Haifeng Tang, Rui Zhou, Siyan Han, Yan Liang, Qing Yang, Dinggang Shen, Han Zhang [21st Feb., 2024] [arXiv, 2024] [Paper]\nImage Compression and Decompression Framework Based on Latent Diffusion Model for Breast Mammography InChan Hwang, MinJae Woo [8th Oct, 2023] [arXiv, 2023] [Paper]\nDisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution Ye Mao, Lan Jiang, Xi Chen, Chao Li [24th Mar., 2023] [arXiv, 2023] [Paper]",
@@ -2960,7 +3150,8 @@
                     "owner": "Feynben",
                     "repo": "UniMIE",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:33:07.770Z"
                 },
                 {
                   "node_type": "item",
@@ -2975,7 +3166,8 @@
                     "owner": "DavisMeee",
                     "repo": "LighTDiff",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:33:07.770Z"
                 },
                 {
                   "node_type": "item",
@@ -2990,7 +3182,8 @@
                     "owner": "RichardObi",
                     "repo": "ccnet",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:33:07.770Z"
                 },
                 {
                   "node_type": "item",
@@ -3005,7 +3198,8 @@
                     "owner": "MLNeurosurg",
                     "repo": "restorative_step-calibrated_diffusion",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:33:07.770Z"
                 },
                 {
                   "node_type": "item",
@@ -3020,7 +3214,8 @@
                     "owner": "longbai1006",
                     "repo": "LLCaps",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:33:07.770Z"
                 }
               ],
               "description": "All-in-One Medical Image Restoration with Latent Diffusion-Enhanced Vector-Quantized Codebook Prior Haowei Chen, Zhiwen Yang, Haotian Hou, Hui Zhang, Bingzheng Wei, Gang Zhou, Yan Xu [26th Jul., 2025] [arXiv, 2025] [Paper]\nInvestigating the Feasibility of Patch-based Inference for Generalized Diffusion Priors in Inverse Problems for Medical Images Saikat Roy, Mahmoud Mostapha, Radu Miron, Matt Holbrook, Mariappan Nadar [25th Jan., 2025] [arXiv, 2025] [Paper]",
@@ -3047,7 +3242,8 @@
                 "owner": "yasamin-med",
                 "repo": "P2P",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -3062,7 +3258,8 @@
                 "owner": "Muhammad-Huzaifaa",
                 "repo": "Defensive_Diffusion",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             }
           ],
           "description": "Fight Fire With Fire: Reversing Skin Adversarial Examples by Multiscale Diffusive and Denoising Aggregation Mechanism Yongwei Wang, Yuan Li, Zhiqi Shen [22nd Aug., 2022] [arXiv, 2022] [Paper]",
@@ -3084,7 +3281,8 @@
                 "owner": "mHaoruikk",
                 "repo": "AI-Alignment-Medical-Imaging",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -3099,7 +3297,8 @@
                 "owner": "Harvard-Ophthalmology-AI-Lab",
                 "repo": "FairDiffusion",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -3114,7 +3313,8 @@
                 "owner": "wenyi-li",
                 "repo": "FairDiff",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -3129,7 +3329,8 @@
                 "owner": "faildeny",
                 "repo": "debiasing-cardiac-mri",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -3144,7 +3345,8 @@
                 "owner": "hectorcarrion",
                 "repo": "FEDD",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             }
           ],
           "description": "From Majority to Minority: A Diffusion-based Augmentation for Underrepresented Groups in Skin Lesion Analysis Janet Wang, Yunsung Chung, Zhengming Ding, Jihun Hamm [26th Jun., 2024] [arXiv, 2024] [Paper]\nFair Text to Medical Image Diffusion Model with Subgroup Distribution Aligned Tuning Xu Han, Fangfang Fan, Jingzhao Rong, Xiaofeng Liu [20th Jun., 2024] [arXiv, 2024] [Paper]\nMCRAGE: Synthetic Healthcare Data for Fairness Keira Behal, Jiayi Chen, Caleb Fikes, Sophia Xiao [27th Oct., 2023] [arXiv, 2023] [Paper]",
@@ -3166,7 +3368,8 @@
                 "owner": "ZedKing12138",
                 "repo": "NODER-pytorch",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -3181,7 +3384,8 @@
                 "owner": "ispras",
                 "repo": "EcgLib",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             }
           ],
           "description": "Diffusion-driven SpatioTemporal Graph KANsformer for Medical Examination Recommendation Jianan Li, Yangtao Zhou, Zhifu Zhao, Qinglan Huang, Jian Qi, Xiao He, Hua Chu, Fu Li [12th May, 2025] [arXiv, 2025] [Paper]\nImproving EEG Classification Through Randomly Reassembling Original and Generated Data with Transformer-based Diffusion Models Mingzhi Chen, Yiyu Gui, Yuqi Su, Yuesheng Zhu, Guibo Luo, Yuchao Yang [20th Jul., 2024] [arXiv, 2024] [Paper]\nStochastic Diffusion: A Diffusion Probabilistic Model for Stochastic Time Series Forecasting Yuansan Liu, Sudanthi Wijewickrema, Dongting Hu, Christofer Bester, Stephen O'Leary, James Bailey [4th Jun., 2024] [arXiv, 2024] [Paper]\nTime Weaver: A Conditional Time Series Generation Model Sai Shankar Narasimhan, Shubhankar Agarwal, Oguzhan Akcin, Sujay Sanghavi, Sandeep Chinchali [5th Mar., 2024] [arXiv, 2024] [Paper]\nRisk-Sensitive Diffusion: Learning the Underlying Distribution from Noisy Samples Yangming Li, Max Ruiz Luyten, Mihaela van der Schaar [3rd Feb., 2024] [arXiv, 2024] [Paper]\nReliable Generation of EHR Time Series via Diffusion Models Muhang Tian, Bernie Chen, Allan Guo, Shiyi Jiang, Anru R. Zhang [23rd Oct., 2023] [arXiv, 2023] [Paper]\nA Comprehensive Survey on Generative Diffusion Models for Structured Data Heejoon Koo, To Eun Kim [7th Jun., 2023] [arXiv, 2023] [Paper]\nRestoration of Time-Series Medical Data with Diffusion Model Jiwoon Lee, Cheolsoo Park [6th Oct., 2022] [ICCE-Asia, 2022] [Paper]",
@@ -3203,7 +3407,8 @@
                 "owner": "kaen2891",
                 "repo": "adversarial_fine-tuning_using_generated_respiratory_sound",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             }
           ],
           "description": null,
@@ -3225,7 +3430,8 @@
                 "owner": "junzhin",
                 "repo": "DGM-VLC",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -3240,7 +3446,8 @@
                 "owner": "cvlab-stonybrook",
                 "repo": "LS-sample-quality",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -3255,7 +3462,8 @@
                 "owner": "AlexQilong",
                 "repo": "DUE",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -3270,7 +3478,8 @@
                 "owner": "tkatsuoka",
                 "repo": "DAL-test",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -3285,7 +3494,8 @@
                 "owner": "Warvito",
                 "repo": "generative_chestxray",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -3300,7 +3510,8 @@
                 "owner": "sattarov",
                 "repo": "FedTabDiff",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -3315,7 +3526,8 @@
                 "owner": "peterhan91",
                 "repo": "diffchest",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             },
             {
               "node_type": "item",
@@ -3330,7 +3542,8 @@
                 "owner": "marksgraham",
                 "repo": "ddpm-ood",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T23:33:07.770Z"
             }
           ],
           "description": "MInDI-3D: Iterative Deep Learning in 3D for Sparse-view Cone Beam Computed Tomography Daniel Barco, Marc Stadelmann, Martin Oswald, Ivo Herzig, Lukas Lichtensteiger, Pascal Paysan, Igor Peterlik, Michal Walczak, Bjoern Menze, Frank-Peter Schilling [13th Aug., 2025] [arXiv, 2025] [Paper]\nOut-of-Distribution Detection in Medical Imaging via Diffusion Trajectories Lemar Abdi, Francisco Caetano, Amaan Valiuddin, Christiaan Viviers, Hamdi Joudeh, Fons van der Sommen [31th Jul., 2025] [arXiv, 2025] [Paper]\nDiSC-Med: Diffusion-based Semantic Communications for Robust Medical Image Transmission Fupei Guo, Hao Zheng, Xiang Zhang, Li Chen, Yue Wang, Songyang Zhang [31st Jul., 2025] [arXiv, 2025] [Paper]\nDM-FNet: Unified multimodal medical image fusion via diffusion process-trained encoder-decoder Dan He, Weisheng Li, Guofen Wang, Yuping Huang, Shiqiang Liu [18th Jun., 2025] [arXiv, 2025] [Paper]\nGM-LDM: Latent Diffusion Model for Brain Biomarker Identification through Functional Data-Driven Gray Matter Synthesis Hu Xu, Yang Jingling, Jia Sihan, Bi Yuda, Calhoun Vince [15th Jun., 2025] [arXiv, 2025] [Paper]\nAnatomy-Grounded Weakly Supervised Prompt Tuning for Chest X-ray Latent Diffusion Models Konstantinos Vilouras, Ilias Stogiannidis, Junyu Yan, Alison Q. O'Neil, Sotirios A. Tsaftaris [12th Jun., 2025] [arXiv, 2025] [Paper]\nStable Vision Concept Transformers for Medical Diagnosis Lijie Hu, Songning Lai, Yuan Hua, Shu Yang, Jingfeng Zhang, Di Wang [05th Jun., 2025] [arXiv, 2025] [Paper]\nThe Devil is in the Prompts: De-Identification Traces Enhance Memorization Risks in Synthetic Chest X-Ray Generation Raman Dutt [11th Feb., 2025] [arXiv, 2025] [Paper]\nSelf-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images \\ Roberto Di Via, Francesca Odone, Vito Paolo Pastore [25th Jul., 2024] [arXiv, 2024] [Paper]\nA discontinuous Galerkin method for the three-dimensional heterodimer model with application to prion-like proteins' dynamics Paola F. Antonietti, Mattia Corti, Giacomo Lorenzon [22nd Jul., 2024] [arXiv, 2024] [Paper]\nBack-in-Time Diffusion: Unsupervised Detection of Medical Deepfakes Fred Grabovski, Lior Yasur, Guy Amit, Yuval Elovici, Yisroel Mirsky [21st Jul., 2024] [arXiv, 2024] [Paper]\nLatent Pollution Model: The Hidden Carbon Footprint in 3D Image Synthesis Marvin Seyfarth, Salman Ul Hassan Dar, Sandy Engelhardt [20th Jul., 2024] [SASHIMI, 2024] [Paper]\nHallucination Index: An Image Quality Metric for Generative Reconstruction Models Matthew Tivnan, Siyeop Yoon, Zhennong Chen, Xiang Li, Dufan Wu, Quanzheng Li [17th Jul., 2024] [MICCAI, 2024] [Paper]\nSalt & Pepper Heatmaps: Diffusion-informed Landmark Detection Strategy Julian Wyatt, Irina Voiculescu [12th Jul., 2024] [arXiv, 2024] [Paper]\nHybrid RAG-empowered Multi-modal LLM for Secure Healthcare Data Management: A Diffusion-based Contract Theory Approach Cheng Su, Jinbo Wen, Jiawen Kang, Yonghua Wang, Hudan Pan, M. Shamim Hossain [1st Jul., 2024] [arXiv, 2024] [Paper]\nMemControl: Mitigating Memorization in Medical Diffusion Models via Automated Parameter Selection Raman Dutt, Pedro Sanchez, Ondrej Bohdal, Sotirios A. Tsaftaris, Timothy Hospedales [29th May, 2024] [arXiv, 2024] [Paper]\nRadRotator: 3D Rotation of Radiographs with Diffusion Models Pouria Rouzrokh, Bardia Khosravi, Shahriar Faghani, Kellen L. Mulford, Michael J. Taunton, Bradley J. Erickson, Cody C. Wyles [19th Apr., 2024] [arXiv, 2024] [Paper] [Project Page] [Huggingface]\nZero-Shot Medical Phrase Grounding with Off-the-shelf Diffusion Models Konstantinos Vilouras, Pedro Sanchez, Alison Q. O'Neil, Sotirios A. Tsaftaris [19th Apr., 2024] [arXiv, 2024] [Paper]\nGuided Discrete Diffusion for Electronic Health Record Generation Jun Han, Zixiang Chen, Yongqian Li, Yiwen Kou, Eran Halperin, Robert E. Tillman, Quanquan Gu [18th Apr., 2024] [arXiv, 2024] [Paper]\nQSMDiff: Unsupervised 3D Diffusion Models for Quantitative Susceptibility Mapping Zhuang Xiong, Wei Jiang, Yang Gao, Feng Liu, Hongfu Sun [21st Mar., 2024] [arXiv, 2024] [Paper]\nOn the Standardization of Behavioral Use Clauses and Their Adoption for Responsible Licensing of AI Daniel McDuff, Tim Korjakow, Scott Cambo, Jesse Josua Benjamin, Jenny Lee, Yacine Jernite, Carlos Muñoz Ferrandis, Aaron Gokaslan, Alek Tarkowski, Joseph Lindley, A. Feder Cooper, Danish Contractor [7th Feb., 2024] [arXiv, 2024] [Paper]\nVALD-MD: Visual Attribution via Latent Diffusion for Medical Diagnostics Ammar A. Siddiqui, Santosh Tirunagari, Tehseen Zia, David Windridge [2nd Jan., 2024] [arXiv, 2024] [Paper]\nOn the notion of Hallucinations from the lens of Bias and Validity in Synthetic CXR Images Gauri Bhardwaj, Yuvaraj Govindarajulu, Sundaraparipurnan Narayanan, Pavan Kulkarni, Manojkumar Parmar [12th Dec., 2023] [arXiv, 2023] [Paper]\nAssessing the capacity of a denoising diffusion probabilistic model to reproduce spatial context Rucha Deshpande, Muzaffer Özbey, Hua Li, Mark A. Anastasio, Frank J. Brooks [19th Sep., 2023] [arXiv, 2023] [Paper]\nBeta quantile regression for robust estimation of uncertainty in the presence of outliers Haleh Akrami, Omar Zamzam, Anand Joshi, Sergul Aydore, Richard Leahy [14th Sep., 2023] [arXiv, 2023] [Paper]\nDoseDiff: Distance-aware Diffusion Model for Dose Prediction in Radiotherapy Yiwen Zhang, Chuanpu Li, Liming Zhong, Zeli Chen, Wei Yang, Xuetao Wang [28th Jun., 2023] [arXiv, 2023] [Paper]\nSemantic Latent Space Regression of Diffusion Autoencoders for Vertebral Fracture Grading Matthias Keicher, Matan Atad, David Schinz, Alexandra S. Gersing, Sarah C. Foreman, Sophia S. Goller, Juergen Weissinger, Jon Rischewski, Anna-Sophia Dietrich, Benedikt Wiestler, Jan S. Kirschke, Nassir Navab [21st Mar., 2023] [arXiv, 2023] [Paper]\nAugDiff: Diffusion based Feature Augmentation for Multiple Instance Learning in Whole Slide Image Zhuchen Shao, Liuxi Dai, Yifeng Wang, Haoqian Wang, Yongbing Zhang [11th Mar., 2023] [arXiv, 2023] [Paper]\nBrain Diffuser: An End-to-End Brain Image to Brain Network Pipeline Xuhang Chen, Baiying Lei, Chi-Man Pun, Shuqiang Wang [11th Mar., 2023] [arXiv, 2023] [Paper]\nLearning Enhancement From Degradation: A Diffusion Model For Fundus Image Enhancement Puijin Cheng, Li Lin, Yijin Huang, Huaqing He, Wenhan Luo, Xiaoying Tang [8th Mar., 2023] [arXiv, 2023] [Paper]\nDiffusionCT: Latent Diffusion Model for CT Image Standardization Md Selim, Jie Zhang, Michael A. Brooks, Ge Wang, Jin Chen [20th Jan., 2023] [arXiv, 2023] [Paper]\nDiffusion Model based Semi-supervised Learning on Brain Hemorrhage Images for Efficient Midline Shift Quantification Shizhan Gong, Cheng Chen, Yuqi Gong, Nga Yan Chan, Wenao Ma, Calvin Hoi-Kwan Mak, Jill Abrigo, Qi Dou [1st Jan., 2023] [arXiv, 2023] [Paper]",
@@ -3342,7 +3555,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:46:43.661Z",
+    "last_updated": "2026-08-28T23:33:07.770Z",
     "original_repository_info": {
       "archived": false,
       "id": 540766853,
@@ -3350,7 +3563,7 @@
       "last_commit": "2025-11-17T17:13:18Z",
       "owner": "amirhossein-kz",
       "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-      "stars": 2109
+      "stars": 2108
     },
     "original_repository_sha": "4278133236ad3cc9012ec13698302dea53c02192",
     "enhanced_repository": "enhansome/enhansome-Awesome-Diffusion-Models-in-Medical-Imaging",

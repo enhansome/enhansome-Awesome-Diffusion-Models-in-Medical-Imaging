@@ -1,6 +1,6 @@
 # Awesome Diffusion Models in Medical Imaging with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) ⭐ 2,109 | 🐛 2 | 📅 2025-11-17
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) ⭐ 2,108 | 🐛 2 | 📅 2025-11-17
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire: This is a collection of awesome articles about diffusion models in medical imaging:fire::fire:
@@ -195,7 +195,7 @@
 **Diffusion Models: A Comprehensive Survey of Methods and Applications** \
 *Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang* \
 \[2nd Sep., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,363 | 🐛 6 | 📅 2025-09-27]
+\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,364 | 🐛 6 | 📅 2025-09-27]
 
 ## Challenge Reports
 
@@ -321,7 +321,7 @@
 **Diffusion Models for Counterfactual Generation and Anomaly Detection in Brain Images** \
 *Alessandro Fontanella, Grant Mair, Joanna Wardlaw, Emanuele Trucco, Amos Storkey* \
 \[3rd Aug., 2023] \[arXiv, 2023]<br>
-\[[Paper](https://arxiv.org/abs/2308.02062)] \[[Github](https://github.com/alessandro-f/Dif-fuse) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2024-09-02]
+\[[Paper](https://arxiv.org/abs/2308.02062)] \[[Github](https://github.com/alessandro-f/Dif-fuse) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2024-09-02]
 
 **SANO: Score-Based Diffusion Model for Anomaly Localization in Dermatology** \
 *Alvaro Gonzalez-Jimenez, Simone Lionetti, Marc Pouly, Alexander A. Navarini* \
@@ -1392,12 +1392,12 @@
 **Solving Inverse Problems in Medical Imaging with Score-Based Generative Models**<br>
 *Yang Song, Liyue Shen, Lei Xing, Stefano Ermon*<br>
 \[15th Nov., 2021] \[ICLR, 2022] <br>
-\[[Paper](https://arxiv.org/abs/2111.08005)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 272 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
+\[[Paper](https://arxiv.org/abs/2111.08005)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 271 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
 
 **Score-based diffusion models for accelerated MRI** <br>
 *Hyungjin Chung, Jong chul Ye*<br>
 \[8th Oct., 2021] \[MIA, 2021]<br>
-\[[Paper](https://arxiv.org/abs/2110.05243)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 272 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
+\[[Paper](https://arxiv.org/abs/2110.05243)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 271 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
 
 **Robust Compressed Sensing MRI with Deep Generative Priors** <br>
 *Ajil Jalal, Marius Arvinte, Giannis Daras, Eric Price, Alexandros G. Dimakis, Jonathan I. Tamir*<br>
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,534 | 🐛 124 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,533 | 🐛 124 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
