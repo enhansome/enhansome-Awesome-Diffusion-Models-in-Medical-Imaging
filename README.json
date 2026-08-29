@@ -10,12 +10,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Repository for Diffusion-Model-related Papers in Low-level Vision",
+            "homepage": null,
             "id": 742205567,
             "language": null,
+            "license": null,
             "last_commit": "2025-02-23T18:03:03Z",
+            "open_issues": 2,
             "owner": "ChunmingHe",
             "repo": "awesome-diffusion-models-in-low-level-vision",
-            "stars": 556
+            "stars": 556,
+            "topics": [
+              "diffusion-model",
+              "image-deblurring",
+              "image-dehazing",
+              "image-fusion",
+              "image-inpainting",
+              "image-super-resolution",
+              "low-level-vision",
+              "low-light-image-enhancement",
+              "medical-image-processing",
+              "remote-sensing",
+              "survey",
+              "video-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:33:07.770Z"
         },
@@ -26,12 +44,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "MONAI Generative Models makes it easy to train, evaluate, and deploy generative models and related applications",
+            "homepage": null,
             "id": 536140117,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-01T14:33:54Z",
+            "open_issues": 44,
             "owner": "Project-MONAI",
             "repo": "GenerativeModels",
-            "stars": 760
+            "stars": 760,
+            "topics": [
+              "anomaly-detection",
+              "diffusion-models",
+              "generative-adversarial-network",
+              "generative-models",
+              "image-synthesis",
+              "image-translation",
+              "medical-imaging",
+              "monai",
+              "mri-reconstruction"
+            ]
           },
           "first_seen": "2026-08-28T23:33:07.770Z"
         },
@@ -42,12 +75,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository categorizes the papers about diffusion models applied in computer vision according to their target task. The classifcation is based on our survey: https://arxiv.org/abs/2209.04747v1",
+            "homepage": null,
             "id": 536421080,
             "language": null,
+            "license": null,
             "last_commit": "2023-11-26T19:30:40Z",
+            "open_issues": 0,
             "owner": "CroitoruAlin",
             "repo": "Diffusion-Models-in-Vision-A-Survey",
-            "stars": 405
+            "stars": 405,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:33:07.770Z"
         },
@@ -58,12 +96,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 536081536,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-18T10:45:40Z",
+            "open_issues": 2,
             "owner": "chq1155",
             "repo": "A-Survey-on-Generative-Diffusion-Model",
-            "stars": 972
+            "stars": 972,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:33:07.770Z"
         },
@@ -74,12 +117,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Diffusion model papers, survey, and taxonomy",
+            "homepage": null,
             "id": 535691024,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-27T02:49:32Z",
+            "open_issues": 6,
             "owner": "YangLing0818",
             "repo": "Diffusion-Models-Papers-Survey-Taxonomy",
-            "stars": 3364
+            "stars": 3364,
+            "topics": [
+              "diffusion-models",
+              "stable-diffusion",
+              "survey",
+              "text-to-3d",
+              "text-to-image",
+              "text-to-video"
+            ]
           },
           "first_seen": "2026-08-28T23:33:07.770Z"
         }
@@ -98,12 +153,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codebase for the paper Leveraging the Mahalanobis Distance to enhance Unsupervised Brain MRI Anomaly Detection",
+                "homepage": null,
                 "id": 816699020,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-01T08:07:57Z",
+                "open_issues": 0,
                 "owner": "FinnBehrendt",
                 "repo": "Mahalanobis-Unsupervised-Anomaly-Detection",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "deep-learning",
+                  "diffusion-models",
+                  "machine-learning",
+                  "mahalanobis-distance",
+                  "mri",
+                  "segmentation-models"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -114,12 +181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCDDPM: Multichannel Conditional Denoising Diffusion Model for Unsupervised Anomaly Detection in Brain MRI",
+                "homepage": null,
                 "id": 854446694,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-31T11:03:25Z",
+                "open_issues": 0,
                 "owner": "vivekkumartri",
                 "repo": "MCDDPM",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -130,12 +202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 763987163,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-01T08:11:22Z",
+                "open_issues": 0,
                 "owner": "FinnBehrendt",
                 "repo": "Ensembled-SSIM-for-Unsupervised-Anomaly-Detection",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -146,12 +223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 793551228,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-01T08:12:32Z",
+                "open_issues": 0,
                 "owner": "FinnBehrendt",
                 "repo": "Supervised-Anomaly-Detection-with-Diffusion-Models",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -162,12 +244,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 771484241,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-02-23T15:10:14Z",
+                "open_issues": 4,
                 "owner": "ci-ber",
                 "repo": "THOR_DDPM",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -178,12 +265,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codebase for Unsupervised Anomaly Detection using Aggregated Normative Diffusion (ANDi)",
+                "homepage": null,
                 "id": 783228200,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-15T13:04:45Z",
+                "open_issues": 0,
                 "owner": "AlexanderFrotscher",
                 "repo": "ANDi",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "anomaly-detection",
+                  "deep-learning",
+                  "diffusion-models",
+                  "mri-brain",
+                  "unsupervised-anomaly-detection",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -194,12 +293,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codebase for Conditioned Diffusion Models for Unsupervised Anomaly Detection",
+                "homepage": null,
                 "id": 728603195,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-23T08:04:34Z",
+                "open_issues": 0,
                 "owner": "FinnBehrendt",
                 "repo": "Conditioned-Diffusion-Models-UAD",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "anomaly-detection",
+                  "brats-dataset",
+                  "conditioned-diffusion-models",
+                  "deep-learning",
+                  "diffusion-models",
+                  "domain-adaptation",
+                  "mri-brain",
+                  "unsupervised-anomaly-detection",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -210,12 +324,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 654521010,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-11T23:48:45Z",
+                "open_issues": 3,
                 "owner": "evihuijben",
                 "repo": "mood_challenge",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -226,12 +345,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 680567537,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-29T15:42:59Z",
+                "open_issues": 0,
                 "owner": "ZiyunLiang",
                 "repo": "MMCCD",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -242,12 +366,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 674388544,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-09-02T16:32:27Z",
+                "open_issues": 0,
                 "owner": "alessandro-f",
                 "repo": "Dif-fuse",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -258,12 +387,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unsupervised Anomaly Detection in Medical Images Using Masked Diffusion Model",
+                "homepage": null,
                 "id": 647080508,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-12T14:04:36Z",
+                "open_issues": 6,
                 "owner": "hasan1292",
                 "repo": "mDDPM",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -274,12 +408,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codebase for Patched Diffusion Models for Unsupervised Anomaly Detection .",
+                "homepage": null,
                 "id": 610691802,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-19T10:16:52Z",
+                "open_issues": 1,
                 "owner": "FinnBehrendt",
                 "repo": "patched-Diffusion-Models-UAD",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "anomaly-detection",
+                  "deep-learning",
+                  "diffusion-models",
+                  "mri",
+                  "mri-reconstruction",
+                  "pytorch-implementation",
+                  "pytorch-lightning",
+                  "unsupervised-anomaly-detection",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -290,12 +439,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Denoising autoencoders for anomaly detection in medical imaging",
+                "homepage": null,
                 "id": 457738904,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2022-02-23T12:51:43Z",
+                "open_issues": 0,
                 "owner": "AntanasKascenas",
                 "repo": "DenoisingAE",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -306,12 +460,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Diff-SCM paper",
+                "homepage": null,
                 "id": 461431001,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-07T16:43:12Z",
+                "open_issues": 0,
                 "owner": "vios-s",
                 "repo": "Diff-SCM",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -322,12 +481,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "CVPR Workshop paper -  AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using Simplex Noise",
+                "homepage": "https://julianwyatt.co.uk/anoddpm",
                 "id": 431905606,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-04T17:21:01Z",
+                "open_issues": 12,
                 "owner": "Julian-Wyatt",
                 "repo": "AnoDDPM",
-                "stars": 218
+                "stars": 218,
+                "topics": [
+                  "anomaly-detection",
+                  "computer-vision",
+                  "cvpr",
+                  "ddpm",
+                  "dl",
+                  "medical",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -338,12 +510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anomaly detection with diffusion models",
+                "homepage": null,
                 "id": 464398682,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-05T13:16:23Z",
+                "open_issues": 17,
                 "owner": "JuliaWolleb",
                 "repo": "diffusion-anomaly",
-                "stars": 138
+                "stars": 138,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             }
@@ -361,12 +538,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EUSIPCO2024: Ultrasound Imaging based on the Variance of a Diffusion Restoration Model",
+                "homepage": null,
                 "id": 816381337,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2025-01-10T19:09:08Z",
+                "open_issues": 0,
                 "owner": "Yuxin-Zhang-Jasmine",
                 "repo": "DRUSvar",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -377,12 +559,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR2023] Official repository of DDM2: Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models",
+                "homepage": null,
                 "id": 597533284,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-21T23:32:58Z",
+                "open_issues": 29,
                 "owner": "StanfordMIMI",
                 "repo": "DDM2",
-                "stars": 192
+                "stars": 192,
+                "topics": [
+                  "denoising",
+                  "diffusion-models",
+                  "diffusion-mri",
+                  "iclr",
+                  "iclr2023"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -393,12 +586,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Application of Diffusion Probablistic Model for unsupervised OCT denoising ",
+                "homepage": null,
                 "id": 385291023,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-12T16:09:55Z",
+                "open_issues": 12,
                 "owner": "DeweiHu",
                 "repo": "OCT_DDPM",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             }
@@ -416,12 +614,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1028764139,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-10-01T03:26:48Z",
+                "open_issues": 2,
                 "owner": "huynhspm",
                 "repo": "Data-Uncertainty",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -432,12 +635,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] Code for \"Flow Stochastic Segmentation Networks\"",
+                "homepage": null,
                 "id": 1024390935,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-09T13:40:44Z",
+                "open_issues": 1,
                 "owner": "biomedia-mira",
                 "repo": "flow-ssn",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "generative-ai",
+                  "machine-learning",
+                  "medical-imaging",
+                  "neural-networks",
+                  "normalizing-flows",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -448,12 +665,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 860799311,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-09-21T07:41:23Z",
+                "open_issues": 1,
                 "owner": "Bekhouche",
                 "repo": "SegDT",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -464,12 +686,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1008401719,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-04-09T13:16:09Z",
+                "open_issues": 0,
                 "owner": "string-ellipses",
                 "repo": "DiffOSeg",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -480,12 +707,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1007626906,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-23T13:46:51Z",
+                "open_issues": 0,
                 "owner": "farheenjabeen",
                 "repo": "CLAIM-Scar-Synthesis",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -496,12 +728,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of Echo-DND: A Dual Noise Diffusion Model for Robust and Precise Left Ventricle Segmentation in Echocardiography",
+                "homepage": "https://abdur75648.github.io/Echo-DND",
                 "id": 1004080747,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-19T07:23:36Z",
+                "open_issues": 0,
                 "owner": "abdur75648",
                 "repo": "Echo-DND",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "diffusion-models",
+                  "echo-dnd",
+                  "echocardiogram",
+                  "echocardiogram-segmentation",
+                  "echocardiographic-videos",
+                  "echocardiography",
+                  "image-segmentation",
+                  "left-ventricle-segmentation",
+                  "medical-image-segmentation",
+                  "medical-imaging"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -512,12 +762,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Medical Image Segmentation",
+                "homepage": null,
                 "id": 427764203,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2025-11-13T19:44:41Z",
+                "open_issues": 1,
                 "owner": "Rows21",
                 "repo": "k-Means_Mask_Mamba",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -528,12 +783,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 952685725,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-22T13:07:07Z",
+                "open_issues": 0,
                 "owner": "andre-fs-ferreira",
                 "repo": "generative_networks",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -544,12 +804,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 959026858,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-04-02T06:37:44Z",
+                "open_issues": 1,
                 "owner": "ciampluca",
                 "repo": "diffusion_semi_supervised_biomedical_image_segmentation",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -560,12 +825,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Moved to https://github.com/HINTLab/DiffAtlas",
+                "homepage": null,
                 "id": 1268453736,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-13T14:55:02Z",
+                "open_issues": 0,
                 "owner": "M3DV",
                 "repo": "DiffAtlas",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -576,12 +846,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Conditional diffusion model with spatial attention and latent embedding for medical image segmentation",
+                "homepage": "https://papers.miccai.org/miccai-2024/paper/3622_paper.pdf",
                 "id": 820971879,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-01T19:45:12Z",
+                "open_issues": 1,
                 "owner": "Hejrati",
                 "repo": "cDAL",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "diffusion-models",
+                  "image-segmentation",
+                  "miccai2024"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -592,12 +871,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 880060296,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-29T03:45:22Z",
+                "open_issues": 1,
                 "owner": "nmduonggg",
                 "repo": "FDDM",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -608,12 +892,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 898980899,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-06T06:41:56Z",
+                "open_issues": 0,
                 "owner": "luo-lorry",
                 "repo": "Stylized-Medical-Segmentation",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -624,12 +913,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A foundation model for universal 3D blood vessel segmentation. Paper accepted @ CVPR25.",
+                "homepage": "https://openaccess.thecvf.com/content/CVPR2025/html/Wittmann_vesselFM_A_Foundation_Model_for_Universal_3D_Blood_Vessel_Segmentation_CVPR_2025_paper.html",
                 "id": 888925599,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-06T13:27:23Z",
+                "open_issues": 13,
                 "owner": "bwittmann",
                 "repo": "vesselFM",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "blood-vessel-segmentation",
+                  "foundation-models",
+                  "medical-image-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -640,12 +938,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code is coming soon",
+                "homepage": null,
                 "id": 736642268,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-19T04:53:10Z",
+                "open_issues": 0,
                 "owner": "ortonwang",
                 "repo": "ScribbleVS",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -656,12 +959,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IBSR 18 Brain Tissue Segmentation from MRI Using Deep Learning at University of Girona (Spain)",
+                "homepage": null,
                 "id": 728663472,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-02-02T10:39:11Z",
+                "open_issues": 0,
                 "owner": "imran-maia",
                 "repo": "IBSR_18_BraTSeg_Deep_Learning",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -672,12 +980,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 883848016,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-08T12:28:01Z",
+                "open_issues": 0,
                 "owner": "ratschlab",
                 "repo": "ICMSeg",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -688,12 +1001,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Weak conditional diffusion for domain adaptation",
+                "homepage": null,
                 "id": 709134448,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-04T13:20:43Z",
+                "open_issues": 3,
                 "owner": "DeweiHu",
                 "repo": "AdaptDiff",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -704,12 +1022,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of ODISE: Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models [CVPR 2023 Highlight]",
+                "homepage": "https://arxiv.org/abs/2303.04803",
                 "id": 605221864,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-06T07:52:49Z",
+                "open_issues": 57,
                 "owner": "NVlabs",
                 "repo": "ODISE",
-                "stars": 943
+                "stars": 943,
+                "topics": [
+                  "deep-learning",
+                  "diffusion-models",
+                  "instance-segmentation",
+                  "open-vocabulary",
+                  "open-vocabulary-segmentation",
+                  "open-vocabulary-semantic-segmentation",
+                  "open-world-classification",
+                  "open-world-object-detection",
+                  "panoptic-segmentation",
+                  "pytorch",
+                  "semantic-segmentation",
+                  "text-image-retrieval",
+                  "zero-shot-learning"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -720,12 +1057,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 764426240,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-03-05T05:15:22Z",
+                "open_issues": 1,
                 "owner": "LDSeg",
                 "repo": "LDSeg",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -736,12 +1078,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MICCAI' 24] DiffRect: Latent Diffusion Label Rectification for Semi-supervised Medical Image Segmentation",
+                "homepage": null,
                 "id": 823514462,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-07T15:00:36Z",
+                "open_issues": 0,
                 "owner": "CUHK-AIM-Group",
                 "repo": "DiffRect",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -752,12 +1099,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MICCAI 24] The official code repository for paper \"FairDiff: Fair Segmentation with Point-Image Diffusion\".",
+                "homepage": null,
                 "id": 802977954,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-12T06:47:21Z",
+                "open_issues": 1,
                 "owner": "wenyi-li",
                 "repo": "FairDiff",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -768,12 +1120,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "【MICCAI 2024, Early Accept】Enhancing Label-efficient Medical Image Segmentation with Text-guided Diffusion Models",
+                "homepage": null,
                 "id": 825268519,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-10T20:28:24Z",
+                "open_issues": 7,
                 "owner": "chunmeifeng",
                 "repo": "TextDiff",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -784,12 +1141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 775437900,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-03T11:44:05Z",
+                "open_issues": 8,
                 "owner": "takimailto",
                 "repo": "HiDiff",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -800,12 +1162,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MICCAI 2024] Codebase for \"Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process\"",
+                "homepage": "https://lin-tianyu.github.io/Stable-Diffusion-Seg/",
                 "id": 768465093,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-20T01:58:09Z",
+                "open_issues": 2,
                 "owner": "lin-tianyu",
                 "repo": "Stable-Diffusion-Seg",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "computer-vision",
+                  "diffusion-models",
+                  "medical-image-analysis",
+                  "segmentation",
+                  "stable-diffusion"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -816,12 +1189,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implement of paper CriDiff: Criss-cross Injection Diffusion Framework via Generative Pre-train for Prostate Segmentation.",
+                "homepage": null,
                 "id": 769852164,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-15T13:23:17Z",
+                "open_issues": 3,
                 "owner": "LiuTingWed",
                 "repo": "CriDiff",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -832,12 +1210,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reliable Source Approximation: Source-Free Domain Adaptation for Vestibular Schwannoma MRI Segmentation",
+                "homepage": null,
                 "id": 768324634,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-28T10:51:49Z",
+                "open_issues": 1,
                 "owner": "zenghy96",
                 "repo": "Reliable-Source-Approximation",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -848,12 +1231,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 766777756,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-04T05:35:32Z",
+                "open_issues": 0,
                 "owner": "LanHEU",
                 "repo": "CTS",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -864,12 +1252,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 895510783,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-10T06:10:42Z",
+                "open_issues": 0,
                 "owner": "leabogensperger",
                 "repo": "FlowSDF",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -880,12 +1273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Polyp dataset generation",
+                "homepage": null,
                 "id": 751292800,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-13T09:32:59Z",
+                "open_issues": 0,
                 "owner": "mobaidoctor",
                 "repo": "polyp-ddpm",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -896,12 +1294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 671800011,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-15T11:58:36Z",
+                "open_issues": 1,
                 "owner": "virginiafdez",
                 "repo": "brainSPADE3D_rel",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -912,12 +1315,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NeurIPS 2023: Towards Generic Semi-Supervised Framework for Volumetric Medical Image Segmentation",
+                "homepage": null,
                 "id": 701529635,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-04T02:17:49Z",
+                "open_issues": 6,
                 "owner": "xmed-lab",
                 "repo": "GenericSSL",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "diffusion-models",
+                  "medical-image-segmentation",
+                  "neurips-2023",
+                  "semi-supervised-domain-generalization",
+                  "semi-supervised-learning",
+                  "unsupervised-domain-adaptation"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -928,12 +1343,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 668035550,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-22T00:04:57Z",
+                "open_issues": 0,
                 "owner": "othmanela",
                 "repo": "medical_cert_seg",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -944,12 +1364,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JAX-based deep learning framework for image segmentation using diffusion models.",
+                "homepage": "https://melba-journal.org/2023:016",
                 "id": 611980931,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-11T15:52:32Z",
+                "open_issues": 1,
                 "owner": "mathpluscode",
                 "repo": "ImgX-DiffSeg",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "abdominal-organ-segmentation",
+                  "brain-tumor-segmentation",
+                  "deep-learning",
+                  "diffusion-models",
+                  "flax",
+                  "jax",
+                  "muscle-ultrasound-segmentation",
+                  "prostate-segmentation",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -960,12 +1395,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MICCAI 2023] DermoSegDiff: A Boundary-aware Segmentation Diffusion Model for Skin Lesion Delineation",
+                "homepage": "https://arxiv.org/abs/2308.02959",
                 "id": 673516783,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-27T09:48:25Z",
+                "open_issues": 3,
                 "owner": "xmindflow",
                 "repo": "DermoSegDiff",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "ddpm",
+                  "deep-learning",
+                  "diffusion",
+                  "diffusion-models",
+                  "ham10000",
+                  "isic",
+                  "ph2",
+                  "segmentation",
+                  "skin",
+                  "skin-lesion-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -976,12 +1427,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data & Code for FEDD published @ MICCAI 23",
+                "homepage": null,
                 "id": 667120787,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-10-11T16:42:37Z",
+                "open_issues": 0,
                 "owner": "hectorcarrion",
                 "repo": "FEDD",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -992,12 +1448,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 650536847,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-09-15T12:27:32Z",
+                "open_issues": 2,
                 "owner": "tomeramit",
                 "repo": "Annotator-Consensus-Prediction",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1008,12 +1469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 649957108,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-11T04:00:37Z",
+                "open_issues": 2,
                 "owner": "xhu248",
                 "repo": "cond_ddpm_wsss",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1024,12 +1490,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Using learned visual representations from diffusion models for brain tumor segmentation.",
+                "homepage": "https://link.springer.com/chapter/10.1007/978-3-031-34111-3_27",
                 "id": 610711033,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-20T12:51:14Z",
+                "open_issues": 0,
                 "owner": "risc-mi",
                 "repo": "braintumor-ddpm",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "brain-tumor-segmentation",
+                  "diffusion-models",
+                  "semi-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1040,12 +1515,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Pytorch Code base for \"Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model\"",
+                "homepage": null,
                 "id": 641292105,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-18T16:57:07Z",
+                "open_issues": 14,
                 "owner": "FengheTan9",
                 "repo": "Multi-Level-Global-Context-Cross-Consistency",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "diffusion-model",
+                  "image-generation",
+                  "medical-image-segmentation",
+                  "medical-imaging",
+                  "semi-supervised-learning",
+                  "semi-supervised-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1056,12 +1543,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accepted in CVPR 2023",
+                "homepage": "https://aimansnigdha.github.io/cimd/",
                 "id": 618138987,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-06T19:05:49Z",
+                "open_issues": 18,
                 "owner": "aimansnigdha",
                 "repo": "Ambiguous-Medical-Image-Segmentation-using-Diffusion-Models",
-                "stars": 215
+                "stars": 215,
+                "topics": [
+                  "medical-imaging",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1072,12 +1567,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 617295461,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-01-23T11:14:05Z",
+                "open_issues": 3,
                 "owner": "haipengzhou856",
                 "repo": "DPNet",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1088,12 +1588,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diff-UNet: A Diffusion Embedded Network for Volumetric Segmentation. (using diffusion for 3D medical image segmentation)",
+                "homepage": null,
                 "id": 615143942,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-22T00:27:37Z",
+                "open_issues": 34,
                 "owner": "ge-xing",
                 "repo": "Diff-UNet",
-                "stars": 198
+                "stars": 198,
+                "topics": [
+                  "3d",
+                  "brats2020",
+                  "btcv",
+                  "diffusion-models",
+                  "medical-imaging",
+                  "segmentation",
+                  "unet"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1104,12 +1617,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for \"Stochastic Segmentation with Conditional Categorical Diffusion Models\" (ICCV 2023)",
+                "homepage": "https://arxiv.org/abs/2303.08888",
                 "id": 614375165,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-09T08:09:26Z",
+                "open_issues": 1,
                 "owner": "LarsDoorenbos",
                 "repo": "ccdm-stochastic-segmentation",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "cityscapes-dataset",
+                  "diffusion-models",
+                  "generative-models",
+                  "lidc-dataset",
+                  "semantic-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1120,12 +1644,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JAX-based deep learning framework for image segmentation using diffusion models.",
+                "homepage": "https://melba-journal.org/2023:016",
                 "id": 611980931,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-11T15:52:32Z",
+                "open_issues": 1,
                 "owner": "mathpluscode",
                 "repo": "ImgX-DiffSeg",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "abdominal-organ-segmentation",
+                  "brain-tumor-segmentation",
+                  "deep-learning",
+                  "diffusion-models",
+                  "flax",
+                  "jax",
+                  "muscle-ultrasound-segmentation",
+                  "prostate-segmentation",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1136,12 +1675,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Using Diffusion Models to Segment/Reconstruct Organs from Medical Images [AAAI Most influential Paper]",
+                "homepage": null,
                 "id": 562036379,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-10T15:49:20Z",
+                "open_issues": 115,
                 "owner": "ImprintLab",
                 "repo": "MedSegDiff",
-                "stars": 1363
+                "stars": 1363,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "denoising-diffusion",
+                  "image-segmentation",
+                  "medical-imaging",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1152,12 +1703,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Using Diffusion Models to Segment/Reconstruct Organs from Medical Images [AAAI Most influential Paper]",
+                "homepage": null,
                 "id": 562036379,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-10T15:49:20Z",
+                "open_issues": 115,
                 "owner": "ImprintLab",
                 "repo": "MedSegDiff",
-                "stars": 1363
+                "stars": 1363,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "denoising-diffusion",
+                  "image-segmentation",
+                  "medical-imaging",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1168,12 +1731,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official Pytorch implementation of the paper \"Diffusion Models for Implicit Image Segmentation Ensembles\".",
+                "homepage": null,
                 "id": 436927287,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-05T13:14:38Z",
+                "open_issues": 28,
                 "owner": "JuliaWolleb",
                 "repo": "Diffusion-based-Segmentation",
-                "stars": 318
+                "stars": 318,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             }
@@ -1191,12 +1759,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Conversion from T1 to T2 MRI",
+                "homepage": null,
                 "id": 995427848,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-19T17:11:03Z",
+                "open_issues": 3,
                 "owner": "AndreaMoschetto",
                 "repo": "medical-I2I-benchmark",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1207,12 +1780,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Pytorch Implementation of Cor2Vox",
+                "homepage": null,
                 "id": 991427094,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-07T15:06:06Z",
+                "open_issues": 0,
                 "owner": "ai-med",
                 "repo": "Cor2Vox",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1223,12 +1801,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MICCAI 2024 Early Acceptance] Official Pytorch Code for Slice-Consistent 3D Volumetric Brain CT-to-MRI Translation with 2D Brownian Bridge Diffusion Model",
+                "homepage": null,
                 "id": 820918338,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-07T06:56:27Z",
+                "open_issues": 9,
                 "owner": "MICV-yonsei",
                 "repo": "CT2MRI",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1239,12 +1822,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Soft Masked Mamba Diffusion Model for CT to MRI Conversion (Official PyTorch Implementation)",
+                "homepage": null,
                 "id": 786407062,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-02T06:14:35Z",
+                "open_issues": 17,
                 "owner": "wongzbb",
                 "repo": "DiffMa-Diffusion-Mamba",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1255,12 +1843,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 805007183,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-13T04:16:45Z",
+                "open_issues": 17,
                 "owner": "mirthAI",
                 "repo": "Fast-DDPM",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1271,12 +1864,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of SelfRDB, a diffusion bridge model for multi-modal medical image synthesis",
+                "homepage": null,
                 "id": 800851655,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-05T12:15:38Z",
+                "open_issues": 6,
                 "owner": "icon-lab",
                 "repo": "SelfRDB",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "deep-learning",
+                  "diffusion-bridge",
+                  "diffusion-models",
+                  "image-synthesis",
+                  "image-to-image-translation",
+                  "medical-imaging",
+                  "neural-networks",
+                  "python",
+                  "pytorch",
+                  "schrodinger-bridge"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1287,12 +1896,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WACV 2024] Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study",
+                "homepage": null,
                 "id": 709628007,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-09T05:55:08Z",
+                "open_issues": 10,
                 "owner": "jongdory",
                 "repo": "ALDM",
-                "stars": 189
+                "stars": 189,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1303,12 +1917,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 605390716,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-19T18:39:34Z",
+                "open_issues": 3,
                 "owner": "Kent0n-Li",
                 "repo": "FGDM",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1319,12 +1938,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Combining image-to-image and class guided denoising diffusion probabilistic models.",
+                "homepage": null,
                 "id": 574896306,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-17T15:27:17Z",
+                "open_issues": 2,
                 "owner": "crosszamirski",
                 "repo": "guided-I2I",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             }
@@ -1342,12 +1966,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adaptive Mask-guided K-space Diffusion for Accelerated MRI Reconstruction",
+                "homepage": null,
                 "id": 1017706268,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-07-11T01:17:01Z",
+                "open_issues": 1,
                 "owner": "yqx7150",
                 "repo": "AMDM",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1358,12 +1987,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the code repository for the paper \"RN-SDEs: Limited-Angle CT Reconstruction with Residual Null-Space Diffusion Stochastic Differential Equations\"",
+                "homepage": null,
                 "id": 850078651,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-30T20:49:00Z",
+                "open_issues": 0,
                 "owner": "GuoJiaqi-1020",
                 "repo": "RN-SDE",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1374,12 +2008,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 825403933,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-26T17:32:00Z",
+                "open_issues": 1,
                 "owner": "noamelata",
                 "repo": "AdaSense",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1390,12 +2029,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DTM: Diffusion Transformer Model Guided by Compact Prior in Low-dose PET Reconstruction",
+                "homepage": null,
                 "id": 808394422,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-23T01:05:50Z",
+                "open_issues": 1,
                 "owner": "yqx7150",
                 "repo": "DTM",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1406,12 +2050,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 803197126,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-11-03T11:55:32Z",
+                "open_issues": 0,
                 "owner": "FabianSBD",
                 "repo": "SBD-task-dependent",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1422,12 +2071,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Detail-Preserving MR Reconstruction via Multiple Diffusion Models",
+                "homepage": null,
                 "id": 797586026,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-16T23:37:55Z",
+                "open_issues": 1,
                 "owner": "yqx7150",
                 "repo": "DP-MDM",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1438,12 +2092,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of the CEM in EIT used for KTC2023",
+                "homepage": null,
                 "id": 730804266,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-14T07:34:48Z",
+                "open_issues": 0,
                 "owner": "alexdenker",
                 "repo": "eit_fenicsx",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1454,12 +2113,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"MRPD: Undersampled MRI Reconstruction by Prompting a Large Latent Diffusion Model\" by Ziqi Gao and S. K. Zhou. ",
+                "homepage": null,
                 "id": 821286143,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-29T07:47:39Z",
+                "open_issues": 0,
                 "owner": "Z7Gao",
                 "repo": "MRPD",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1470,12 +2134,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 666320475,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-07T07:10:38Z",
+                "open_issues": 0,
                 "owner": "adahfbch",
                 "repo": "DGM-EIT",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1486,12 +2155,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MICCAI2023: Ultrasound Image Reconstruction with Denoising Diffusion Restoration Models ",
+                "homepage": null,
                 "id": 630938508,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-04T14:12:21Z",
+                "open_issues": 1,
                 "owner": "Yuxin-Zhang-Jasmine",
                 "repo": "DRUS-v1",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1502,12 +2176,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of the Fourier-constrained diffusion bridges (FDB) model for MRI reconstruction",
+                "homepage": null,
                 "id": 674676579,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-20T11:56:24Z",
+                "open_issues": 4,
                 "owner": "icon-lab",
                 "repo": "FDB",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "artificial-intelligence",
+                  "bridges",
+                  "deep-learning",
+                  "diffusion-models",
+                  "magnetic-resonance-imaging",
+                  "reconstruction",
+                  "score-based-generative-modeling"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1518,12 +2205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"Optimizing Sampling Patterns for Compressed Sensing MRI with Diffusion Generative Models\"",
+                "homepage": null,
                 "id": 648762057,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-30T19:42:47Z",
+                "open_issues": 1,
                 "owner": "Sriram-Ravula",
                 "repo": "MRI_Sampling_Diffusion",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1534,12 +2226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of the CVPR 2023 paper \"Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models (https://arxiv.org/abs/2211.10655)\"",
+                "homepage": null,
                 "id": 608400824,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-22T00:42:29Z",
+                "open_issues": 8,
                 "owner": "hyungjin-chung",
                 "repo": "DiffusionMBIR",
-                "stars": 189
+                "stars": 189,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1550,12 +2247,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One-shot Generative Prior in Hankel-k-space for Parallel Imaging Reconstruction",
+                "homepage": null,
                 "id": 518281247,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-12-04T12:11:11Z",
+                "open_issues": 1,
                 "owner": "yqx7150",
                 "repo": "HKGM",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1566,12 +2268,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Weight-K-space Generative Model for Parallel Imaging Reconstruction",
+                "homepage": null,
                 "id": 503362559,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-09-02T14:18:03Z",
+                "open_issues": 2,
                 "owner": "yqx7150",
                 "repo": "WKGM",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1582,12 +2289,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Towards performant and reliable undersampled MR reconstruction via diffusion model sampling",
+                "homepage": null,
                 "id": 468514269,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-09T19:13:14Z",
+                "open_issues": 7,
                 "owner": "cpeng93",
                 "repo": "DiffuseRecon",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1598,12 +2310,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for MC-DDPM",
+                "homepage": null,
                 "id": 466364139,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-04T11:37:25Z",
+                "open_issues": 8,
                 "owner": "Theodore-PKU",
                 "repo": "MC-DDPM",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1614,12 +2331,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 454705954,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-08-17T12:45:44Z",
+                "open_issues": 0,
                 "owner": "mrirecon",
                 "repo": "spreco",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1630,12 +2352,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repo for \"Solving Inverse Problems in Medical Imaging with Score-Based Generative Models\"",
+                "homepage": null,
                 "id": 490090478,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-20T18:37:17Z",
+                "open_issues": 11,
                 "owner": "yang-song",
                 "repo": "score_inverse_problems",
-                "stars": 271
+                "stars": 271,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1646,12 +2373,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repo for \"Solving Inverse Problems in Medical Imaging with Score-Based Generative Models\"",
+                "homepage": null,
                 "id": 490090478,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-20T18:37:17Z",
+                "open_issues": 11,
                 "owner": "yang-song",
                 "repo": "score_inverse_problems",
-                "stars": 271
+                "stars": 271,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1662,12 +2394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 384373280,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2021-12-04T19:44:46Z",
+                "open_issues": 2,
                 "owner": "utcsilab",
                 "repo": "csgm-mri-langevin",
-                "stars": 100
+                "stars": 100,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             }
@@ -1685,12 +2422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the codebase associated with the paper:  \"Perceptual Evaluation of GANs and Diffusion Models for Generating X-rays\", accepted at the 1st MICCAI Workshop on Human-AI Collaboration (HAIC), MICCAI 2025",
+                "homepage": null,
                 "id": 868614646,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-07-30T04:03:52Z",
+                "open_issues": 0,
                 "owner": "gregschuit",
                 "repo": "radiologist-perceptual-eval-xrays",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1701,12 +2443,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MONAI Tutorials",
+                "homepage": null,
                 "id": 288774122,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T20:13:38Z",
+                "open_issues": 124,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2533
+                "stars": 2533,
+                "topics": [
+                  "jupyter-notebook",
+                  "monai",
+                  "monai-tutorials",
+                  "monai-workflows",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1717,12 +2470,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MICCAI 2025] Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image",
+                "homepage": null,
                 "id": 1006745162,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-09T02:14:55Z",
+                "open_issues": 0,
                 "owner": "Qiukunpeng",
                 "repo": "ADC",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1733,12 +2491,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A text-to-image skin lesion diffusion model",
+                "homepage": null,
                 "id": 920858560,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-26T16:34:53Z",
+                "open_issues": 0,
                 "owner": "jfayyad",
                 "repo": "LesionGen",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1749,12 +2512,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "（MICCAI-2025) MedDiff-FT: Data-Efficient Diffusion Model Fine-tuning with Structural Guidance for Controllable Medical Image Synthesis",
+                "homepage": null,
                 "id": 1007160126,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-11T16:50:38Z",
+                "open_issues": 2,
                 "owner": "JianhaoXie1",
                 "repo": "MedDiff-FT",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1765,12 +2533,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offical Repo of \"TRACE: Temporally Reliable Anatomically-Conditioned 3D CT Generation with Enhanced Efficiency\" (MICCAI 2025)",
+                "homepage": null,
                 "id": 1004875262,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-20T14:55:10Z",
+                "open_issues": 0,
                 "owner": "VinyehShaw",
                 "repo": "TRACE",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1781,12 +2554,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 835021083,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-20T10:43:07Z",
+                "open_issues": 3,
                 "owner": "zfw-cv",
                 "repo": "AngioDiff",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1797,12 +2575,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS'25] Doctor Approved: Generating Medically Accurate Skin Disease Images through AI-Expert Feedback",
+                "homepage": "https://arxiv.org/abs/2506.12323",
                 "id": 997670329,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-28T17:25:31Z",
+                "open_issues": 1,
                 "owner": "janet-sw",
                 "repo": "MAGIC",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1813,12 +2596,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prompt-Guided Latent Diffusion with Predictive Class Conditioning for 3D Prostate MRI Generation",
+                "homepage": null,
                 "id": 1007293832,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-12T16:50:03Z",
+                "open_issues": 1,
                 "owner": "grabkeem",
                 "repo": "CCELLA",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1829,12 +2617,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Skeleton-Constrained Conditional Diffusion Model (SCCDM) in the diff-domain for foot X-ray synthesis, transforming natural foot images into X-ray images while ensuring logical skeletal structures through multi-scale feature extraction and self-attention.",
+                "homepage": null,
                 "id": 952385908,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-11-23T12:58:53Z",
+                "open_issues": 0,
                 "owner": "midisec",
                 "repo": "SCCDM",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1845,12 +2638,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2025] Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation",
+                "homepage": null,
                 "id": 954605081,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-29T17:36:30Z",
+                "open_issues": 1,
                 "owner": "Qiukunpeng",
                 "repo": "Siamese-Diffusion",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "cvpr2025",
+                  "diffusion-models",
+                  "medical-imaging",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1861,12 +2664,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Repository for the paper \"ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis\" Accepted at ICCV 2025",
+                "homepage": null,
                 "id": 1024776012,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-07-23T08:24:53Z",
+                "open_issues": 0,
                 "owner": "Onkarsus13",
                 "repo": "ViCTr-2D",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1877,12 +2685,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs",
+                "homepage": "https://jwmao1.github.io/MedSegFactory_web/",
                 "id": 963740698,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-26T23:18:44Z",
+                "open_issues": 1,
                 "owner": "jwmao1",
                 "repo": "MedSegFactory",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "diffusion-models",
+                  "generative-model",
+                  "medical-image-analysis",
+                  "medical-imaging"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1893,12 +2711,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MIV-CVPR 2025] Official implementation of \"Language-Guided Trajectory Traversal in Disentangled Stable Diffusion Latent Space for Factorized Medical Image Generation\"",
+                "homepage": "https://tehraninasab.github.io/sd-latent-traversal/",
                 "id": 966435287,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-01-27T20:48:10Z",
+                "open_issues": 0,
                 "owner": "tehraninasab",
                 "repo": "sd-latent-traversal",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "controlled-generation",
+                  "diffusion-models",
+                  "disentanglement",
+                  "genai",
+                  "generative-ai",
+                  "stable-diffusion"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1909,12 +2739,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZECO: ZeroFusion Guided 3D MRI Conditional Generation  (MVA 2025 Oral)",
+                "homepage": "https://brack-wang.github.io/ZECO_web/",
                 "id": 953692782,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-31T14:50:58Z",
+                "open_issues": 0,
                 "owner": "Brack-Wang",
                 "repo": "ZECO",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1925,12 +2760,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CQ-CNN: A Lightweight Hybrid Classical–Quantum Neural Network",
+                "homepage": "https://doi.org/10.1371/journal.pone.0331870",
                 "id": 942476249,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-10-05T19:36:40Z",
+                "open_issues": 0,
                 "owner": "mominul-ssv",
                 "repo": "alz-cq-cnn",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1941,12 +2781,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flow Matching for Medical Image Synthesis: Bridging the Gap Between Speed and Quality",
+                "homepage": null,
                 "id": 940843937,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-16T20:40:39Z",
+                "open_issues": 2,
                 "owner": "milad1378yz",
                 "repo": "MOTFM",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "brain-mri",
+                  "diffusion-models",
+                  "echocardiography",
+                  "flow-matching",
+                  "generative-models",
+                  "medical-image-synthesis",
+                  "medical-imaging",
+                  "mri",
+                  "optimal-transport",
+                  "ultrasound"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1957,12 +2813,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 859629335,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-09-22T17:59:20Z",
+                "open_issues": 0,
                 "owner": "Jia7878",
                 "repo": "compositional-prompt-diffusion-for-polyp-generation",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1973,12 +2834,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 888538165,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-29T21:05:55Z",
+                "open_issues": 4,
                 "owner": "Manem-Lab",
                 "repo": "Lung-DDPM",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -1989,12 +2855,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ultrasound Image Generation using Latent Diffusion Models",
+                "homepage": null,
                 "id": 842622438,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-09-03T01:47:44Z",
+                "open_issues": 1,
                 "owner": "Toterino",
                 "repo": "US-image-generation",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2005,12 +2876,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] MRGen: Segmentation Data Engine for Underrepresented MRI Modalities",
+                "homepage": "https://haoningwu3639.github.io/MRGen",
                 "id": 894496525,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-26T06:32:03Z",
+                "open_issues": 1,
                 "owner": "haoningwu3639",
                 "repo": "MRGen",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "diffusion-models",
+                  "medical-gen-ai",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2021,12 +2901,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "for reproducibility of VCM",
+                "homepage": null,
                 "id": 850580007,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-11T04:54:39Z",
+                "open_issues": 1,
                 "owner": "Ahn-Ssu",
                 "repo": "VCM",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2037,12 +2922,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[BraTS'24] PyTorch implementation for \"cWDM: Conditional Wavelet Diffusion Models for Cross-Modality 3D Medical Image Synthesis\"",
+                "homepage": "https://arxiv.org/abs/2411.17203",
                 "id": 872857110,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-27T07:17:19Z",
+                "open_issues": 0,
                 "owner": "pfriedri",
                 "repo": "cwdm",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2053,12 +2943,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 849057424,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-09-08T16:54:39Z",
+                "open_issues": 0,
                 "owner": "pedromorao",
                 "repo": "Counterfactual-MRI-Data-Augmentation",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2069,12 +2964,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LPUWF-LDM: Enhanced Latent Diffusion Model for Precise Late-phase UWF-FA Genera- tion on Limited Dataset",
+                "homepage": null,
                 "id": 768408667,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-22T08:49:51Z",
+                "open_issues": 2,
                 "owner": "Tinysqua",
                 "repo": "LPUWF-LDM",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2085,12 +2985,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 825251052,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-08T08:22:58Z",
+                "open_issues": 1,
                 "owner": "gungui98",
                 "repo": "echo-free",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2101,12 +3006,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "URCDM: Ultra-Resolution Image Synthesis in Histopathology code used for ",
+                "homepage": null,
                 "id": 825721860,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-06T23:36:37Z",
+                "open_issues": 0,
                 "owner": "scechnicka",
                 "repo": "URCDM",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2117,12 +3027,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MICCAI, 2024] (Oral, RU @ MedIA Best Paper Award) Official implementation of the Brain Latent Progression (BrLP) method from \"Enhancing Spatiotemporal Disease Progression Models via Latent Diffusion and Prior Knowledge\"",
+                "homepage": "https://lemuelpuglisi.github.io/blog/2024/brlp/",
                 "id": 796582316,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-31T09:05:53Z",
+                "open_issues": 4,
                 "owner": "LemuelPuglisi",
                 "repo": "BrLP",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "brain-latent-progression",
+                  "diffusion-models",
+                  "disease-progression-model",
+                  "image-generation",
+                  "longitudinal",
+                  "medical-image-analysis",
+                  "medical-imaging",
+                  "miccai",
+                  "miccai2024",
+                  "spatiotemporal-modeling"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2133,12 +3059,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 832218857,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-22T13:47:10Z",
+                "open_issues": 0,
                 "owner": "compai-lab",
                 "repo": "2024-miccai-dgm-daum",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2149,12 +3080,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MICCAI 2024] RadiomicsFill-Mammo: Synthetic Mammogram Mass Manipulation with Radiomics Features",
+                "homepage": null,
                 "id": 825551920,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-22T11:56:42Z",
+                "open_issues": 0,
                 "owner": "nainye",
                 "repo": "RadiomicsFill",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2165,12 +3101,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 881411113,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-28T15:06:12Z",
+                "open_issues": 2,
                 "owner": "yuan-12138",
                 "repo": "Synomaly",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2181,12 +3122,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Paper \"Towards Synchronous Memorizability and Generalizability with Site-Modulated Diffusion Replay for Cross-Site Continual Segmentation\"",
+                "homepage": null,
                 "id": 817222931,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-16T01:32:22Z",
+                "open_issues": 1,
                 "owner": "dyxu-cuhkcse",
                 "repo": "SMG-Learning",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2197,12 +3143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MedIA 2026] Official implementation of TTGA: Test-Time Generative Augmentation for Medical Image Segmentation.",
+                "homepage": "https://doi.org/10.1016/j.media.2025.103902",
                 "id": 819777162,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-01-05T17:30:19Z",
+                "open_issues": 0,
                 "owner": "maxiao0234",
                 "repo": "TTGA",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2213,12 +3164,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "X-ray2CTPA: Generating 3D CTPA scans from 2D X-ray conditioning",
+                "homepage": null,
                 "id": 812272820,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-01T18:21:16Z",
+                "open_issues": 10,
                 "owner": "NoaCahan",
                 "repo": "X-ray2CTPA",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2229,12 +3185,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 818337087,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-18T12:58:54Z",
+                "open_issues": 1,
                 "owner": "ZheLi2020",
                 "repo": "InfoDist",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2245,12 +3206,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository for \"3D MRI Synthesis with Slice-Based Latent Diffusion Models: Improving Tumor Segmentation Tasks in Data-Scarce Regimes\"",
+                "homepage": null,
                 "id": 715087200,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-14T08:39:20Z",
+                "open_issues": 0,
                 "owner": "Arksyd96",
                 "repo": "synthesis-with-slice-based-ldm",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2261,12 +3227,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI' 25] U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation",
+                "homepage": "https://yes-u-kan.github.io/",
                 "id": 810097823,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-23T16:35:29Z",
+                "open_issues": 40,
                 "owner": "CUHK-AIM-Group",
                 "repo": "U-KAN",
-                "stars": 553
+                "stars": 553,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2277,12 +3248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MICCAI 2024 code for the paper: EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing. EchoNet-Synthetic is a synthetic dataset generated by following a protocol to generate surrogate privacy-preserving synthetic datasets.",
+                "homepage": null,
                 "id": 775082768,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-16T10:10:36Z",
+                "open_issues": 1,
                 "owner": "HReynaud",
                 "repo": "EchoNet-Synthetic",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2293,12 +3269,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper \"Unsupervised contrastive analysis for anomaly detection in brain MRIs via conditional diffusion models\", Pattern Recognition Letters.",
+                "homepage": null,
                 "id": 799990196,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-03T13:38:46Z",
+                "open_issues": 0,
                 "owner": "CristianoPatricio",
                 "repo": "unsupervised-contrastive-cond-diff",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "brain-mri",
+                  "contrastive-analysis",
+                  "contrastive-learning",
+                  "diffusion-models",
+                  "unsupervised-anomaly-detection"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2309,12 +3296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of the paper \"Memory-efficient High-resolution OCT Volume Synthesis with Cascaded Amortized Latent Diffusion Models\".",
+                "homepage": null,
                 "id": 806085898,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-09T06:16:01Z",
+                "open_issues": 0,
                 "owner": "nicetomeetu21",
                 "repo": "CA-LDM",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2325,12 +3317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation for Long Tail Image Generation Through Feature Space Augmentation and Iterated Learning.",
+                "homepage": null,
                 "id": 794186431,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-03T20:07:56Z",
+                "open_issues": 0,
                 "owner": "SugarFreeManatee",
                 "repo": "Feature-Space-Augmentation-and-Iterated-Learning",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2341,12 +3338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 783468464,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-12T21:07:02Z",
+                "open_issues": 0,
                 "owner": "2022yingjie",
                 "repo": "MaSkel",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2357,12 +3359,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code repository for paper: Fairness-Aware Data Augmentation for Cardiac MRI using Text-Conditioned Diffusion Models",
+                "homepage": null,
                 "id": 766913925,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-14T08:43:29Z",
+                "open_issues": 0,
                 "owner": "faildeny",
                 "repo": "debiasing-cardiac-mri",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "bias-mitigation",
+                  "controlnet",
+                  "diffusion-models",
+                  "fairness",
+                  "magnetic-resonance-imaging",
+                  "medical-imaging",
+                  "stable-diffusion",
+                  "ukbiobank"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2373,12 +3389,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codes for Vision-Language Synthetic Data Enhances Echocardiography Downstream Tasks",
+                "homepage": null,
                 "id": 777532675,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-08T17:03:02Z",
+                "open_issues": 2,
                 "owner": "Pooria90",
                 "repo": "DiffEcho",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2389,12 +3410,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"Synthetic vs. Classic Data Augmentation: Impacts on Breast Ultrasound Image Classification\"",
+                "homepage": null,
                 "id": 771680689,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-09T22:37:18Z",
+                "open_issues": 2,
                 "owner": "yasamin-med",
                 "repo": "SCDA",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2405,12 +3431,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Moved to https://github.com/HINTLab/LeFusion",
+                "homepage": "https://arxiv.org/abs/2403.14066",
                 "id": 1059587506,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-18T16:43:24Z",
+                "open_issues": 0,
                 "owner": "M3DV",
                 "repo": "LeFusion",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2421,12 +3452,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IJCV'2026] Generative Enhancement for 3D Medical Images",
+                "homepage": null,
                 "id": 770246634,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-12T02:30:33Z",
+                "open_issues": 0,
                 "owner": "HKU-MedAI",
                 "repo": "GEM-3D",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "3d-medical-images",
+                  "diffusion-models",
+                  "image-generation"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2437,12 +3477,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 771514307,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-13T09:58:05Z",
+                "open_issues": 0,
                 "owner": "BioMedIA-MBZUAI",
                 "repo": "XReal",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "controllable-generation",
+                  "diffusion-models",
+                  "image-generation",
+                  "image-synthesis",
+                  "x-ray-images"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2453,12 +3504,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MICCAI 2024] TrIND: Representing Anatomical Trees by Denoising Diffusion of Implicit Neural Fields",
+                "homepage": null,
                 "id": 770125992,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-18T03:34:42Z",
+                "open_issues": 0,
                 "owner": "sinAshish",
                 "repo": "TreeDiffusion",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "anatomical-shape-analysis",
+                  "diffusion-models",
+                  "implicit-neural-representation",
+                  "miccai",
+                  "miccai2024",
+                  "vasculature",
+                  "vessel-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2469,12 +3533,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MICCAI 2024] TrIND: Representing Anatomical Trees by Denoising Diffusion of Implicit Neural Fields",
+                "homepage": null,
                 "id": 770125992,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-18T03:34:42Z",
+                "open_issues": 0,
                 "owner": "sinAshish",
                 "repo": "TreeDiffusion",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "anatomical-shape-analysis",
+                  "diffusion-models",
+                  "implicit-neural-representation",
+                  "miccai",
+                  "miccai2024",
+                  "vasculature",
+                  "vessel-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2485,12 +3562,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Generalizable Tumor Synthesis - Realistic Synthetic Tumors in Liver, Pancreas, and Kidney",
+                "homepage": "https://www.cs.jhu.edu/~alanlab/Pubs24/chen2024towards.pdf",
                 "id": 763854539,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T17:15:36Z",
+                "open_issues": 13,
                 "owner": "MrGiovanni",
                 "repo": "DiffTumor",
-                "stars": 219
+                "stars": 219,
+                "topics": [
+                  "data-synthesis",
+                  "tumor-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2501,12 +3586,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[DGM4MICCAI'24] PyTorch implementation for \"WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis\"",
+                "homepage": "https://pfriedri.github.io/wdm-3d-io",
                 "id": 764639089,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-01T05:51:21Z",
+                "open_issues": 1,
                 "owner": "pfriedri",
                 "repo": "wdm-3d",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "3d",
+                  "diffusion-models",
+                  "image-generation",
+                  "wavelet-transform"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2517,12 +3612,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SynFundus-1M is a synthetic fundus image dataset consisting of millions of images and extensive annotations that can help improve the performance of diagnostic models.",
+                "homepage": null,
                 "id": 731000542,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-11T08:02:09Z",
+                "open_issues": 3,
                 "owner": "parap1uie-s",
                 "repo": "SynFundus-1M",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2533,12 +3633,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adaptive depth-controlled bidirecional diffusion",
+                "homepage": null,
                 "id": 716381987,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-10T08:36:08Z",
+                "open_issues": 2,
                 "owner": "Rowerliu",
                 "repo": "ADD",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2549,12 +3654,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 687641229,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-31T17:58:03Z",
+                "open_issues": 0,
                 "owner": "BardiaKh",
                 "repo": "SyntheticallyEnhanced",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2565,12 +3675,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 677921102,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-20T20:32:38Z",
+                "open_issues": 1,
                 "owner": "dsaragih",
                 "repo": "diffuse-gen",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2581,12 +3696,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MICCAI-2023] ArSDM: Colonoscopy Images Synthesis with Adaptive Refinement Semantic Diffusion Models",
+                "homepage": null,
                 "id": 663067546,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-13T07:17:06Z",
+                "open_issues": 6,
                 "owner": "DuYooho",
                 "repo": "ArSDM",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2597,12 +3717,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 652839004,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-24T15:41:32Z",
+                "open_issues": 1,
                 "owner": "karenyyy",
                 "repo": "HistoDiffAug",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2613,12 +3738,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diffusion-driven Counterfactual Explanation for Functional MRI (https://arxiv.org/abs/2307.09547)",
+                "homepage": null,
                 "id": 670086456,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-24T09:18:45Z",
+                "open_issues": 1,
                 "owner": "icon-lab",
                 "repo": "DreaMR",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "counterfactual-explanations",
+                  "deep-learning",
+                  "diffusion-models",
+                  "distillation",
+                  "explainable-ai",
+                  "functional-mri",
+                  "score-based-generative-modeling",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2629,12 +3768,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Using GANs and Stable Diffusion to generate Chest Xray data points and evaluating them using convolutional classifiers.",
+                "homepage": null,
                 "id": 633429317,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-05-31T06:36:33Z",
+                "open_issues": 1,
                 "owner": "mdanyalmalik",
                 "repo": "chest-xray-synthesis",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2645,12 +3789,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ECCV 2024 & GenerateCT: Text-Conditional Generation of 3D Chest CT Volumes",
+                "homepage": null,
                 "id": 642459807,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-03T20:26:29Z",
+                "open_issues": 5,
                 "owner": "ibrahimethemhamamci",
                 "repo": "GenerateCT",
-                "stars": 194
+                "stars": 194,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2661,12 +3810,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code to implement \"Echo from noise: synthetic ultrasound image generation using diffusion models for real image segmentation\"",
+                "homepage": null,
                 "id": 638481992,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-03T19:46:30Z",
+                "open_issues": 4,
                 "owner": "david-stojanovski",
                 "repo": "echo_from_noise",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2677,12 +3831,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 568807779,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-05-06T14:07:26Z",
+                "open_issues": 3,
                 "owner": "simulamet-host",
                 "repo": "conditional-polyp-diffusion",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2693,12 +3852,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":page_facing_up:  Short paper to Medical Imaging with Deep Learning 2023 (#MIDL2023) > https://arxiv.org/abs/2304.03941",
+                "homepage": null,
                 "id": 624761682,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-07-17T10:25:14Z",
+                "open_issues": 3,
                 "owner": "xfetus",
                 "repo": "midl2023",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "adversarial-machine-learning",
+                  "data-augmentation",
+                  "deep-learning",
+                  "generative-adversarial-network",
+                  "generative-models",
+                  "machine-learning",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2709,12 +3881,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MICCAI 2023 code for the paper: Feature-Conditioned Cascaded Video Diffusion Models for Precise Echocardiogram Synthesis. EchoDiffusion is a collection of video diffusion models trained from scratch on the EchoNet-Dynamic dataset with the imagen-pytorch repo.",
+                "homepage": "https://hreynaud.github.io/EchoDiffusion/",
                 "id": 611754680,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-29T20:13:59Z",
+                "open_issues": 0,
                 "owner": "HReynaud",
                 "repo": "EchoDiffusion",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "cardiac",
+                  "deep-learning",
+                  "diffusion",
+                  "medical-imaging",
+                  "simulation",
+                  "ultrasound",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2725,12 +3910,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for the publication \"Denoising Diffusion Probabilistic Models for Generation of Realistic Fully-Annotated Microscopy Image Data Sets\"",
+                "homepage": null,
                 "id": 579910992,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-06T09:13:07Z",
+                "open_issues": 5,
                 "owner": "stegmaierj",
                 "repo": "DiffusionModelsForImageSynthesis",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2741,12 +3931,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Medical Diffusion: This repository contains the code to our paper Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Synthesis",
+                "homepage": null,
                 "id": 538408555,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-05-12T13:25:42Z",
+                "open_issues": 19,
                 "owner": "FirasGit",
                 "repo": "medicaldiffusion",
-                "stars": 495
+                "stars": 495,
+                "topics": [
+                  "ct",
+                  "diffusion-models",
+                  "machine-learning",
+                  "mri"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2757,12 +3957,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Diffusion Model Predicts 3D Shapes from 2D Microscopy Images",
+                "homepage": null,
                 "id": 526618074,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-31T18:31:18Z",
+                "open_issues": 4,
                 "owner": "marrlab",
                 "repo": "DISPR",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2773,12 +3978,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 462716285,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-30T02:41:05Z",
+                "open_issues": 5,
                 "owner": "torchDDM",
                 "repo": "DDM",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2789,12 +3999,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " 3D medical image synthesis",
+                "homepage": null,
                 "id": 485805691,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-12-29T07:11:43Z",
+                "open_issues": 1,
                 "owner": "DL-Circle",
                 "repo": "3D-DDPM",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             }
@@ -2812,12 +4027,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 751784315,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-28T11:08:48Z",
+                "open_issues": 1,
                 "owner": "THunderCondOR",
                 "repo": "ImageCLEFmed-MEDVQA-GI-2024-MMCP-Team",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2828,12 +4048,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://simeonallmendinger.github.io/SyntheticImageGeneration/",
                 "id": 565756105,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-06T20:56:51Z",
+                "open_issues": 0,
                 "owner": "SimeonAllmendinger",
                 "repo": "SyntheticImageGeneration",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2844,12 +4069,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo for MedSyn: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images",
+                "homepage": null,
                 "id": 699030894,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-12T01:47:54Z",
+                "open_issues": 6,
                 "owner": "batmanlab",
                 "repo": "MedSyn",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2860,12 +4090,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 604663141,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-18T18:13:49Z",
+                "open_issues": 0,
                 "owner": "MischaD",
                 "repo": "chest-distillation",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             }
@@ -2883,12 +4118,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026] Learning Diffeomorphism for Medical Image Registration with Time-Embedded Architectures using Semigroup Regularization (Oral 🏆 Award Candidate)",
+                "homepage": "https://mattkia.github.io/SGDIR/",
                 "id": 806794976,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-02T19:55:45Z",
+                "open_issues": 5,
                 "owner": "mattkia",
                 "repo": "SGDIR",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2899,12 +4139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MICCAI 2023: FSDiffReg: Feature-wise and Score-wise Diffusion-guided Unsupervised Deformable Image Registration for Cardiac Images",
+                "homepage": null,
                 "id": 654858110,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-15T13:22:52Z",
+                "open_issues": 12,
                 "owner": "xmed-lab",
                 "repo": "FSDiffReg",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             }
@@ -2922,12 +4167,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 842656067,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-06T08:52:26Z",
+                "open_issues": 0,
                 "owner": "Deltadahl",
                 "repo": "CytoDiffusion",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2938,12 +4188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Counterfactual Explanations for Medical Image Classification and Regression using Diffusion Autoencoder",
+                "homepage": null,
                 "id": 778970387,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-01-07T10:04:47Z",
+                "open_issues": 0,
                 "owner": "matanat",
                 "repo": "dae_counterfactual",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2954,12 +4209,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 820411660,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-06-26T12:18:04Z",
+                "open_issues": 1,
                 "owner": "ayanglab",
                 "repo": "Diff3Dformer",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -2970,12 +4230,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MICCAI 2023] DiffMIC: Dual-Guidance Diffusion Network for Medical Image Classification",
+                "homepage": null,
                 "id": 617795974,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-03T08:43:29Z",
+                "open_issues": 2,
                 "owner": "scott-yjyang",
                 "repo": "DiffMIC",
-                "stars": 173
+                "stars": 173,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             }
@@ -2993,12 +4258,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 836789784,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-24T10:01:09Z",
+                "open_issues": 0,
                 "owner": "mueller-mp",
                 "repo": "logex",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -3009,12 +4279,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MICCAI 2023 & Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic Dental X-rays",
+                "homepage": null,
                 "id": 612634447,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-31T16:16:05Z",
+                "open_issues": 8,
                 "owner": "ibrahimethemhamamci",
                 "repo": "HierarchicalDet",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             }
@@ -3034,12 +4309,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 716733313,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2024-05-22T18:34:42Z",
+                    "open_issues": 0,
                     "owner": "QixuanJin99",
                     "repo": "generative_validation",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:33:07.770Z"
                 },
@@ -3050,12 +4330,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multitask Brain Tumor Inpainting with Diffusion Models",
+                    "homepage": null,
                     "id": 553362069,
                     "language": "Python",
+                    "license": "CC0-1.0",
                     "last_commit": "2022-12-10T02:16:54Z",
+                    "open_issues": 3,
                     "owner": "Mayo-Radiology-Informatics-Lab",
                     "repo": "MBTI",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:33:07.770Z"
                 }
@@ -3073,12 +4358,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Res-SRDiff is a diffusion-based super-resolution framework for high-resolution MRI reconstruction, using residual shifting for faster, detailed image restoration. ",
+                    "homepage": null,
                     "id": 937377862,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-07-19T15:51:24Z",
+                    "open_issues": 0,
                     "owner": "mosaf",
                     "repo": "Res-SRDiff",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:33:07.770Z"
                 },
@@ -3089,12 +4379,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 860222676,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2024-11-05T14:34:37Z",
+                    "open_issues": 0,
                     "owner": "vishal-dubey-0026",
                     "repo": "TemporalSpatialSR_LDM",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:33:07.770Z"
                 },
@@ -3105,12 +4400,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[Early Accepted at MICCAI 2023] Pytorch Code of \"InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model\"",
+                    "homepage": "http://arxiv.org/abs/2308.12465",
                     "id": 654329346,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-25T13:27:43Z",
+                    "open_issues": 10,
                     "owner": "BioMedAI-UCSC",
                     "repo": "InverseSR",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": [
+                      "computer-vision",
+                      "deep-learning",
+                      "diffusion-models",
+                      "inverse-problems",
+                      "latent-diffusion-models",
+                      "mri-super-resolution",
+                      "super-resolution"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:33:07.770Z"
                 },
@@ -3121,12 +4429,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 547394522,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-03-11T02:05:58Z",
+                    "open_issues": 4,
                     "owner": "yuanzhengthu",
                     "repo": "handDrawnPAAImages",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:33:07.770Z"
                 }
@@ -3144,12 +4457,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Communications Medicine 2025",
+                    "homepage": null,
                     "id": 807023291,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2025-06-21T13:28:06Z",
+                    "open_issues": 1,
                     "owner": "Feynben",
                     "repo": "UniMIE",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:33:07.770Z"
                 },
@@ -3160,12 +4478,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[MICCAI 2024 Best Paper Honorable Mention] LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion",
+                    "homepage": null,
                     "id": 767453757,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-02-11T12:41:49Z",
+                    "open_issues": 1,
                     "owner": "DavisMeee",
                     "repo": "LighTDiff",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": [
+                      "ddpm",
+                      "denoising-diffusion",
+                      "low-light-enhancement",
+                      "surgical-endoscopic"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:33:07.770Z"
                 },
@@ -3176,12 +4504,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official repository of \"Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models\"",
+                    "homepage": "https://arxiv.org/abs/2403.13890",
                     "id": 774949850,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-23T01:04:08Z",
+                    "open_issues": 0,
                     "owner": "RichardObi",
                     "repo": "ccnet",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "cancer-detection",
+                      "computer-vision",
+                      "contrast-agents",
+                      "contrast-enhancement",
+                      "controlnet",
+                      "dce-mri",
+                      "diffusion-models",
+                      "generative-ai",
+                      "generative-model",
+                      "image-generation",
+                      "latent-diffusion",
+                      "latent-diffusion-models",
+                      "magnetic-resonance-imaging",
+                      "medical-image-analysis",
+                      "medical-imaging",
+                      "mri",
+                      "synthesis",
+                      "synthetic-data",
+                      "tumor-heterogeneity"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:33:07.770Z"
                 },
@@ -3192,12 +4545,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 745237110,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-12-17T23:25:37Z",
+                    "open_issues": 0,
                     "owner": "MLNeurosurg",
                     "repo": "restorative_step-calibrated_diffusion",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:33:07.770Z"
                 },
@@ -3208,12 +4566,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of “LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion”, MICCAI 2023",
+                    "homepage": null,
                     "id": 659421285,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-07-07T14:05:10Z",
+                    "open_issues": 6,
                     "owner": "longbai1006",
                     "repo": "LLCaps",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:33:07.770Z"
                 }
@@ -3236,12 +4599,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 797483667,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-18T02:18:56Z",
+                "open_issues": 1,
                 "owner": "yasamin-med",
                 "repo": "P2P",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -3252,12 +4620,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository of paper titled \"on enhancing the robustness of vision transformers in medical imaging: defensive diffusion\"",
+                "homepage": null,
                 "id": 597700884,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-05-21T23:14:20Z",
+                "open_issues": 0,
                 "owner": "Muhammad-Huzaifaa",
                 "repo": "Defensive_Diffusion",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             }
@@ -3275,12 +4648,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 974090541,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-04-28T09:32:10Z",
+                "open_issues": 0,
                 "owner": "mHaoruikk",
                 "repo": "AI-Alignment-Medical-Imaging",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -3291,12 +4669,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Science Advances 2025] FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation",
+                "homepage": "https://www.science.org/doi/full/10.1126/sciadv.ads4593",
                 "id": 837069050,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-15T17:50:27Z",
+                "open_issues": 1,
                 "owner": "Harvard-Ophthalmology-AI-Lab",
                 "repo": "FairDiffusion",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -3307,12 +4690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MICCAI 24] The official code repository for paper \"FairDiff: Fair Segmentation with Point-Image Diffusion\".",
+                "homepage": null,
                 "id": 802977954,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-12T06:47:21Z",
+                "open_issues": 1,
                 "owner": "wenyi-li",
                 "repo": "FairDiff",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -3323,12 +4711,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code repository for paper: Fairness-Aware Data Augmentation for Cardiac MRI using Text-Conditioned Diffusion Models",
+                "homepage": null,
                 "id": 766913925,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-14T08:43:29Z",
+                "open_issues": 0,
                 "owner": "faildeny",
                 "repo": "debiasing-cardiac-mri",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "bias-mitigation",
+                  "controlnet",
+                  "diffusion-models",
+                  "fairness",
+                  "magnetic-resonance-imaging",
+                  "medical-imaging",
+                  "stable-diffusion",
+                  "ukbiobank"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -3339,12 +4741,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data & Code for FEDD published @ MICCAI 23",
+                "homepage": null,
                 "id": 667120787,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-10-11T16:42:37Z",
+                "open_issues": 0,
                 "owner": "hectorcarrion",
                 "repo": "FEDD",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             }
@@ -3362,12 +4769,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 823893121,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-10-05T11:07:49Z",
+                "open_issues": 1,
                 "owner": "ZedKing12138",
                 "repo": "NODER-pytorch",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -3378,12 +4790,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 560936913,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-10T12:42:43Z",
+                "open_issues": 3,
                 "owner": "ispras",
                 "repo": "EcgLib",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             }
@@ -3401,12 +4818,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(NeurIPS 2023 Workshop on DGM4H) Official Implementation of \"Adversarial Fine-tuning using Generated Respiratory Sound to Address Class Imbalance\"",
+                "homepage": null,
                 "id": 717082539,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-05T09:30:06Z",
+                "open_issues": 1,
                 "owner": "kaen2891",
                 "repo": "adversarial_fine-tuning_using_generated_respiratory_sound",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             }
@@ -3424,12 +4846,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 872959236,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-31T18:30:24Z",
+                "open_issues": 0,
                 "owner": "junzhin",
                 "repo": "DGM-VLC",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -3440,12 +4867,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Assessing Sample Quality via the Latent Space of Generative Models (ECCV 2024)",
+                "homepage": null,
                 "id": 849303395,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-08-29T11:03:35Z",
+                "open_issues": 1,
                 "owner": "cvlab-stonybrook",
                 "repo": "LS-sample-quality",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -3456,12 +4888,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"DUE: Dynamic Uncertainty-Aware Explanation Supervision via 3D Imputation\" (KDD 2024)",
+                "homepage": null,
                 "id": 754635505,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-13T13:08:10Z",
+                "open_issues": 0,
                 "owner": "AlexQilong",
                 "repo": "DUE",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -3472,12 +4909,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 760413853,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-02-20T11:42:07Z",
+                "open_issues": 0,
                 "owner": "tkatsuoka",
                 "repo": "DAL-test",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -3488,12 +4930,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository to train Latent Diffusion Models on Chest X-ray data (MIMIC-CXR) using MONAI Generative Models ",
+                "homepage": null,
                 "id": 597495724,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-05T09:24:58Z",
+                "open_issues": 8,
                 "owner": "Warvito",
                 "repo": "generative_chestxray",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "chest-xray-images",
+                  "diffusion-models",
+                  "latent-diffusion-models",
+                  "medical-imaging",
+                  "mimic-cxr",
+                  "monai"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -3504,12 +4958,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of the paper: \"FedTabDiff: Federated Learning of Diffusion Models for Synthetic Mixed-Type Tabular Data Generation\"",
+                "homepage": "https://arxiv.org/abs/2401.06263",
                 "id": 734368004,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-10T16:24:57Z",
+                "open_issues": 1,
                 "owner": "sattarov",
                 "repo": "FedTabDiff",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -3520,12 +4979,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 671541374,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-09T07:10:26Z",
+                "open_issues": 0,
                 "owner": "peterhan91",
                 "repo": "diffchest",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -3536,12 +5000,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch code for \"Out-of-distribution detection with denoising diffusion models\"",
+                "homepage": "https://arxiv.org/abs/2211.07740",
                 "id": 566531671,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-09T17:20:09Z",
+                "open_issues": 0,
                 "owner": "marksgraham",
                 "repo": "ddpm-ood",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "diffusion-models",
+                  "out-of-distribution-detection",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             }
@@ -3555,15 +5028,37 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:33:07.770Z",
+    "last_updated": "2026-08-29T04:27:09.623Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
+      "homepage": "https://www.sciencedirect.com/science/article/pii/S1361841523001068",
       "id": 540766853,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-11-17T17:13:18Z",
+      "open_issues": 2,
       "owner": "amirhossein-kz",
       "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-      "stars": 2108
+      "stars": 2108,
+      "topics": [
+        "ddpm",
+        "deep-learning",
+        "denoising",
+        "diffusion",
+        "diffusion-models",
+        "generation",
+        "generative-models",
+        "machine-learning",
+        "medical-imaging",
+        "ncsn",
+        "reconstruction",
+        "score-based",
+        "score-matching",
+        "sde",
+        "segmentation",
+        "vae"
+      ]
     },
     "original_repository_sha": "4278133236ad3cc9012ec13698302dea53c02192",
     "enhanced_repository": "enhansome/enhansome-Awesome-Diffusion-Models-in-Medical-Imaging",
