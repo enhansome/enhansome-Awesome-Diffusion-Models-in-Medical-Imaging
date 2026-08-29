@@ -539,7 +539,7 @@
 **Semi-Supervised Biomedical Image Segmentation via Diffusion Models and Teacher-Student Co-Training** \
 *Luca Ciampi, Gabriele Lagani, Giuseppe Amato, Fabrizio Falchi* \
 \[2nd Apr., 2025] \[arXiv, 2025] \\
-\[[Paper](http://arxiv.org/abs/2504.01547v1)] \[[GitHub](https://github.com/ciampluca/diffusion_semi_supervised_biomedical_image_segmentation) ⭐ 3 | 🐛 1 | 📅 2025-04-02]
+\[[Paper](http://arxiv.org/abs/2504.01547v1)] \[[GitHub](https://github.com/ciampluca/diffusion_semi_supervised_biomedical_image_segmentation) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-08-29]
 
 **Diff-CL: A Novel Cross Pseudo-Supervision Method for Semi-supervised Medical Image Segmentation** \
 *Xiuzhen Guo, Lianyuan Yu, Ji Shi, Na Lei, Hongxiao Wang* \
@@ -859,7 +859,7 @@
 **MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer** \
 *Junde Wu, Rao Fu, Huihui Fang, Yu Zhang, Yanwu Xu* \
 \[19th Jan., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2301.11798)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,363 | 🐛 115 | 🌐 Python | 📅 2025-09-10]
+\[[Paper](https://arxiv.org/abs/2301.11798)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,363 | 🐛 116 | 🌐 Python | 📅 2025-09-10]
 
 **Improved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks** \
 *Mathias Öttl, Jana Mönius, Matthias Rübner, Carol I. Geppert, Jingna Qiu, Frauke Wilm, Arndt Hartmann, Matthias W. Beckmann, Peter A. Fasching, Andreas Maier, Ramona Erber, Katharina Breininger* \
@@ -869,7 +869,7 @@
 **MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model** \
 *Junde Wu, Huihui Fang, Yu Zhang, Yehui Yang, Yanwu Xu* \
 \[1st Nov., 2022] \[MIDL, 2023] \
-\[[Paper](https://arxiv.org/abs/2211.00611)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,363 | 🐛 115 | 🌐 Python | 📅 2025-09-10]
+\[[Paper](https://arxiv.org/abs/2211.00611)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,363 | 🐛 116 | 🌐 Python | 📅 2025-09-10]
 
 **Accelerating Diffusion Models via Pre-segmentation Diffusion Sampling for Medical Image Segmentation** \
 *Xutao Guo, Yanwu Yang, Chenfei Ye, Shang Lu, Yang Xiang, Ting Ma* \
@@ -998,7 +998,7 @@
 **Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation** \
 *Hongxu Jiang, Muhammad Imran, Linhai Ma, Teng Zhang, Yuyin Zhou, Muxuan Liang, Kuang Gong, Wei Shao* \
 \[23rd May, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2405.14802)] \[[GitHub](https://github.com/mirthAI/Fast-DDPM) ⭐ 184 | 🐛 17 | 🌐 Python | 📅 2025-06-13]
+\[[Paper](https://arxiv.org/abs/2405.14802)] \[[GitHub](https://github.com/mirthAI/Fast-DDPM) ⭐ 183 | 🐛 17 | 🌐 Python | 📅 2025-06-13]
 
 **Cascaded Multi-path Shortcut Diffusion Model for Medical Image Translation** \
 *Yinchi Zhou, Tianqi Chen, Jun Hou, Huidong Xie, Nicha C. Dvornek, S. Kevin Zhou, David L. Wilson, James S. Duncan, Chi Liu, Bo Zhou* \
@@ -1013,7 +1013,7 @@
 **Self-Consistent Recursive Diffusion Bridge for Medical Image Translation** \
 *Fuat Arslan, Bilal Kabas, Onat Dalmaz, Muzaffer Ozbey, Tolga Çukur* \
 \[10th May, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2405.06789)] \[[GitHub](https://github.com/icon-lab/SelfRDB) ⭐ 91 | 🐛 6 | 🌐 Python | 📅 2025-10-05]
+\[[Paper](https://arxiv.org/abs/2405.06789)] \[[GitHub](https://github.com/icon-lab/SelfRDB) ⭐ 92 | 🐛 6 | 🌐 Python | 📅 2025-10-05]
 
 **Tackling Structural Hallucination in Image Translation with Local Diffusion** \
 *Seunghoi Kim, Chen Jin, Tom Diethe, Matteo Figini, Henry F. J. Tregidgo, Asher Mullokandov, Philip Teare, Daniel C. Alexander* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,533 | 🐛 124 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,533 | 🐛 125 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
