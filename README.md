@@ -739,7 +739,7 @@
 **Towards Generic Semi-Supervised Framework for Volumetric Medical Image Segmentation** \
 *Haonan Wang, Xiaomeng Li* \
 \[17th Oct., 2023] \[NeurIPS, 2023] \
-\[[Paper](https://openreview.net/forum?id=NibgkUin5n)] \[[Github](https://github.com/xmed-lab/GenericSSL) ⭐ 117 | 🐛 6 | 🌐 Python | 📅 2024-06-04]
+\[[Paper](https://openreview.net/forum?id=NibgkUin5n)] \[[Github](https://github.com/xmed-lab/GenericSSL) ⭐ 116 | 🐛 6 | 🌐 Python | 📅 2024-06-04]
 
 **Certification of Deep Learning Models for Medical Image Segmentation** \
 *Othmane Laousy, Alexandre Araujo, Guillaume Chassagnon, Nikos Paragios, Marie-Pierre Revel, Maria Vakalopoulou* \
@@ -859,7 +859,7 @@
 **MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer** \
 *Junde Wu, Rao Fu, Huihui Fang, Yu Zhang, Yanwu Xu* \
 \[19th Jan., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2301.11798)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,363 | 🐛 116 | 🌐 Python | 📅 2025-09-10]
+\[[Paper](https://arxiv.org/abs/2301.11798)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,363 | 🐛 115 | 🌐 Python | 📅 2025-09-10]
 
 **Improved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks** \
 *Mathias Öttl, Jana Mönius, Matthias Rübner, Carol I. Geppert, Jingna Qiu, Frauke Wilm, Arndt Hartmann, Matthias W. Beckmann, Peter A. Fasching, Andreas Maier, Ramona Erber, Katharina Breininger* \
@@ -869,7 +869,7 @@
 **MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model** \
 *Junde Wu, Huihui Fang, Yu Zhang, Yehui Yang, Yanwu Xu* \
 \[1st Nov., 2022] \[MIDL, 2023] \
-\[[Paper](https://arxiv.org/abs/2211.00611)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,363 | 🐛 116 | 🌐 Python | 📅 2025-09-10]
+\[[Paper](https://arxiv.org/abs/2211.00611)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,363 | 🐛 115 | 🌐 Python | 📅 2025-09-10]
 
 **Accelerating Diffusion Models via Pre-segmentation Diffusion Sampling for Medical Image Segmentation** \
 *Xutao Guo, Yanwu Yang, Chenfei Ye, Shang Lu, Yang Xiang, Ting Ma* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
