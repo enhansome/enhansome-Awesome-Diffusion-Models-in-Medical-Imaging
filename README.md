@@ -1,6 +1,6 @@
 # Awesome Diffusion Models in Medical Imaging with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) ⭐ 2,108 | 🐛 2 | 📅 2025-11-17
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) ⭐ 2,109 | 🐛 2 | 📅 2025-11-17
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire: This is a collection of awesome articles about diffusion models in medical imaging:fire::fire:
@@ -336,7 +336,7 @@
 **Unsupervised Anomaly Detection in Medical Images Using Masked Diffusion Model** \
 *Hasan Iqbal, Umar Khalid, Jing Hua, Chen Chen* \
 \[31st May, 2023] \[MICCAI MLMI Workshop, 2023]<br>
-\[[Paper](https://arxiv.org/abs/2305.19867)] \[[Github](https://github.com/hasan1292/mDDPM) ⭐ 97 | 🐛 6 | 🌐 Python | 📅 2024-01-12]
+\[[Paper](https://arxiv.org/abs/2305.19867)] \[[Github](https://github.com/hasan1292/mDDPM) ⭐ 96 | 🐛 6 | 🌐 Python | 📅 2024-01-12]
 
 **Reversing the Abnormal: Pseudo-Healthy Generative Networks for Anomaly Detection** \
 *Cosmin I Bercea, Benedikt Wiestler, Daniel Rueckert, Julia A Schnabel* \
@@ -859,7 +859,7 @@
 **MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer** \
 *Junde Wu, Rao Fu, Huihui Fang, Yu Zhang, Yanwu Xu* \
 \[19th Jan., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2301.11798)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,363 | 🐛 115 | 🌐 Python | 📅 2025-09-10]
+\[[Paper](https://arxiv.org/abs/2301.11798)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,362 | 🐛 115 | 🌐 Python | 📅 2025-09-10]
 
 **Improved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks** \
 *Mathias Öttl, Jana Mönius, Matthias Rübner, Carol I. Geppert, Jingna Qiu, Frauke Wilm, Arndt Hartmann, Matthias W. Beckmann, Peter A. Fasching, Andreas Maier, Ramona Erber, Katharina Breininger* \
@@ -869,7 +869,7 @@
 **MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model** \
 *Junde Wu, Huihui Fang, Yu Zhang, Yehui Yang, Yanwu Xu* \
 \[1st Nov., 2022] \[MIDL, 2023] \
-\[[Paper](https://arxiv.org/abs/2211.00611)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,363 | 🐛 115 | 🌐 Python | 📅 2025-09-10]
+\[[Paper](https://arxiv.org/abs/2211.00611)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,362 | 🐛 115 | 🌐 Python | 📅 2025-09-10]
 
 **Accelerating Diffusion Models via Pre-segmentation Diffusion Sampling for Medical Image Segmentation** \
 *Xutao Guo, Yanwu Yang, Chenfei Ye, Shang Lu, Yang Xiang, Ting Ma* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,533 | 🐛 125 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,534 | 🐛 125 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -1701,7 +1701,7 @@
 **Enhancing Spatiotemporal Disease Progression Models via Latent Diffusion and Prior Knowledge** \
 *Lemuel Puglisi, Daniel C. Alexander, Daniele Ravì* \
 \[22th Aug., 2024] \[MICCAI, 2024] \
-\[[Paper](https://arxiv.org/abs/2405.03328)] \[[GitHub](https://github.com/LemuelPuglisi/BrLP) ⭐ 138 | 🐛 4 | 🌐 Python | 📅 2025-10-31]
+\[[Paper](https://arxiv.org/abs/2405.03328)] \[[GitHub](https://github.com/LemuelPuglisi/BrLP) ⭐ 139 | 🐛 4 | 🌐 Python | 📅 2025-10-31]
 
 **SeLoRA: Self-Expanding Low-Rank Adaptation of Latent Diffusion Model for Medical Image Synthesis** \
 *Yuchen Mao, Hongwei Li, Wei Pang, Giorgos Papanastasiou, Guang Yang, Chengjia Wang* \
@@ -2379,7 +2379,7 @@
 **FSDiffReg: Feature-wise and Score-wise Diffusion-guided Unsupervised Deformable Image Registration for Cardiac Images** \
 *Yi Qin, Xiaomeng Li* \
 \[22nd Jul., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2307.12035)] \[[Github](https://github.com/xmed-lab/FSDiffReg.git) ⭐ 43 | 🐛 12 | 🌐 Python | 📅 2023-08-15]
+\[[Paper](https://arxiv.org/abs/2307.12035)] \[[Github](https://github.com/xmed-lab/FSDiffReg.git) ⭐ 44 | 🐛 12 | 🌐 Python | 📅 2023-08-15]
 
 **DiffuseMorph: Unsupervised Deformable Image Registration Along Continuous Trajectory Using Diffusion Models** \
 *Boah Kim, Inhwa Han, Jong Chul Ye* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
