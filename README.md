@@ -190,7 +190,7 @@
 **A Survey on Generative Diffusion Model** \
 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* \
 \[6th Sep., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/pdf/2209.02646.pdf)] \[[Github](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) ⭐ 972 | 🐛 2 | 📅 2023-10-18]
+\[[Paper](https://arxiv.org/pdf/2209.02646.pdf)] \[[Github](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) ⭐ 973 | 🐛 2 | 📅 2023-10-18]
 
 **Diffusion Models: A Comprehensive Survey of Methods and Applications** \
 *Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang* \
@@ -356,7 +356,7 @@
 **The role of noise in denoising models for anomaly detection in medical images** \
 *Antanas Kascenas, Pedro Sanchez, Patrick Schrempf, Chaoyang Wang, William Clackett, Shadia S. Mikhael, Jeremy P. Voisey, Keith Goatman, Alexander Weir, Nicolas Pugeault, Sotirios A. Tsaftaris, Alison Q. O'Neil* \
 \[19th Jan., 2023] \[MedIA Journal, 2023] \
-\[[Paper](https://arxiv.org/abs/2301.08330)] \[[Github](https://github.com/AntanasKascenas/DenoisingAE) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2022-02-23]
+\[[Paper](https://arxiv.org/abs/2301.08330)] \[[Github](https://github.com/AntanasKascenas/DenoisingAE) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2022-02-23]
 
 **What is Healthy? Generative Counterfactual Diffusion for Lesion Localization** \
 *Pedro Sanchez, Antanas Kascenas, Xiao Liu, Alison Q. O'Neil, Sotirios A. Tsaftaris* \
@@ -579,7 +579,7 @@
 **vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation** \
 *Bastian Wittmann, Yannick Wattenberg, Tamaz Amiranashvili, Suprosanna Shit, Bjoern Menze* \
 \[26th Nov., 2024] \[CVPR, 2025] \
-\[[Paper](http://arxiv.org/abs/2411.17386v2)] \[[Github](https://github.com/bwittmann/vesselFM) ⭐ 163 | 🐛 13 | 🌐 Python | 📅 2026-08-06]
+\[[Paper](http://arxiv.org/abs/2411.17386v2)] \[[Github](https://github.com/bwittmann/vesselFM) ⭐ 164 | 🐛 13 | 🌐 Python | 📅 2026-08-06]
 
 **ScribbleVS: Scribble-Supervised Medical Image Segmentation via Dynamic Competitive Pseudo Label Selection** \
 *Tao Wang, Xinlin Zhang, Yuanbin Chen, Yuanbo Zhou, Longxuan Zhao, Tao Tan, Tong Tong* \
@@ -1461,7 +1461,7 @@
 **Angio-Diff: Learning a Self-Supervised Adversarial Diffusion Model for Angiographic Geometry Generation** \
 *Zhifeng Wang, Renjiao Yi, Xin Wen, Chenyang Zhu, Kai Xu, Kunlun He* \
 \[24th Jun., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2506.19455v1)] \[[GitHub](https://github.com/zfw-cv/AngioDiff) ⭐ 8 | 🐛 3 | 🌐 Python | 📅 2025-01-20]
+\[[Paper](http://arxiv.org/abs/2506.19455v1)] \[[GitHub](https://github.com/zfw-cv/AngioDiff) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2025-01-20]
 
 **Doctor Approved: Generating Medically Accurate Skin Disease Images through AI-Expert Feedback** \
 *Janet Wang, Yunbei Zhang, Zhengming Ding, Jihun Hamm* \
@@ -1481,7 +1481,7 @@
 **Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation** \
 *Kunpeng Qiu, Zhiqiang Gao, Zhiying Zhou, Mingjie Sun, Yongxin Guo* \
 \[09th May, 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2505.06068v1)] \[[GitHub](https://github.com/Qiukunpeng/Siamese-Diffusion) ⭐ 90 | 🐛 1 | 🌐 Python | 📅 2025-11-29]
+\[[Paper](http://arxiv.org/abs/2505.06068v1)] \[[GitHub](https://github.com/Qiukunpeng/Siamese-Diffusion) ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2025-11-29]
 
 **ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis** \
 *Onkar Susladkar, Gayatri Deshmukh, Yalcin Tur, Gorkhem Durak, Ulas Bagci* \
@@ -1601,7 +1601,7 @@
 **cWDM: Conditional Wavelet Diffusion Models for Cross-Modality 3D Medical Image Synthesis** \
 *Paul Friedrich, Alicia Durrer, Julia Wolleb, Philippe C. Cattin* \
 \[26th Nov., 2024] \[BraTS, 2024] \
-\[[Paper](http://arxiv.org/abs/2411.17203v1)] \[[GitHub](https://github.com/pfriedri/cwdm) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2024-11-27]
+\[[Paper](http://arxiv.org/abs/2411.17203v1)] \[[GitHub](https://github.com/pfriedri/cwdm) ⭐ 51 | 🐛 0 | 🌐 Python | 📅 2024-11-27]
 
 **Counterfactual MRI Data Augmentation using Conditional Denoising Diffusion Generative Models** \
 *Pedro Morão, Joao Santinha, Yasna Forghani, Nuno Loução, Pedro Gouveia, Mario A. T. Figueiredo* \
@@ -1921,7 +1921,7 @@
 **WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis** \
 *Paul Friedrich, Julia Wolleb, Florentin Bieder, Alicia Durrer, Philippe C. Cattin* \
 \[29th Feb., 2024] \[DGM4MICCAI, 2024] \
-\[[Paper](https://arxiv.org/abs/2402.19043)] \[[Github](https://github.com/pfriedri/wdm-3d) ⭐ 139 | 🐛 1 | 🌐 Python | 📅 2025-09-01] \[[Project Page](https://pfriedri.github.io/wdm-3d-io/)]
+\[[Paper](https://arxiv.org/abs/2402.19043)] \[[Github](https://github.com/pfriedri/wdm-3d) ⭐ 140 | 🐛 1 | 🌐 Python | 📅 2025-09-01] \[[Project Page](https://pfriedri.github.io/wdm-3d-io/)]
 
 **Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models** \
 *Nicholas Konz, Yuwen Chen, Haoyu Dong, Maciej A. Mazurowski* \
@@ -2216,7 +2216,7 @@
 **Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Generation** \
 *Firas Khader, Gustav Mueller-Franzes, Soroosh Tayebi Arasteh, Tianyu Han, Christoph Haarburger, Maximilian Schulze-Hagen, Philipp Schad, Sandy Engelhardt, Bettina Baessler, Sebastian Foersch, Johannes Stegmaier, Christiane Kuhl, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn* \
 \[7th Nov., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/abs/2211.03364)] \[[Github](https://github.com/FirasGit/medicaldiffusion) ⭐ 495 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2023-05-12]
+\[[Paper](https://arxiv.org/abs/2211.03364)] \[[Github](https://github.com/FirasGit/medicaldiffusion) ⭐ 496 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2023-05-12]
 
 **Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems** \
 *Kai Packhäuser, Lukas Folle, Florian Thamm, Andreas Maier* \
@@ -2325,7 +2325,7 @@
 **MedSyn: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images** \
 *Yanwu Xu, Li Sun, Wei Peng, Shyam Visweswaran, Kayhan Batmanghelich* \
 \[5th Oct., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2310.03559)] \[[Github](https://github.com/batmanlab/MedSyn) ⭐ 60 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-07-12]
+\[[Paper](https://arxiv.org/abs/2310.03559)] \[[Github](https://github.com/batmanlab/MedSyn) ⭐ 61 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-07-12]
 
 **Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts** \
 *Shiyi Du, Xiaosong Wang, Yongyi Lu, Yuyin Zhou, Shaoting Zhang, Alan Yuille, Kang Li, Zongwei Zhou* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

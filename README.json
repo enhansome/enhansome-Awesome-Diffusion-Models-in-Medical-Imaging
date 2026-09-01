@@ -105,7 +105,7 @@
             "open_issues": 2,
             "owner": "chq1155",
             "repo": "A-Survey-on-Generative-Diffusion-Model",
-            "stars": 972,
+            "stars": 973,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:07.770Z"
@@ -448,7 +448,7 @@
                 "open_issues": 0,
                 "owner": "AntanasKascenas",
                 "repo": "DenoisingAE",
-                "stars": 58,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -922,7 +922,7 @@
                 "open_issues": 13,
                 "owner": "bwittmann",
                 "repo": "vesselFM",
-                "stars": 163,
+                "stars": 164,
                 "topics": [
                   "blood-vessel-segmentation",
                   "foundation-models",
@@ -2560,7 +2560,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-01-20T10:43:07Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "zfw-cv",
                 "repo": "AngioDiff",
                 "stars": 8,
@@ -2647,7 +2647,7 @@
                 "open_issues": 1,
                 "owner": "Qiukunpeng",
                 "repo": "Siamese-Diffusion",
-                "stars": 90,
+                "stars": 89,
                 "topics": [
                   "cvpr2025",
                   "diffusion-models",
@@ -2931,7 +2931,7 @@
                 "open_issues": 0,
                 "owner": "pfriedri",
                 "repo": "cwdm",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -3595,7 +3595,7 @@
                 "open_issues": 1,
                 "owner": "pfriedri",
                 "repo": "wdm-3d",
-                "stars": 139,
+                "stars": 140,
                 "topics": [
                   "3d",
                   "diffusion-models",
@@ -3940,7 +3940,7 @@
                 "open_issues": 19,
                 "owner": "FirasGit",
                 "repo": "medicaldiffusion",
-                "stars": 495,
+                "stars": 496,
                 "topics": [
                   "ct",
                   "diffusion-models",
@@ -4078,7 +4078,7 @@
                 "open_issues": 6,
                 "owner": "batmanlab",
                 "repo": "MedSyn",
-                "stars": 60,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:03:25.347Z",
+    "last_updated": "2026-09-01T17:48:56.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
