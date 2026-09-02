@@ -1,6 +1,6 @@
 # Awesome Diffusion Models in Medical Imaging with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) ⭐ 2,109 | 🐛 2 | 📅 2025-11-17
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) ⭐ 2,110 | 🐛 2 | 📅 2025-11-17
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire: This is a collection of awesome articles about diffusion models in medical imaging:fire::fire:
@@ -579,7 +579,7 @@
 **vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation** \
 *Bastian Wittmann, Yannick Wattenberg, Tamaz Amiranashvili, Suprosanna Shit, Bjoern Menze* \
 \[26th Nov., 2024] \[CVPR, 2025] \
-\[[Paper](http://arxiv.org/abs/2411.17386v2)] \[[Github](https://github.com/bwittmann/vesselFM) ⭐ 164 | 🐛 13 | 🌐 Python | 📅 2026-08-06]
+\[[Paper](http://arxiv.org/abs/2411.17386v2)] \[[Github](https://github.com/bwittmann/vesselFM) ⭐ 164 | 🐛 14 | 🌐 Python | 📅 2026-08-06]
 
 **ScribbleVS: Scribble-Supervised Medical Image Segmentation via Dynamic Competitive Pseudo Label Selection** \
 *Tao Wang, Xinlin Zhang, Yuanbin Chen, Yuanbo Zhou, Longxuan Zhao, Tao Tan, Tong Tong* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,534 | 🐛 125 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,534 | 🐛 126 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -1461,7 +1461,7 @@
 **Angio-Diff: Learning a Self-Supervised Adversarial Diffusion Model for Angiographic Geometry Generation** \
 *Zhifeng Wang, Renjiao Yi, Xin Wen, Chenyang Zhu, Kai Xu, Kunlun He* \
 \[24th Jun., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2506.19455v1)] \[[GitHub](https://github.com/zfw-cv/AngioDiff) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2025-01-20]
+\[[Paper](http://arxiv.org/abs/2506.19455v1)] \[[GitHub](https://github.com/zfw-cv/AngioDiff) ⭐ 8 | 🐛 3 | 🌐 Python | 📅 2025-01-20]
 
 **Doctor Approved: Generating Medically Accurate Skin Disease Images through AI-Expert Feedback** \
 *Janet Wang, Yunbei Zhang, Zhengming Ding, Jihun Hamm* \
@@ -1781,7 +1781,7 @@
 **U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation** \
 *Chenxin Li, Xinyu Liu, Wuyang Li, Cheng Wang, Hengyu Liu, Yixuan Yuan* \
 \[5th Jun, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2406.02918)] \[[GitHub](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 553 | 🐛 40 | 🌐 Python | 📅 2025-06-23] \[[Website](https://yes-ukan.github.io/)]
+\[[Paper](https://arxiv.org/abs/2406.02918)] \[[GitHub](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 554 | 🐛 40 | 🌐 Python | 📅 2025-06-23] \[[Website](https://yes-ukan.github.io/)]
 
 **EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing** \
 *Hadrien Reynaud, Qingjie Meng, Mischa Dombrowski, Arijit Ghosh, Thomas Day, Alberto Gomez, Paul Leeson, Bernhard Kainz* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
