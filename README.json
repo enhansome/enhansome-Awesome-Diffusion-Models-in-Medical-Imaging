@@ -448,7 +448,7 @@
                 "open_issues": 0,
                 "owner": "AntanasKascenas",
                 "repo": "DenoisingAE",
-                "stars": 57,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -922,7 +922,7 @@
                 "open_issues": 14,
                 "owner": "bwittmann",
                 "repo": "vesselFM",
-                "stars": 164,
+                "stars": 165,
                 "topics": [
                   "blood-vessel-segmentation",
                   "foundation-models",
@@ -1324,7 +1324,7 @@
                 "open_issues": 6,
                 "owner": "xmed-lab",
                 "repo": "GenericSSL",
-                "stars": 116,
+                "stars": 115,
                 "topics": [
                   "diffusion-models",
                   "medical-image-segmentation",
@@ -2449,7 +2449,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-13T20:13:38Z",
-                "open_issues": 126,
+                "open_issues": 127,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
                 "stars": 2534,
@@ -3571,7 +3571,7 @@
                 "open_issues": 13,
                 "owner": "MrGiovanni",
                 "repo": "DiffTumor",
-                "stars": 219,
+                "stars": 220,
                 "topics": [
                   "data-synthesis",
                   "tumor-segmentation"
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:53:39.694Z",
+    "last_updated": "2026-09-03T17:50:30.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
