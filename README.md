@@ -579,7 +579,7 @@
 **vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation** \
 *Bastian Wittmann, Yannick Wattenberg, Tamaz Amiranashvili, Suprosanna Shit, Bjoern Menze* \
 \[26th Nov., 2024] \[CVPR, 2025] \
-\[[Paper](http://arxiv.org/abs/2411.17386v2)] \[[Github](https://github.com/bwittmann/vesselFM) ⭐ 165 | 🐛 14 | 🌐 Python | 📅 2026-08-06]
+\[[Paper](http://arxiv.org/abs/2411.17386v2)] \[[Github](https://github.com/bwittmann/vesselFM) ⭐ 165 | 🐛 14 | 🌐 Python | 📅 2026-09-04]
 
 **ScribbleVS: Scribble-Supervised Medical Image Segmentation via Dynamic Competitive Pseudo Label Selection** \
 *Tao Wang, Xinlin Zhang, Yuanbin Chen, Yuanbo Zhou, Longxuan Zhao, Tao Tan, Tong Tong* \
@@ -859,7 +859,7 @@
 **MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer** \
 *Junde Wu, Rao Fu, Huihui Fang, Yu Zhang, Yanwu Xu* \
 \[19th Jan., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2301.11798)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,362 | 🐛 115 | 🌐 Python | 📅 2025-09-10]
+\[[Paper](https://arxiv.org/abs/2301.11798)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,362 | 🐛 116 | 🌐 Python | 📅 2025-09-10]
 
 **Improved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks** \
 *Mathias Öttl, Jana Mönius, Matthias Rübner, Carol I. Geppert, Jingna Qiu, Frauke Wilm, Arndt Hartmann, Matthias W. Beckmann, Peter A. Fasching, Andreas Maier, Ramona Erber, Katharina Breininger* \
@@ -869,7 +869,7 @@
 **MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model** \
 *Junde Wu, Huihui Fang, Yu Zhang, Yehui Yang, Yanwu Xu* \
 \[1st Nov., 2022] \[MIDL, 2023] \
-\[[Paper](https://arxiv.org/abs/2211.00611)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,362 | 🐛 115 | 🌐 Python | 📅 2025-09-10]
+\[[Paper](https://arxiv.org/abs/2211.00611)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,362 | 🐛 116 | 🌐 Python | 📅 2025-09-10]
 
 **Accelerating Diffusion Models via Pre-segmentation Diffusion Sampling for Medical Image Segmentation** \
 *Xutao Guo, Yanwu Yang, Chenfei Ye, Shang Lu, Yang Xiang, Ting Ma* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

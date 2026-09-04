@@ -918,7 +918,7 @@
                 "id": 888925599,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-06T13:27:23Z",
+                "last_commit": "2026-09-04T13:50:38Z",
                 "open_issues": 14,
                 "owner": "bwittmann",
                 "repo": "vesselFM",
@@ -1681,7 +1681,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-10T15:49:20Z",
-                "open_issues": 115,
+                "open_issues": 116,
                 "owner": "ImprintLab",
                 "repo": "MedSegDiff",
                 "stars": 1362,
@@ -1709,7 +1709,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-10T15:49:20Z",
-                "open_issues": 115,
+                "open_issues": 116,
                 "owner": "ImprintLab",
                 "repo": "MedSegDiff",
                 "stars": 1362,
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:50:30.926Z",
+    "last_updated": "2026-09-04T17:35:47.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
