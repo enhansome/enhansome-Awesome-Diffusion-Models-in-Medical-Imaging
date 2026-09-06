@@ -126,7 +126,7 @@
             "open_issues": 6,
             "owner": "YangLing0818",
             "repo": "Diffusion-Models-Papers-Survey-Taxonomy",
-            "stars": 3364,
+            "stars": 3365,
             "topics": [
               "diffusion-models",
               "stable-diffusion",
@@ -3257,7 +3257,7 @@
                 "open_issues": 1,
                 "owner": "HReynaud",
                 "repo": "EchoNet-Synthetic",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:49:20.804Z",
+    "last_updated": "2026-09-06T17:01:19.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",

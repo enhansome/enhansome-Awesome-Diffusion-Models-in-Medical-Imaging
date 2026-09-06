@@ -195,7 +195,7 @@
 **Diffusion Models: A Comprehensive Survey of Methods and Applications** \
 *Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang* \
 \[2nd Sep., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,364 | 🐛 6 | 📅 2025-09-27]
+\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,365 | 🐛 6 | 📅 2025-09-27]
 
 ## Challenge Reports
 
@@ -1786,7 +1786,7 @@
 **EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing** \
 *Hadrien Reynaud, Qingjie Meng, Mischa Dombrowski, Arijit Ghosh, Thomas Day, Alberto Gomez, Paul Leeson, Bernhard Kainz* \
 \[2nd Jun, 2024] \[MICCAI, 2024] \
-\[[Paper](https://arxiv.org/abs/2406.00808)] \[[GitHub](https://github.com/HReynaud/EchoNet-Synthetic) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2025-06-16]
+\[[Paper](https://arxiv.org/abs/2406.00808)] \[[GitHub](https://github.com/HReynaud/EchoNet-Synthetic) ⭐ 43 | 🐛 1 | 🌐 Python | 📅 2025-06-16]
 
 **Unsupervised Contrastive Analysis for Salient Pattern Detection using Conditional Diffusion Models** \
 *Cristiano Patrício, Carlo Alberto Barbano, Attilio Fiandrotti, Riccardo Renzulli, Marco Grangetto, Luis F. Teixeira, João C. Neves* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
