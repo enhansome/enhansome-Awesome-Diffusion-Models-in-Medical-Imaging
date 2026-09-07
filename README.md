@@ -346,7 +346,7 @@
 **Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI** \
 *Finn Behrendt, Debayan Bhattacharya, Julia Krüger, Roland Opfer, Alexander Schlaefer* \
 \[7th Mar., 2023] \[MIDL, 2023]<br>
-\[[Paper](https://arxiv.org/abs/2303.03758)] \[[Github](https://github.com/FinnBehrendt/patched-Diffusion-Models-UAD) ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2025-03-19]
+\[[Paper](https://arxiv.org/abs/2303.03758)] \[[Github](https://github.com/FinnBehrendt/patched-Diffusion-Models-UAD) ⭐ 54 | 🐛 1 | 🌐 Python | 📅 2025-03-19]
 
 **Dissolving Is Amplifying: Towards Fine-Grained Anomaly Detection** \
 *Jian Shi, Pengyi Zhang, Ni Zhang, Hakim Ghazzai, Yehia Massoud* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,535 | 🐛 127 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,537 | 🐛 127 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -2071,7 +2071,7 @@
 **GenerateCT: Text-Guided 3D Chest CT Generation** \
 *Ibrahim Ethem Hamamci, Sezgin Er, Enis Simsar, Alperen Tezcan, Ayse Gulnihan Simsek, Furkan Almas, Sevval Nil Esirgun, Hadrien Reynaud, Sarthak Pati, Christian Bluethgen, Bjoern Menze* \
 \[25th May, 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2305.16037)] \[[Github](https://github.com/ibrahimethemhamamci/GenerateCT) ⭐ 194 | 🐛 5 | 🌐 Python | 📅 2024-07-03]
+\[[Paper](https://arxiv.org/abs/2305.16037)] \[[Github](https://github.com/ibrahimethemhamamci/GenerateCT) ⭐ 195 | 🐛 5 | 🌐 Python | 📅 2024-07-03]
 
 **Beware of diffusion models for synthesizing medical images -- A comparison with GANs in terms of memorizing brain tumor images** \
 *Muhammad Usman Akbar, Wuhao Wang, Anders Eklund* \
@@ -2141,7 +2141,7 @@
 **Feature-Conditioned Cascaded Video Diffusion Models for Precise Echocardiogram Synthesis** \
 *Hadrien Reynaud, Mengyun Qiao, Mischa Dombrowski, Thomas Day, Reza Razavi, Alberto Gomez, Paul Leeson, Bernhard Kainz* \
 \[22nd Mar., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2303.12644)] \[[Github](https://github.com/HReynaud/EchoDiffusion) ⭐ 75 | 🐛 0 | 🌐 Python | 📅 2024-10-29]
+\[[Paper](https://arxiv.org/abs/2303.12644)] \[[Github](https://github.com/HReynaud/EchoDiffusion) ⭐ 76 | 🐛 0 | 🌐 Python | 📅 2024-10-29]
 
 **NASDM: Nuclei-Aware Semantic Histopathology Image Generation Using Diffusion Models** \
 *Aman Shrivastava, P. Thomas Fletcher* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

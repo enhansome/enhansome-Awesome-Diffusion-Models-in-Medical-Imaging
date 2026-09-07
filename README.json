@@ -417,7 +417,7 @@
                 "open_issues": 1,
                 "owner": "FinnBehrendt",
                 "repo": "patched-Diffusion-Models-UAD",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "anomaly-detection",
                   "deep-learning",
@@ -2452,7 +2452,7 @@
                 "open_issues": 127,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2535,
+                "stars": 2537,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -3798,7 +3798,7 @@
                 "open_issues": 5,
                 "owner": "ibrahimethemhamamci",
                 "repo": "GenerateCT",
-                "stars": 194,
+                "stars": 195,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -3890,7 +3890,7 @@
                 "open_issues": 0,
                 "owner": "HReynaud",
                 "repo": "EchoDiffusion",
-                "stars": 75,
+                "stars": 76,
                 "topics": [
                   "cardiac",
                   "deep-learning",
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:01:19.361Z",
+    "last_updated": "2026-09-07T18:43:30.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
