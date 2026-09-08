@@ -595,7 +595,7 @@
                 "open_issues": 12,
                 "owner": "DeweiHu",
                 "repo": "OCT_DDPM",
-                "stars": 82,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:43:30.476Z",
+    "last_updated": "2026-09-08T17:54:30.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
