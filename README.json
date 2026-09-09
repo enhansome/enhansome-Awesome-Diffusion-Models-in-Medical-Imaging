@@ -922,7 +922,7 @@
                 "open_issues": 14,
                 "owner": "bwittmann",
                 "repo": "vesselFM",
-                "stars": 165,
+                "stars": 166,
                 "topics": [
                   "blood-vessel-segmentation",
                   "foundation-models",
@@ -1852,7 +1852,7 @@
                 "open_issues": 17,
                 "owner": "mirthAI",
                 "repo": "Fast-DDPM",
-                "stars": 183,
+                "stars": 184,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -2164,7 +2164,7 @@
                 "open_issues": 1,
                 "owner": "Yuxin-Zhang-Jasmine",
                 "repo": "DRUS-v1",
-                "stars": 32,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -2452,7 +2452,7 @@
                 "open_issues": 127,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2537,
+                "stars": 2538,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2790,7 +2790,7 @@
                 "open_issues": 2,
                 "owner": "milad1378yz",
                 "repo": "MOTFM",
-                "stars": 78,
+                "stars": 79,
                 "topics": [
                   "brain-mri",
                   "diffusion-models",
@@ -3036,7 +3036,7 @@
                 "open_issues": 4,
                 "owner": "LemuelPuglisi",
                 "repo": "BrLP",
-                "stars": 139,
+                "stars": 140,
                 "topics": [
                   "brain-latent-progression",
                   "diffusion-models",
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:54:30.909Z",
+    "last_updated": "2026-09-09T17:49:26.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
@@ -5040,7 +5040,7 @@
       "open_issues": 2,
       "owner": "amirhossein-kz",
       "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-      "stars": 2110,
+      "stars": 2111,
       "topics": [
         "ddpm",
         "deep-learning",
