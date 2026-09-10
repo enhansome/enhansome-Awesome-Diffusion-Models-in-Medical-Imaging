@@ -1905,7 +1905,7 @@
                 "open_issues": 10,
                 "owner": "jongdory",
                 "repo": "ALDM",
-                "stars": 189,
+                "stars": 190,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -2452,7 +2452,7 @@
                 "open_issues": 127,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2538,
+                "stars": 2540,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2790,7 +2790,7 @@
                 "open_issues": 2,
                 "owner": "milad1378yz",
                 "repo": "MOTFM",
-                "stars": 79,
+                "stars": 80,
                 "topics": [
                   "brain-mri",
                   "diffusion-models",
@@ -3236,7 +3236,7 @@
                 "open_issues": 40,
                 "owner": "CUHK-AIM-Group",
                 "repo": "U-KAN",
-                "stars": 554,
+                "stars": 555,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:49:26.152Z",
+    "last_updated": "2026-09-10T17:41:29.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
