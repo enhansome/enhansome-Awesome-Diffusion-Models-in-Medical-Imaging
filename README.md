@@ -454,7 +454,7 @@
 **Flow Stochastic Segmentation Networks** \
 *Fabio De Sousa Ribeiro, Omar Todd, Charles Jones, Avinash Kori, Raghav Mehta, Ben Glocker* \
 \[24th Jul., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2507.18838v1)] \[[Github](https://github.com/biomedia-mira/flow-ssn) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2026-06-09]
+\[[Paper](http://arxiv.org/abs/2507.18838v1)] \[[Github](https://github.com/biomedia-mira/flow-ssn) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2026-06-09]
 
 **LEAF: Latent Diffusion with Efficient Encoder Distillation for Aligned Features in Medical Image Segmentation** \
 *Qilin Huang, Tianyu Lin, Zhiguang Chen, Fudan Zheng* \
@@ -579,7 +579,7 @@
 **vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation** \
 *Bastian Wittmann, Yannick Wattenberg, Tamaz Amiranashvili, Suprosanna Shit, Bjoern Menze* \
 \[26th Nov., 2024] \[CVPR, 2025] \
-\[[Paper](http://arxiv.org/abs/2411.17386v2)] \[[Github](https://github.com/bwittmann/vesselFM) ⭐ 166 | 🐛 14 | 🌐 Python | 📅 2026-09-04]
+\[[Paper](http://arxiv.org/abs/2411.17386v2)] \[[Github](https://github.com/bwittmann/vesselFM) ⭐ 166 | 🐛 15 | 🌐 Python | 📅 2026-09-04]
 
 **ScribbleVS: Scribble-Supervised Medical Image Segmentation via Dynamic Competitive Pseudo Label Selection** \
 *Tao Wang, Xinlin Zhang, Yuanbin Chen, Yuanbo Zhou, Longxuan Zhao, Tao Tan, Tong Tong* \
@@ -739,7 +739,7 @@
 **Towards Generic Semi-Supervised Framework for Volumetric Medical Image Segmentation** \
 *Haonan Wang, Xiaomeng Li* \
 \[17th Oct., 2023] \[NeurIPS, 2023] \
-\[[Paper](https://openreview.net/forum?id=NibgkUin5n)] \[[Github](https://github.com/xmed-lab/GenericSSL) ⭐ 115 | 🐛 6 | 🌐 Python | 📅 2024-06-04]
+\[[Paper](https://openreview.net/forum?id=NibgkUin5n)] \[[Github](https://github.com/xmed-lab/GenericSSL) ⭐ 116 | 🐛 6 | 🌐 Python | 📅 2024-06-04]
 
 **Certification of Deep Learning Models for Medical Image Segmentation** \
 *Othmane Laousy, Alexandre Araujo, Guillaume Chassagnon, Nikos Paragios, Marie-Pierre Revel, Maria Vakalopoulou* \
@@ -839,12 +839,12 @@
 **Diff-UNet: A Diffusion Embedded Network for Volumetric Segmentation** \
 *Zhaohu Xing, Liang Wan, Huazhu Fu, Guang Yang, Lei Zhu* \
 \[18th Mar., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2303.10326)] \[[Github](https://github.com/ge-xing/Diff-UNet) ⭐ 198 | 🐛 34 | 🌐 Python | 📅 2024-03-22]
+\[[Paper](https://arxiv.org/abs/2303.10326)] \[[Github](https://github.com/ge-xing/Diff-UNet) ⭐ 199 | 🐛 34 | 🌐 Python | 📅 2024-03-22]
 
 **Stochastic Segmentation with Conditional Categorical Diffusion Models** \
 *Lukas Zbinden, Lars Doorenbos, Theodoros Pissas, Raphael Sznitman, Pablo Márquez-Neila* \
 \[15th Mar., 2023] \[ICCV, 2023] \
-\[[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zbinden_Stochastic_Segmentation_with_Conditional_Categorical_Diffusion_Models_ICCV_2023_paper.html)] \[[Github](https://github.com/LarsDoorenbos/ccdm-stochastic-segmentation) ⭐ 57 | 🐛 1 | 🌐 Python | 📅 2023-10-09]
+\[[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zbinden_Stochastic_Segmentation_with_Conditional_Categorical_Diffusion_Models_ICCV_2023_paper.html)] \[[Github](https://github.com/LarsDoorenbos/ccdm-stochastic-segmentation) ⭐ 58 | 🐛 1 | 🌐 Python | 📅 2023-10-09]
 
 **Importance of Aligning Training Strategy with Evaluation for Diffusion Models in 3D Multiclass Segmentation** \
 *Yunguan Fu, Yiwen Li, Shaheer U. Saeed, Matthew J. Clarkson, Yipeng Hu* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,540 | 🐛 127 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,541 | 🐛 127 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -2216,7 +2216,7 @@
 **Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Generation** \
 *Firas Khader, Gustav Mueller-Franzes, Soroosh Tayebi Arasteh, Tianyu Han, Christoph Haarburger, Maximilian Schulze-Hagen, Philipp Schad, Sandy Engelhardt, Bettina Baessler, Sebastian Foersch, Johannes Stegmaier, Christiane Kuhl, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn* \
 \[7th Nov., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/abs/2211.03364)] \[[Github](https://github.com/FirasGit/medicaldiffusion) ⭐ 496 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2023-05-12]
+\[[Paper](https://arxiv.org/abs/2211.03364)] \[[Github](https://github.com/FirasGit/medicaldiffusion) ⭐ 495 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2023-05-12]
 
 **Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems** \
 *Kai Packhäuser, Lukas Folle, Florian Thamm, Andreas Maier* \
@@ -2325,7 +2325,7 @@
 **MedSyn: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images** \
 *Yanwu Xu, Li Sun, Wei Peng, Shyam Visweswaran, Kayhan Batmanghelich* \
 \[5th Oct., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2310.03559)] \[[Github](https://github.com/batmanlab/MedSyn) ⭐ 61 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-07-12]
+\[[Paper](https://arxiv.org/abs/2310.03559)] \[[Github](https://github.com/batmanlab/MedSyn) ⭐ 62 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-07-12]
 
 **Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts** \
 *Shiyi Du, Xiaosong Wang, Yongyi Lu, Yuyin Zhou, Shaoting Zhang, Alan Yuille, Kang Li, Zongwei Zhou* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
