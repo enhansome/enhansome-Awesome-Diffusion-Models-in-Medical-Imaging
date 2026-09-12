@@ -2449,10 +2449,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-13T20:13:38Z",
-                "open_issues": 127,
+                "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2541,
+                "stars": 2540,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -3236,7 +3236,7 @@
                 "open_issues": 40,
                 "owner": "CUHK-AIM-Group",
                 "repo": "U-KAN",
-                "stars": 555,
+                "stars": 556,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:44:31.712Z",
+    "last_updated": "2026-09-12T17:08:22.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
