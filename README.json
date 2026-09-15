@@ -2448,11 +2448,11 @@
                 "id": 288774122,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-13T20:13:38Z",
-                "open_issues": 129,
+                "last_commit": "2026-09-15T15:17:04Z",
+                "open_issues": 126,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2542,
+                "stars": 2543,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -4127,7 +4127,7 @@
                 "open_issues": 5,
                 "owner": "mattkia",
                 "repo": "SGDIR",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:20:46.121Z",
+    "last_updated": "2026-09-15T18:10:56.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
@@ -5040,7 +5040,7 @@
       "open_issues": 2,
       "owner": "amirhossein-kz",
       "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-      "stars": 2111,
+      "stars": 2112,
       "topics": [
         "ddpm",
         "deep-learning",

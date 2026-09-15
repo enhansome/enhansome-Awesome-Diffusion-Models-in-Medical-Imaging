@@ -1,6 +1,6 @@
 # Awesome Diffusion Models in Medical Imaging with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) ⭐ 2,111 | 🐛 2 | 📅 2025-11-17
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) ⭐ 2,112 | 🐛 2 | 📅 2025-11-17
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire: This is a collection of awesome articles about diffusion models in medical imaging:fire::fire:
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,542 | 🐛 129 | 🌐 Jupyter Notebook | 📅 2026-08-13] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,543 | 🐛 126 | 🌐 Jupyter Notebook | 📅 2026-09-15] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -2374,7 +2374,7 @@
 **Learning Diffeomorphism for Image Registration with Time-Continuous Networks using Semigroup Regularization** \
 *Mohammadjavad Matinkia, Nilanjan Ray* \
 \[28th May, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2405.18684)] \[[GitHub](https://github.com/mattkia/SGDIR) ⭐ 21 | 🐛 5 | 🌐 Python | 📅 2026-07-02]
+\[[Paper](https://arxiv.org/abs/2405.18684)] \[[GitHub](https://github.com/mattkia/SGDIR) ⭐ 22 | 🐛 5 | 🌐 Python | 📅 2026-07-02]
 
 **FSDiffReg: Feature-wise and Score-wise Diffusion-guided Unsupervised Deformable Image Registration for Cardiac Images** \
 *Yi Qin, Xiaomeng Li* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
