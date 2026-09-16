@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,543 | 🐛 126 | 🌐 Jupyter Notebook | 📅 2026-09-15] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,544 | 🐛 126 | 🌐 Jupyter Notebook | 📅 2026-09-15] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -1546,7 +1546,7 @@
 **Flow Matching for Medical Image Synthesis: Bridging the Gap Between Speed and Quality** \
 *Milad Yazdani, Yasamin Medghalchi, Pooria Ashrafian, Ilker Hacihaliloglu, Dena Shahriari* \
 \[01st Mar., 2025] \[MICCAI, 2025] \
-\[[Paper](http://arxiv.org/abs/2503.00266v1)] \[[GitHub](https://github.com/milad1378yz/MOTFM) ⭐ 80 | 🐛 2 | 🌐 Python | 📅 2026-03-16]
+\[[Paper](http://arxiv.org/abs/2503.00266v1)] \[[GitHub](https://github.com/milad1378yz/MOTFM) ⭐ 80 | 🐛 3 | 🌐 Python | 📅 2026-03-16]
 
 **Advancing AI-Powered Medical Image Synthesis: Insights from MedVQA-GI Challenge Using CLIP, Fine-Tuned Stable Diffusion, and Dream-Booth + LoRA** \
 *Ojonugwa Oluwafemi Ejiga Peter, Md Mahmudur Rahman, Fahmi Khalifa* \
@@ -1916,7 +1916,7 @@
 **Towards Generalizable Tumor Synthesis** \
 *Qi Chen, Xiaoxi Chen, Haorui Song, Zhiwei Xiong, Alan Yuille, Chen Wei, Zongwei Zhou* \
 \[29th Feb., 2024] \[CVPR, 2024] \
-\[[Paper](https://arxiv.org/abs/2402.19470)] \[[Github](https://github.com/MrGiovanni/DiffTumor) ⭐ 220 | 🐛 13 | 🌐 Python | 📅 2026-08-25]
+\[[Paper](https://arxiv.org/abs/2402.19470)] \[[Github](https://github.com/MrGiovanni/DiffTumor) ⭐ 219 | 🐛 13 | 🌐 Python | 📅 2026-08-25]
 
 **WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis** \
 *Paul Friedrich, Julia Wolleb, Florentin Bieder, Alicia Durrer, Philippe C. Cattin* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
