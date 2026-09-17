@@ -162,7 +162,7 @@
                 "open_issues": 0,
                 "owner": "FinnBehrendt",
                 "repo": "Mahalanobis-Unsupervised-Anomaly-Detection",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "deep-learning",
                   "diffusion-models",
@@ -302,7 +302,7 @@
                 "open_issues": 0,
                 "owner": "FinnBehrendt",
                 "repo": "Conditioned-Diffusion-Models-UAD",
-                "stars": 33,
+                "stars": 34,
                 "topics": [
                   "anomaly-detection",
                   "brats-dataset",
@@ -2452,7 +2452,7 @@
                 "open_issues": 126,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2544,
+                "stars": 2545,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -3036,7 +3036,7 @@
                 "open_issues": 4,
                 "owner": "LemuelPuglisi",
                 "repo": "BrLP",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "brain-latent-progression",
                   "diffusion-models",
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:11:14.586Z",
+    "last_updated": "2026-09-17T18:12:09.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",

@@ -221,7 +221,7 @@
 **Leveraging the Mahalanobis Distance to enhance Unsupervised Brain MRI Anomaly Detection** \
 *Finn Behrendt, Debayan Bhattacharya, Robin Mieling, Lennart Maack, Julia Krüger, Roland Opfer, Alexander Schlaefer* \
 \[03th Oct., 2024] \[MICCAI, 2024] \
-\[[Paper](https://arxiv.org/abs/2407.12474)] \[[GitHub](https://github.com/FinnBehrendt/Mahalanobis-Unsupervised-Anomaly-Detection) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2024-11-01]
+\[[Paper](https://arxiv.org/abs/2407.12474)] \[[GitHub](https://github.com/FinnBehrendt/Mahalanobis-Unsupervised-Anomaly-Detection) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2024-11-01]
 
 **CADD: Context aware disease deviations via restoration of brain images using normative conditional diffusion models** \
 *Ana Lawry Aguila, Ayodeji Ijishakin, Juan Eugenio Iglesias, Tomomi Takenaga, Yukihiro Nomura, Takeharu Yoshikawa, Osamu Abe, Shouhei Hanaoka* \
@@ -301,7 +301,7 @@
 **Guided Reconstruction with Conditioned Diffusion Models for Unsupervised Anomaly Detection in Brain MRIs** \
 *Finn Behrendt, Debayan Bhattacharya, Robin Mieling, Lennart Maack, Julia Krüger, Roland Opfer, Alexander Schlaefer* \
 \[7th Dec., 2023] \[arXiv, 2023]<br>
-\[[Paper](https://arxiv.org/abs/2310.08654)] \[[Github](https://github.com/FinnBehrendt/Conditioned-Diffusion-Models-UAD) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2025-01-23]
+\[[Paper](https://arxiv.org/abs/2310.08654)] \[[Github](https://github.com/FinnBehrendt/Conditioned-Diffusion-Models-UAD) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2025-01-23]
 
 **Histogram- and Diffusion-Based Medical Out-of-Distribution Detection** \
 *Evi M.C. Huijben, Sina Amirrajab, Josien P.W. Pluim* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,544 | 🐛 126 | 🌐 Jupyter Notebook | 📅 2026-09-15] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,545 | 🐛 126 | 🌐 Jupyter Notebook | 📅 2026-09-15] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -1701,7 +1701,7 @@
 **Enhancing Spatiotemporal Disease Progression Models via Latent Diffusion and Prior Knowledge** \
 *Lemuel Puglisi, Daniel C. Alexander, Daniele Ravì* \
 \[22th Aug., 2024] \[MICCAI, 2024] \
-\[[Paper](https://arxiv.org/abs/2405.03328)] \[[GitHub](https://github.com/LemuelPuglisi/BrLP) ⭐ 140 | 🐛 4 | 🌐 Python | 📅 2025-10-31]
+\[[Paper](https://arxiv.org/abs/2405.03328)] \[[GitHub](https://github.com/LemuelPuglisi/BrLP) ⭐ 141 | 🐛 4 | 🌐 Python | 📅 2025-10-31]
 
 **SeLoRA: Self-Expanding Low-Rank Adaptation of Latent Diffusion Model for Medical Image Synthesis** \
 *Yuchen Mao, Hongwei Li, Wei Pang, Giorgos Papanastasiou, Guang Yang, Chengjia Wang* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
