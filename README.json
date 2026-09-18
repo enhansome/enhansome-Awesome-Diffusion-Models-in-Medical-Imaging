@@ -1684,7 +1684,7 @@
                 "open_issues": 116,
                 "owner": "ImprintLab",
                 "repo": "MedSegDiff",
-                "stars": 1363,
+                "stars": 1364,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -1712,7 +1712,7 @@
                 "open_issues": 116,
                 "owner": "ImprintLab",
                 "repo": "MedSegDiff",
-                "stars": 1363,
+                "stars": 1364,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -2452,7 +2452,7 @@
                 "open_issues": 126,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2545,
+                "stars": 2546,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:12:09.455Z",
+    "last_updated": "2026-09-18T17:40:30.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
