@@ -190,12 +190,12 @@
 **A Survey on Generative Diffusion Model** \
 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* \
 \[6th Sep., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/pdf/2209.02646.pdf)] \[[Github](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) ⭐ 973 | 🐛 2 | 📅 2023-10-18]
+\[[Paper](https://arxiv.org/pdf/2209.02646.pdf)] \[[Github](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) ⭐ 974 | 🐛 2 | 📅 2023-10-18]
 
 **Diffusion Models: A Comprehensive Survey of Methods and Applications** \
 *Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang* \
 \[2nd Sep., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,365 | 🐛 6 | 📅 2025-09-27]
+\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,365 | 🐛 7 | 📅 2025-09-27]
 
 ## Challenge Reports
 
@@ -579,7 +579,7 @@
 **vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation** \
 *Bastian Wittmann, Yannick Wattenberg, Tamaz Amiranashvili, Suprosanna Shit, Bjoern Menze* \
 \[26th Nov., 2024] \[CVPR, 2025] \
-\[[Paper](http://arxiv.org/abs/2411.17386v2)] \[[Github](https://github.com/bwittmann/vesselFM) ⭐ 168 | 🐛 15 | 🌐 Python | 📅 2026-09-04]
+\[[Paper](http://arxiv.org/abs/2411.17386v2)] \[[Github](https://github.com/bwittmann/vesselFM) ⭐ 170 | 🐛 15 | 🌐 Python | 📅 2026-09-04]
 
 **ScribbleVS: Scribble-Supervised Medical Image Segmentation via Dynamic Competitive Pseudo Label Selection** \
 *Tao Wang, Xinlin Zhang, Yuanbin Chen, Yuanbo Zhou, Longxuan Zhao, Tao Tan, Tong Tong* \
@@ -844,7 +844,7 @@
 **Stochastic Segmentation with Conditional Categorical Diffusion Models** \
 *Lukas Zbinden, Lars Doorenbos, Theodoros Pissas, Raphael Sznitman, Pablo Márquez-Neila* \
 \[15th Mar., 2023] \[ICCV, 2023] \
-\[[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zbinden_Stochastic_Segmentation_with_Conditional_Categorical_Diffusion_Models_ICCV_2023_paper.html)] \[[Github](https://github.com/LarsDoorenbos/ccdm-stochastic-segmentation) ⭐ 58 | 🐛 1 | 🌐 Python | 📅 2023-10-09]
+\[[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zbinden_Stochastic_Segmentation_with_Conditional_Categorical_Diffusion_Models_ICCV_2023_paper.html)] \[[Github](https://github.com/LarsDoorenbos/ccdm-stochastic-segmentation) ⭐ 59 | 🐛 1 | 🌐 Python | 📅 2023-10-09]
 
 **Importance of Aligning Training Strategy with Evaluation for Diffusion Models in 3D Multiclass Segmentation** \
 *Yunguan Fu, Yiwen Li, Shaheer U. Saeed, Matthew J. Clarkson, Yipeng Hu* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,549 | 🐛 127 | 🌐 Jupyter Notebook | 📅 2026-09-15] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,551 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-09-15] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -1601,7 +1601,7 @@
 **cWDM: Conditional Wavelet Diffusion Models for Cross-Modality 3D Medical Image Synthesis** \
 *Paul Friedrich, Alicia Durrer, Julia Wolleb, Philippe C. Cattin* \
 \[26th Nov., 2024] \[BraTS, 2024] \
-\[[Paper](http://arxiv.org/abs/2411.17203v1)] \[[GitHub](https://github.com/pfriedri/cwdm) ⭐ 51 | 🐛 0 | 🌐 Python | 📅 2024-11-27]
+\[[Paper](http://arxiv.org/abs/2411.17203v1)] \[[GitHub](https://github.com/pfriedri/cwdm) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2024-11-27]
 
 **Counterfactual MRI Data Augmentation using Conditional Denoising Diffusion Generative Models** \
 *Pedro Morão, Joao Santinha, Yasna Forghani, Nuno Loução, Pedro Gouveia, Mario A. T. Figueiredo* \
@@ -1916,12 +1916,12 @@
 **Towards Generalizable Tumor Synthesis** \
 *Qi Chen, Xiaoxi Chen, Haorui Song, Zhiwei Xiong, Alan Yuille, Chen Wei, Zongwei Zhou* \
 \[29th Feb., 2024] \[CVPR, 2024] \
-\[[Paper](https://arxiv.org/abs/2402.19470)] \[[Github](https://github.com/MrGiovanni/DiffTumor) ⭐ 219 | 🐛 13 | 🌐 Python | 📅 2026-08-25]
+\[[Paper](https://arxiv.org/abs/2402.19470)] \[[Github](https://github.com/MrGiovanni/DiffTumor) ⭐ 220 | 🐛 13 | 🌐 Python | 📅 2026-08-25]
 
 **WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis** \
 *Paul Friedrich, Julia Wolleb, Florentin Bieder, Alicia Durrer, Philippe C. Cattin* \
 \[29th Feb., 2024] \[DGM4MICCAI, 2024] \
-\[[Paper](https://arxiv.org/abs/2402.19043)] \[[Github](https://github.com/pfriedri/wdm-3d) ⭐ 140 | 🐛 1 | 🌐 Python | 📅 2025-09-01] \[[Project Page](https://pfriedri.github.io/wdm-3d-io/)]
+\[[Paper](https://arxiv.org/abs/2402.19043)] \[[Github](https://github.com/pfriedri/wdm-3d) ⭐ 141 | 🐛 1 | 🌐 Python | 📅 2025-09-01] \[[Project Page](https://pfriedri.github.io/wdm-3d-io/)]
 
 **Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models** \
 *Nicholas Konz, Yuwen Chen, Haoyu Dong, Maciej A. Mazurowski* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
