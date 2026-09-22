@@ -126,7 +126,7 @@
             "open_issues": 7,
             "owner": "YangLing0818",
             "repo": "Diffusion-Models-Papers-Survey-Taxonomy",
-            "stars": 3365,
+            "stars": 3364,
             "topics": [
               "diffusion-models",
               "stable-diffusion",
@@ -922,7 +922,7 @@
                 "open_issues": 15,
                 "owner": "bwittmann",
                 "repo": "vesselFM",
-                "stars": 170,
+                "stars": 171,
                 "topics": [
                   "blood-vessel-segmentation",
                   "foundation-models",
@@ -2185,7 +2185,7 @@
                 "open_issues": 4,
                 "owner": "icon-lab",
                 "repo": "FDB",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "artificial-intelligence",
                   "bridges",
@@ -2452,7 +2452,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2551,
+                "stars": 2552,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2769,7 +2769,7 @@
                 "open_issues": 0,
                 "owner": "mominul-ssv",
                 "repo": "alz-cq-cnn",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:26:30.733Z",
+    "last_updated": "2026-09-22T18:05:08.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
