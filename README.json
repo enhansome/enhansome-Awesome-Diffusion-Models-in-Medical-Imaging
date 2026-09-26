@@ -1171,7 +1171,7 @@
                 "open_issues": 2,
                 "owner": "lin-tianyu",
                 "repo": "Stable-Diffusion-Seg",
-                "stars": 116,
+                "stars": 117,
                 "topics": [
                   "computer-vision",
                   "diffusion-models",
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:35:08.089Z",
+    "last_updated": "2026-09-26T17:45:10.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
@@ -5040,7 +5040,7 @@
       "open_issues": 2,
       "owner": "amirhossein-kz",
       "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-      "stars": 2112,
+      "stars": 2113,
       "topics": [
         "ddpm",
         "deep-learning",
