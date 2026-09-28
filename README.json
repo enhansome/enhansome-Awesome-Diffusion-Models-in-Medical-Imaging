@@ -623,7 +623,7 @@
                 "open_issues": 2,
                 "owner": "huynhspm",
                 "repo": "Data-Uncertainty",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -1373,7 +1373,7 @@
                 "open_issues": 1,
                 "owner": "mathpluscode",
                 "repo": "ImgX-DiffSeg",
-                "stars": 86,
+                "stars": 87,
                 "topics": [
                   "abdominal-organ-segmentation",
                   "brain-tumor-segmentation",
@@ -1653,7 +1653,7 @@
                 "open_issues": 1,
                 "owner": "mathpluscode",
                 "repo": "ImgX-DiffSeg",
-                "stars": 86,
+                "stars": 87,
                 "topics": [
                   "abdominal-organ-segmentation",
                   "brain-tumor-segmentation",
@@ -2452,7 +2452,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2554,
+                "stars": 2556,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -3152,7 +3152,7 @@
                 "open_issues": 0,
                 "owner": "maxiao0234",
                 "repo": "TTGA",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -3236,7 +3236,7 @@
                 "open_issues": 40,
                 "owner": "CUHK-AIM-Group",
                 "repo": "U-KAN",
-                "stars": 558,
+                "stars": 559,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:22:31.013Z",
+    "last_updated": "2026-09-28T20:32:50.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
