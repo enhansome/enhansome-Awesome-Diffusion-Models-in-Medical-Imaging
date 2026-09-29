@@ -1684,7 +1684,7 @@
                 "open_issues": 116,
                 "owner": "ImprintLab",
                 "repo": "MedSegDiff",
-                "stars": 1363,
+                "stars": 1362,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -1712,7 +1712,7 @@
                 "open_issues": 116,
                 "owner": "ImprintLab",
                 "repo": "MedSegDiff",
-                "stars": 1363,
+                "stars": 1362,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -1768,7 +1768,7 @@
                 "open_issues": 3,
                 "owner": "AndreaMoschetto",
                 "repo": "medical-I2I-benchmark",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -2452,7 +2452,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2556,
+                "stars": 2557,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -3461,7 +3461,7 @@
                 "open_issues": 0,
                 "owner": "HKU-MedAI",
                 "repo": "GEM-3D",
-                "stars": 81,
+                "stars": 82,
                 "topics": [
                   "3d-medical-images",
                   "diffusion-models",
@@ -3987,7 +3987,7 @@
                 "open_issues": 5,
                 "owner": "torchDDM",
                 "repo": "DDM",
-                "stars": 84,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:32:50.574Z",
+    "last_updated": "2026-09-29T19:24:55.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",

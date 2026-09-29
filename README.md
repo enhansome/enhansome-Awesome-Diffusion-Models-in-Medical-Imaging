@@ -859,7 +859,7 @@
 **MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer** \
 *Junde Wu, Rao Fu, Huihui Fang, Yu Zhang, Yanwu Xu* \
 \[19th Jan., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2301.11798)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,363 | 🐛 116 | 🌐 Python | 📅 2025-09-10]
+\[[Paper](https://arxiv.org/abs/2301.11798)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,362 | 🐛 116 | 🌐 Python | 📅 2025-09-10]
 
 **Improved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks** \
 *Mathias Öttl, Jana Mönius, Matthias Rübner, Carol I. Geppert, Jingna Qiu, Frauke Wilm, Arndt Hartmann, Matthias W. Beckmann, Peter A. Fasching, Andreas Maier, Ramona Erber, Katharina Breininger* \
@@ -869,7 +869,7 @@
 **MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model** \
 *Junde Wu, Huihui Fang, Yu Zhang, Yehui Yang, Yanwu Xu* \
 \[1st Nov., 2022] \[MIDL, 2023] \
-\[[Paper](https://arxiv.org/abs/2211.00611)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,363 | 🐛 116 | 🌐 Python | 📅 2025-09-10]
+\[[Paper](https://arxiv.org/abs/2211.00611)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,362 | 🐛 116 | 🌐 Python | 📅 2025-09-10]
 
 **Accelerating Diffusion Models via Pre-segmentation Diffusion Sampling for Medical Image Segmentation** \
 *Xutao Guo, Yanwu Yang, Chenfei Ye, Shang Lu, Yang Xiang, Ting Ma* \
@@ -898,7 +898,7 @@
 **Benchmarking GANs, Diffusion Models, and Flow Matching for T1w-to-T2w MRI Translation** \
 *Andrea Moschetto, Lemuel Puglisi, Alec Sargood, Pierluigi Dell'Acqua, Francesco Guarnera, Sebastiano Battiato, Daniele Ravì* \
 \[19th Jul., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2507.14575v1)] \[[Github](https://github.com/AndreaMoschetto/medical-I2I-benchmark) ⭐ 18 | 🐛 3 | 🌐 Python | 📅 2026-01-19]
+\[[Paper](http://arxiv.org/abs/2507.14575v1)] \[[Github](https://github.com/AndreaMoschetto/medical-I2I-benchmark) ⭐ 19 | 🐛 3 | 🌐 Python | 📅 2026-01-19]
 
 **Human-Guided Shade Artifact Suppression in CBCT-to-MDCT Translation via Schrödinger Bridge with Conditional Diffusion** \
 *Sung Ho Kang, Hyun-Cheol Park* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,556 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-09-27] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,557 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-09-27] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -1866,7 +1866,7 @@
 **Generative Enhancement for 3D Medical Images** \
 *Lingting Zhu, Noel Codella, Dongdong Chen, Zhenchao Jin, Lu Yuan, Lequan Yu* \
 \[14th Mar., 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2403.12852)] \[[Github](https://github.com/HKU-MedAI/GEM-3D) ⭐ 81 | 🐛 0 | 🌐 Python | 📅 2026-03-12]
+\[[Paper](https://arxiv.org/abs/2403.12852)] \[[Github](https://github.com/HKU-MedAI/GEM-3D) ⭐ 82 | 🐛 0 | 🌐 Python | 📅 2026-03-12]
 
 **XReal: Realistic Anatomy and Pathology-Aware X-ray Generation via Controllable Diffusion Model** \
 *Anees Ur Rehman Hashmi, Ibrahim Almakky, Mohammad Areeb Qazi, Santosh Sanjeev, Vijay Ram Papineni, Dwarikanath Mahapatra, Mohammad Yaqub* \
@@ -2246,7 +2246,7 @@
 **Diffusion Deformable Model for 4D Temporal Medical Image Generation** \
 *Boah Kim, Jong Chul Ye* \
 \[27th Jan., 2022] \[MICCAI, 2022] \
-\[[Paper](https://arxiv.org/abs/2206.13295)] \[[Github](https://github.com/torchddm/ddm) ⭐ 84 | 🐛 5 | 🌐 Python | 📅 2023-08-30]
+\[[Paper](https://arxiv.org/abs/2206.13295)] \[[Github](https://github.com/torchddm/ddm) ⭐ 83 | 🐛 5 | 🌐 Python | 📅 2023-08-30]
 
 **Three-Dimensional Medical Image Synthesis with Denoising Diffusion Probabilistic Models** \
 *Zolnamar Dorjsembe, Sodtavilan Odonchimed, Furen Xiao* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
