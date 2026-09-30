@@ -1,6 +1,6 @@
 # Awesome Diffusion Models in Medical Imaging with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) ⭐ 2,113 | 🐛 2 | 📅 2025-11-17
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) ⭐ 2,112 | 🐛 2 | 📅 2025-11-17
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 :fire::fire: This is a collection of awesome articles about diffusion models in medical imaging:fire::fire:
@@ -579,7 +579,7 @@
 **vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation** \
 *Bastian Wittmann, Yannick Wattenberg, Tamaz Amiranashvili, Suprosanna Shit, Bjoern Menze* \
 \[26th Nov., 2024] \[CVPR, 2025] \
-\[[Paper](http://arxiv.org/abs/2411.17386v2)] \[[Github](https://github.com/bwittmann/vesselFM) ⭐ 171 | 🐛 15 | 🌐 Python | 📅 2026-09-04]
+\[[Paper](http://arxiv.org/abs/2411.17386v2)] \[[Github](https://github.com/bwittmann/vesselFM) ⭐ 172 | 🐛 15 | 🌐 Python | 📅 2026-09-04]
 
 **ScribbleVS: Scribble-Supervised Medical Image Segmentation via Dynamic Competitive Pseudo Label Selection** \
 *Tao Wang, Xinlin Zhang, Yuanbin Chen, Yuanbo Zhou, Longxuan Zhao, Tao Tan, Tong Tong* \
@@ -859,7 +859,7 @@
 **MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer** \
 *Junde Wu, Rao Fu, Huihui Fang, Yu Zhang, Yanwu Xu* \
 \[19th Jan., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2301.11798)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,362 | 🐛 116 | 🌐 Python | 📅 2025-09-10]
+\[[Paper](https://arxiv.org/abs/2301.11798)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,363 | 🐛 116 | 🌐 Python | 📅 2025-09-10]
 
 **Improved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks** \
 *Mathias Öttl, Jana Mönius, Matthias Rübner, Carol I. Geppert, Jingna Qiu, Frauke Wilm, Arndt Hartmann, Matthias W. Beckmann, Peter A. Fasching, Andreas Maier, Ramona Erber, Katharina Breininger* \
@@ -869,7 +869,7 @@
 **MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model** \
 *Junde Wu, Huihui Fang, Yu Zhang, Yehui Yang, Yanwu Xu* \
 \[1st Nov., 2022] \[MIDL, 2023] \
-\[[Paper](https://arxiv.org/abs/2211.00611)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,362 | 🐛 116 | 🌐 Python | 📅 2025-09-10]
+\[[Paper](https://arxiv.org/abs/2211.00611)] \[[Github](https://github.com/WuJunde/MedSegDiff) ⭐ 1,363 | 🐛 116 | 🌐 Python | 📅 2025-09-10]
 
 **Accelerating Diffusion Models via Pre-segmentation Diffusion Sampling for Medical Image Segmentation** \
 *Xutao Guo, Yanwu Yang, Chenfei Ye, Shang Lu, Yang Xiang, Ting Ma* \
@@ -983,7 +983,7 @@
 **Soft Masked Mamba Diffusion Model for CT to MRI Conversion** \
 *Zhenbin Wang, Lei Zhang, Lituan Wang, Zhenwei Zhang* \
 \[22nd Jun., 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2406.15910)] \[[GitHub](https://github.com/wongzbb/DiffMa-Diffusion-Mamba) ⭐ 112 | 🐛 17 | 🌐 Python | 📅 2024-07-02]
+\[[Paper](https://arxiv.org/abs/2406.15910)] \[[GitHub](https://github.com/wongzbb/DiffMa-Diffusion-Mamba) ⭐ 111 | 🐛 17 | 🌐 Python | 📅 2024-07-02]
 
 **2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction** \
 *Tianqi Chen, Jun Hou, Yinchi Zhou, Huidong Xie, Xiongchao Chen, Qiong Liu, Xueqi Guo, Menghua Xia, James S. Duncan, Chi Liu, Bo Zhou*  \
@@ -998,7 +998,7 @@
 **Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation** \
 *Hongxu Jiang, Muhammad Imran, Linhai Ma, Teng Zhang, Yuyin Zhou, Muxuan Liang, Kuang Gong, Wei Shao* \
 \[23rd May, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2405.14802)] \[[GitHub](https://github.com/mirthAI/Fast-DDPM) ⭐ 184 | 🐛 17 | 🌐 Python | 📅 2025-06-13]
+\[[Paper](https://arxiv.org/abs/2405.14802)] \[[GitHub](https://github.com/mirthAI/Fast-DDPM) ⭐ 183 | 🐛 17 | 🌐 Python | 📅 2025-06-13]
 
 **Cascaded Multi-path Shortcut Diffusion Model for Medical Image Translation** \
 *Yinchi Zhou, Tianqi Chen, Jun Hou, Huidong Xie, Nicha C. Dvornek, S. Kevin Zhou, David L. Wilson, James S. Duncan, Chi Liu, Bo Zhou* \
@@ -1038,7 +1038,7 @@
 **Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study** \
 *Jonghun Kim, Hyunjin Park* \
 \[1st Nov., 2023] \[WACV, 2024] \
-\[[Paper](https://arxiv.org/abs/2311.00265)] \[[Github](https://github.com/jongdory/ALDM/) ⭐ 190 | 🐛 10 | 🌐 Python | 📅 2026-01-09]
+\[[Paper](https://arxiv.org/abs/2311.00265)] \[[Github](https://github.com/jongdory/ALDM/) ⭐ 189 | 🐛 10 | 🌐 Python | 📅 2026-01-09]
 
 **Cycle-guided Denoising Diffusion Probability Model for 3D Cross-modality MRI Synthesis** \
 *Shaoyan Pan, Chih-Wei Chang, Junbo Peng, Jiahan Zhang, Richard L.J. Qiu, Tonghe Wang, Justin Roper, Tian Liu, Hui Mao, Xiaofeng Yang* \
@@ -1048,7 +1048,7 @@
 **Zero-shot Medical Image Translation via Frequency-Guided Diffusion Models** \
 *Yunxiang Li, Hua-Chieh Shao, Xiao Liang, Liyuan Chen, Ruiqi Li, Steve Jiang, Jing Wang, You Zhang* \
 \[5th Apr., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2304.02742)] \[[Github](https://github.com/Kent0n-Li/FGDM) ⭐ 82 | 🐛 3 | 🌐 Python | 📅 2023-11-19]
+\[[Paper](https://arxiv.org/abs/2304.02742)] \[[Github](https://github.com/Kent0n-Li/FGDM) ⭐ 81 | 🐛 3 | 🌐 Python | 📅 2023-11-19]
 
 **Class-Guided Image-to-Image Diffusion: Cell Painting from Brightfield Images with Class Labels** \
 *Jan Oscar Cross-Zamirski, Praveen Anand, Guy Williams, Elizabeth Mouchet, Yinhai Wang, Carola-Bibiane Schönlieb* \
@@ -1392,12 +1392,12 @@
 **Solving Inverse Problems in Medical Imaging with Score-Based Generative Models**<br>
 *Yang Song, Liyue Shen, Lei Xing, Stefano Ermon*<br>
 \[15th Nov., 2021] \[ICLR, 2022] <br>
-\[[Paper](https://arxiv.org/abs/2111.08005)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 271 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
+\[[Paper](https://arxiv.org/abs/2111.08005)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 270 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
 
 **Score-based diffusion models for accelerated MRI** <br>
 *Hyungjin Chung, Jong chul Ye*<br>
 \[8th Oct., 2021] \[MIA, 2021]<br>
-\[[Paper](https://arxiv.org/abs/2110.05243)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 271 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
+\[[Paper](https://arxiv.org/abs/2110.05243)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 270 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
 
 **Robust Compressed Sensing MRI with Deep Generative Priors** <br>
 *Ajil Jalal, Marius Arvinte, Giannis Daras, Eric Price, Alexandros G. Dimakis, Jonathan I. Tamir*<br>
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,557 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-09-27] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,558 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-09-27] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -2532,7 +2532,7 @@
 **InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model** \
 *Jueqi Wang, Jacob Levman, Walter Hugo Lopez Pinaya, Petru-Daniel Tudosiu, M. Jorge Cardoso, Razvan Marinescu* \
 \[23rd Aug, 2023] \[MICCAI, 2023] \
-\[[Paper](https://arxiv.org/abs/2308.12465)] \[[GitHub](https://github.com/BioMedAI-UCSC/InverseSR) ⭐ 78 | 🐛 10 | 🌐 Python | 📅 2026-08-25]
+\[[Paper](https://arxiv.org/abs/2308.12465)] \[[GitHub](https://github.com/BioMedAI-UCSC/InverseSR) ⭐ 77 | 🐛 10 | 🌐 Python | 📅 2026-08-25]
 
 **Self-similarity-based super-resolution of photoacoustic angiography from hand-drawn doodles** \
 *Yuanzheng Ma, Wangting Zhou, Rui Ma, Sihua Yang, Yansong Tang, Xun Guan* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
