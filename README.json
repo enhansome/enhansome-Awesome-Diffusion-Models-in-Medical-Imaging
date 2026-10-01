@@ -126,7 +126,7 @@
             "open_issues": 7,
             "owner": "YangLing0818",
             "repo": "Diffusion-Models-Papers-Survey-Taxonomy",
-            "stars": 3364,
+            "stars": 3363,
             "topics": [
               "diffusion-models",
               "stable-diffusion",
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T19:17:56.369Z",
+    "last_updated": "2026-10-01T19:31:12.228Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
