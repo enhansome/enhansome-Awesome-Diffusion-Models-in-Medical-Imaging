@@ -449,7 +449,7 @@
 **Aleatoric Uncertainty Medical Image Segmentation Estimation via Flow Matching** \
 *Phi Van Nguyen, Ngoc Huynh Trinh, Duy Minh Lam Nguyen, Phu Loc Nguyen, Quoc Long Tran* \
 \[30th Jul., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2507.22418v1)] \[[Github](https://github.com/huynhspm/Data-Uncertainty) ⭐ 8 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2025-10-01]
+\[[Paper](http://arxiv.org/abs/2507.22418v1)] \[[Github](https://github.com/huynhspm/Data-Uncertainty) ⭐ 9 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2025-10-01]
 
 **Flow Stochastic Segmentation Networks** \
 *Fabio De Sousa Ribeiro, Omar Todd, Charles Jones, Avinash Kori, Raghav Mehta, Ben Glocker* \
@@ -1392,12 +1392,12 @@
 **Solving Inverse Problems in Medical Imaging with Score-Based Generative Models**<br>
 *Yang Song, Liyue Shen, Lei Xing, Stefano Ermon*<br>
 \[15th Nov., 2021] \[ICLR, 2022] <br>
-\[[Paper](https://arxiv.org/abs/2111.08005)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 270 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
+\[[Paper](https://arxiv.org/abs/2111.08005)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 269 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
 
 **Score-based diffusion models for accelerated MRI** <br>
 *Hyungjin Chung, Jong chul Ye*<br>
 \[8th Oct., 2021] \[MIA, 2021]<br>
-\[[Paper](https://arxiv.org/abs/2110.05243)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 270 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
+\[[Paper](https://arxiv.org/abs/2110.05243)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 269 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
 
 **Robust Compressed Sensing MRI with Deep Generative Priors** <br>
 *Ajil Jalal, Marius Arvinte, Giannis Daras, Eric Price, Alexandros G. Dimakis, Jonathan I. Tamir*<br>
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,558 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-09-27] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,559 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-09-27] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -1766,7 +1766,7 @@
 **X-ray2CTPA: Generating 3D CTPA scans from 2D X-ray conditioning** \
 *Noa Cahan, Eyal Klang, Galit Aviram, Yiftach Barash, Eli Konen, Raja Giryes, Hayit Greenspan* \
 \[23rd Jun., 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2406.16109)] \[[GitHub](https://github.com/NoaCahan/X-ray2CTPA) ⭐ 47 | 🐛 10 | 🌐 Python | 📅 2026-07-01]
+\[[Paper](https://arxiv.org/abs/2406.16109)] \[[GitHub](https://github.com/NoaCahan/X-ray2CTPA) ⭐ 46 | 🐛 10 | 🌐 Python | 📅 2026-07-01]
 
 **Image Distillation for Safe Data Sharing in Histopathology** \
 *Zhe Li, Bernhard Kainz* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

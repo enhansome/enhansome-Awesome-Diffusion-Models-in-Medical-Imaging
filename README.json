@@ -623,7 +623,7 @@
                 "open_issues": 2,
                 "owner": "huynhspm",
                 "repo": "Data-Uncertainty",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -2361,7 +2361,7 @@
                 "open_issues": 11,
                 "owner": "yang-song",
                 "repo": "score_inverse_problems",
-                "stars": 270,
+                "stars": 269,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -2382,7 +2382,7 @@
                 "open_issues": 11,
                 "owner": "yang-song",
                 "repo": "score_inverse_problems",
-                "stars": 270,
+                "stars": 269,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -2452,7 +2452,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2558,
+                "stars": 2559,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -3173,7 +3173,7 @@
                 "open_issues": 10,
                 "owner": "NoaCahan",
                 "repo": "X-ray2CTPA",
-                "stars": 47,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:31:12.228Z",
+    "last_updated": "2026-10-02T19:17:07.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
