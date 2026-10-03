@@ -579,7 +579,7 @@
 **vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation** \
 *Bastian Wittmann, Yannick Wattenberg, Tamaz Amiranashvili, Suprosanna Shit, Bjoern Menze* \
 \[26th Nov., 2024] \[CVPR, 2025] \
-\[[Paper](http://arxiv.org/abs/2411.17386v2)] \[[Github](https://github.com/bwittmann/vesselFM) ⭐ 172 | 🐛 15 | 🌐 Python | 📅 2026-09-04]
+\[[Paper](http://arxiv.org/abs/2411.17386v2)] \[[Github](https://github.com/bwittmann/vesselFM) ⭐ 174 | 🐛 15 | 🌐 Python | 📅 2026-09-04]
 
 **ScribbleVS: Scribble-Supervised Medical Image Segmentation via Dynamic Competitive Pseudo Label Selection** \
 *Tao Wang, Xinlin Zhang, Yuanbin Chen, Yuanbo Zhou, Longxuan Zhao, Tao Tan, Tong Tong* \
@@ -998,7 +998,7 @@
 **Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation** \
 *Hongxu Jiang, Muhammad Imran, Linhai Ma, Teng Zhang, Yuyin Zhou, Muxuan Liang, Kuang Gong, Wei Shao* \
 \[23rd May, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2405.14802)] \[[GitHub](https://github.com/mirthAI/Fast-DDPM) ⭐ 183 | 🐛 17 | 🌐 Python | 📅 2025-06-13]
+\[[Paper](https://arxiv.org/abs/2405.14802)] \[[GitHub](https://github.com/mirthAI/Fast-DDPM) ⭐ 184 | 🐛 17 | 🌐 Python | 📅 2025-06-13]
 
 **Cascaded Multi-path Shortcut Diffusion Model for Medical Image Translation** \
 *Yinchi Zhou, Tianqi Chen, Jun Hou, Huidong Xie, Nicha C. Dvornek, S. Kevin Zhou, David L. Wilson, James S. Duncan, Chi Liu, Bo Zhou* \
