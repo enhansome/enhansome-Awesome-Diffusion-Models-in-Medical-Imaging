@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Diffusion Models in Low-Level Vision: A Survey Chunming He, Yuqi Shen, Chengyu Fang, Fengyang Xiao, Longxiang Tang, Yulun Zhang, Wangmeng Zuo, Zhenhua Guo, Xiu Li [16th Jun., 2024] [arXiv, 2024] [Paper",
-          "description": "] [GitHub]",
+          "description": "ChunmingHe/awesome-diffusion-models-in-low-level-vision",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -40,7 +40,7 @@
         {
           "node_type": "item",
           "title": "Generative AI for Medical Imaging: extending the MONAI Framework :fire: Walter H. L. Pinaya, Mark S. Graham, Eric Kerfoot, Petru-Daniel Tudosiu, Jessica Dafflon, Virginia Fernandez, Pedro Sanchez, Julia Wolleb, Pedro F. da Costa, Ashay Patel, Hyungjin Chung, Can Zhao, Wei Peng, Zelong Liu, Xueyan Mei, Oeslle Lucena, Jong Chul Ye, Sotirios A. Tsaftaris, Prerna Dogra, Andrew Feng, Marc Modat, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso [27th Jul., 2023] [arXiv, 2023] [Paper",
-          "description": "] [Github]",
+          "description": "Project-MONAI/GenerativeModels",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -71,7 +71,7 @@
         {
           "node_type": "item",
           "title": "Diffusion Models in Vision: A Survey Florinel-Alin Croitoru, Vlad Hondru, Radu Tudor Ionescu, Mubarak Shah [10th Sep., 2022] [arXiv, 2022] [Paper",
-          "description": "] [Github]",
+          "description": "CroitoruAlin/Diffusion-Models-in-Vision-A-Survey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -92,7 +92,7 @@
         {
           "node_type": "item",
           "title": "A Survey on Generative Diffusion Model Hanqun Cao, Cheng Tan, Zhangyang Gao, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li [6th Sep., 2022] [arXiv, 2022] [Paper",
-          "description": "] [Github]",
+          "description": "chq1155/A-Survey-on-Generative-Diffusion-Model",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -113,7 +113,7 @@
         {
           "node_type": "item",
           "title": "Diffusion Models: A Comprehensive Survey of Methods and Applications Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang [2nd Sep., 2022] [arXiv, 2022] [Paper",
-          "description": "] [Github]",
+          "description": "YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -149,7 +149,7 @@
             {
               "node_type": "item",
               "title": "Leveraging the Mahalanobis Distance to enhance Unsupervised Brain MRI Anomaly Detection Finn Behrendt, Debayan Bhattacharya, Robin Mieling, Lennart Maack, Julia Krüger, Roland Opfer, Alexander Schlaefer [03th Oct., 2024] [MICCAI, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "FinnBehrendt/Mahalanobis-Unsupervised-Anomaly-Detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -177,7 +177,7 @@
             {
               "node_type": "item",
               "title": "MCDDPM: Multichannel Conditional Denoising Diffusion Model for Unsupervised Anomaly Detection in Brain MRI Vivek Kumar Trivedi, Bheeshm Sharma, P. Balamurugan [29th Sep., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "vivekkumartri/MCDDPM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -198,7 +198,7 @@
             {
               "node_type": "item",
               "title": "Diffusion Models with Ensembled Structure-Based Anomaly Scoring for Unsupervised Anomaly Detection Finn Behrendt, Debayan Bhattacharya, Lennart Maack, Julia Krüger, Roland Opfer, Robin Mieling, Alexander Schlaefer [22nd Aug., 2024] [ISBI, 2024] [Paper",
-              "description": "] [Github]",
+              "description": "FinnBehrendt/Ensembled-SSIM-for-Unsupervised-Anomaly-Detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -219,7 +219,7 @@
             {
               "node_type": "item",
               "title": "Combining Reconstruction-based Unsupervised Anomaly Detection with Supervised Segmentation for Brain MRIs Finn Behrendt, Debayan Bhattacharya, Lennart Maack, Julia Krüger, Roland Opfer, Alexander Schlaefer [6th Jun., 2024] [MIDL, 2024] [Paper",
-              "description": "] [Github]",
+              "description": "FinnBehrendt/Supervised-Anomaly-Detection-with-Diffusion-Models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -240,7 +240,7 @@
             {
               "node_type": "item",
               "title": "Diffusion Models with Implicit Guidance for Medical Anomaly Detection Cosmin I. Bercea, Benedikt Wiestler, Daniel Rueckert, Julia A. Schnabel [13th Mar., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "ci-ber/THOR_DDPM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -261,7 +261,7 @@
             {
               "node_type": "item",
               "title": "Unsupervised Anomaly Detection using Aggregated Normative Diffusion Alexander Frotscher, Jaivardhan Kapoor, Thomas Wolfers, Christian F. Baumgartner [4th Dec., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "AlexanderFrotscher/ANDi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -289,7 +289,7 @@
             {
               "node_type": "item",
               "title": "Guided Reconstruction with Conditioned Diffusion Models for Unsupervised Anomaly Detection in Brain MRIs Finn Behrendt, Debayan Bhattacharya, Robin Mieling, Lennart Maack, Julia Krüger, Roland Opfer, Alexander Schlaefer [7th Dec., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "FinnBehrendt/Conditioned-Diffusion-Models-UAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -320,7 +320,7 @@
             {
               "node_type": "item",
               "title": "Histogram- and Diffusion-Based Medical Out-of-Distribution Detection Evi M.C. Huijben, Sina Amirrajab, Josien P.W. Pluim [12th Oct., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "evihuijben/mood_challenge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -341,7 +341,7 @@
             {
               "node_type": "item",
               "title": "Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI Ziyun Liang, Harry Anthony, Felix Wagner, Konstantinos Kamnitsas [30th Aug., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "ZiyunLiang/MMCCD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -362,7 +362,7 @@
             {
               "node_type": "item",
               "title": "Diffusion Models for Counterfactual Generation and Anomaly Detection in Brain Images Alessandro Fontanella, Grant Mair, Joanna Wardlaw, Emanuele Trucco, Amos Storkey [3rd Aug., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "alessandro-f/Dif-fuse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -383,7 +383,7 @@
             {
               "node_type": "item",
               "title": "Unsupervised Anomaly Detection in Medical Images Using Masked Diffusion Model Hasan Iqbal, Umar Khalid, Jing Hua, Chen Chen [31st May, 2023] [MICCAI MLMI Workshop, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "hasan1292/mDDPM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -404,7 +404,7 @@
             {
               "node_type": "item",
               "title": "Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI Finn Behrendt, Debayan Bhattacharya, Julia Krüger, Roland Opfer, Alexander Schlaefer [7th Mar., 2023] [MIDL, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "FinnBehrendt/patched-Diffusion-Models-UAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -435,7 +435,7 @@
             {
               "node_type": "item",
               "title": "The role of noise in denoising models for anomaly detection in medical images Antanas Kascenas, Pedro Sanchez, Patrick Schrempf, Chaoyang Wang, William Clackett, Shadia S. Mikhael, Jeremy P. Voisey, Keith Goatman, Alexander Weir, Nicolas Pugeault, Sotirios A. Tsaftaris, Alison Q. O'Neil [19th Jan., 2023] [MedIA Journal, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "AntanasKascenas/DenoisingAE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -456,7 +456,7 @@
             {
               "node_type": "item",
               "title": "What is Healthy? Generative Counterfactual Diffusion for Lesion Localization Pedro Sanchez, Antanas Kascenas, Xiao Liu, Alison Q. O'Neil, Sotirios A. Tsaftaris [25th Jul., 2022] [MICCAI Workshop, 2022] [Paper",
-              "description": "] [Github]",
+              "description": "vios-s/Diff-SCM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -477,7 +477,7 @@
             {
               "node_type": "item",
               "title": "AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using Simplex Noise Julian Wyatt, Adam Leach, Sebastian M. Schmon, Chris G. Willcocks [1st Jun., 2022] [CVPR Workshop, 2022] [Paper",
-              "description": "] [Github]",
+              "description": "Julian-Wyatt/AnoDDPM",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -506,7 +506,7 @@
             {
               "node_type": "item",
               "title": "Diffusion Models for Medical Anomaly Detection Julia Wolleb, Florentin Bieder, Robin Sandkühler, Philippe C. Cattin [8th Mar., 2022] [MICCAI, 2022] [Paper",
-              "description": "] [Github]",
+              "description": "JuliaWolleb/diffusion-anomaly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -534,7 +534,7 @@
             {
               "node_type": "item",
               "title": "Ultrasound Imaging based on the Variance of a Diffusion Restoration Model Yuxin Zhang, Clément Huneau, Jérôme Idier, Diana Mateus [17th Jun., 2024] [EUSIPCO] [Paper",
-              "description": "] [Github]",
+              "description": "Yuxin-Zhang-Jasmine/DRUSvar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -555,7 +555,7 @@
             {
               "node_type": "item",
               "title": "DDM2: Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models Tiange Xiang, Mahmut Yurt, Ali B Syed, Kawin Setsompop, Akshay Chaudhari [6th Feb., 2023] [ICLR, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "StanfordMIMI/DDM2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -582,7 +582,7 @@
             {
               "node_type": "item",
               "title": "Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model Dewei Hu, Yuankai K. Tao, Ipek Oguz [27th Jan., 2022] [Medical Imaging 2022: Image Processing] [Paper",
-              "description": "] [Github]",
+              "description": "DeweiHu/OCT_DDPM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -610,7 +610,7 @@
             {
               "node_type": "item",
               "title": "Aleatoric Uncertainty Medical Image Segmentation Estimation via Flow Matching Phi Van Nguyen, Ngoc Huynh Trinh, Duy Minh Lam Nguyen, Phu Loc Nguyen, Quoc Long Tran [30th Jul., 2025] [arXiv, 2025] [Paper",
-              "description": "] [Github]",
+              "description": "huynhspm/Data-Uncertainty",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -631,7 +631,7 @@
             {
               "node_type": "item",
               "title": "Flow Stochastic Segmentation Networks Fabio De Sousa Ribeiro, Omar Todd, Charles Jones, Avinash Kori, Raghav Mehta, Ben Glocker [24th Jul., 2025] [arXiv, 2025] [Paper",
-              "description": "] [Github]",
+              "description": "biomedia-mira/flow-ssn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -661,7 +661,7 @@
             {
               "node_type": "item",
               "title": "SegDT: A Diffusion Transformer-Based Segmentation Model for Medical Imaging Salah Eddine Bekhouche, Gaby Maroun, Fadi Dornaika, Abdenour Hadid [21st Jul., 2025] [arXiv, 2025] [Paper",
-              "description": "] [Github]",
+              "description": "Bekhouche/SegDT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -682,7 +682,7 @@
             {
               "node_type": "item",
               "title": "DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model Han Zhang, Xiangde Luo, Yong Chen, Kang Li [17th Jul., 2025] [arXiv, 2025] [Paper",
-              "description": "] [Github]",
+              "description": "string-ellipses/DiffOSeg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -703,7 +703,7 @@
             {
               "node_type": "item",
               "title": "CLAIM: Clinically-Guided LGE Augmentation for Realistic and Diverse Myocardial Scar Synthesis and Segmentation Farheen Ramzan, Yusuf Kiberu, Nikesh Jathanna, Shahnaz Jamil-Copley, Richard H. Clayton, Chen Chen [18th Jun., 2025] [arXiv, 2025] [Paper",
-              "description": "] [Github]",
+              "description": "farheenjabeen/CLAIM-Scar-Synthesis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -758,7 +758,7 @@
             {
               "node_type": "item",
               "title": "Unleashing Diffusion and State Space Models for Medical Image Segmentation Rong Wu, Ziqi Chen, Liming Zhong, Heng Li, Hai Shu [15th Jun., 2025] [arXiv, 2025] [Paper",
-              "description": "] [Github]",
+              "description": "Rows21/k-Means_Mask_Mamba",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -779,7 +779,7 @@
             {
               "node_type": "item",
               "title": "Enhancing Privacy: The Utility of Stand-Alone Synthetic CT and MRI for Tumor and Bone Segmentation André Ferreira, Kunpeng Xie, Caroline Wilpert, Gustavo Correia, Felix Barajas Ordonez, Tiago Gil Oliveira, Maike Bode, Robert Siepmann, Frank Hölzle, Rainer Röhrig, Jens Kleesiek, Daniel Truhn, Jan Egger, Victor Alves, Behrus Puladi [13th Jun., 2025] [arXiv, 2025] [Paper",
-              "description": "] [Github]",
+              "description": "andre-fs-ferreira/generative_networks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -800,7 +800,7 @@
             {
               "node_type": "item",
               "title": "Semi-Supervised Biomedical Image Segmentation via Diffusion Models and Teacher-Student Co-Training Luca Ciampi, Gabriele Lagani, Giuseppe Amato, Fabrizio Falchi [2nd Apr., 2025] [arXiv, 2025] \\ [Paper",
-              "description": "] [GitHub]",
+              "description": "ciampluca/diffusion_semi_supervised_biomedical_image_segmentation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -821,7 +821,7 @@
             {
               "node_type": "item",
               "title": "DiffAtlas: GenAI-fying Atlas Segmentation via Image-Mask Diffusion Hantao Zhang, Yuhe Liu, Jiancheng Yang, Weidong Guo, Xinyuan Wang, Pascal Fua [09th Mar., 2025] [arXiv, 2025] [Paper",
-              "description": "] [GitHub]",
+              "description": "M3DV/DiffAtlas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -842,7 +842,7 @@
             {
               "node_type": "item",
               "title": "Conditional diffusion model with spatial attention and latent embedding for medical image segmentation Behzad Hejrati, Soumyanil Banerjee, Carri Glide-Hurst, Ming Dong [10th Feb., 2025] [MICCAI, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "Hejrati/cDAL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -867,7 +867,7 @@
             {
               "node_type": "item",
               "title": "Bridging Classification and Segmentation in Osteosarcoma Assessment via Foundation and Discrete Diffusion Models Manh Duong Nguyen, Dac Thai Nguyen, Trung Viet Nguyen, Homi Yamada, Huy Hieu Pham, Phi Le Nguyen [03rd Jan., 2025] [ISBI, 2025] [Paper",
-              "description": "] [Github]",
+              "description": "nmduonggg/FDDM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -888,7 +888,7 @@
             {
               "node_type": "item",
               "title": "Structure-Aware Stylized Image Synthesis for Robust Medical Image Segmentation Jie Bao, Zhixin Zhou, Wen Jung Li, Rui Luo [05th Dec., 2024] [arXiv, 2024] [Paper",
-              "description": "] [Github]",
+              "description": "luo-lorry/Stylized-Medical-Segmentation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -909,7 +909,7 @@
             {
               "node_type": "item",
               "title": "vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation Bastian Wittmann, Yannick Wattenberg, Tamaz Amiranashvili, Suprosanna Shit, Bjoern Menze [26th Nov., 2024] [CVPR, 2025] [Paper",
-              "description": "] [Github]",
+              "description": "bwittmann/vesselFM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -934,7 +934,7 @@
             {
               "node_type": "item",
               "title": "ScribbleVS: Scribble-Supervised Medical Image Segmentation via Dynamic Competitive Pseudo Label Selection Tao Wang, Xinlin Zhang, Yuanbin Chen, Yuanbo Zhou, Longxuan Zhao, Tao Tan, Tong Tong [15th Nov., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "ortonwang/ScribbleVS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -955,7 +955,7 @@
             {
               "node_type": "item",
               "title": "Comparative Study of Probabilistic Atlas and Deep Learning Approaches for Automatic Brain Tissue Segmentation from MRI Using N4 Bias Field Correction and Anisotropic Diffusion Pre-processing Techniques Mohammad Imran Hossain, Muhammad Zain Amin, Daniel Tweneboah Anyimadu, Taofik Ahmed Suleiman [08th Nov., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "imran-maia/IBSR_18_BraTSeg_Deep_Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -976,7 +976,7 @@
             {
               "node_type": "item",
               "title": "Generalizable Single-Source Cross-modality Medical Image Segmentation via Invariant Causal Mechanisms Boqi Chen, Yuanzhi Zhu, Yunke Ao, Sebastiano Caprara, Reto Sutter, Gunnar Rätsch, Ender Konukoglu, Anna Susmelj [07th Nov., 2024] [WACV, 2025] \\ [Paper",
-              "description": "] [GitHub]",
+              "description": "ratschlab/ICMSeg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -997,7 +997,7 @@
             {
               "node_type": "item",
               "title": "AdaptDiff: Cross-Modality Domain Adaptation via Weak Conditional Semantic Diffusion for Retinal Vessel Segmentation Dewei Hu, Hao Li, Han Liu, Jiacheng Wang, Xing Yao, Daiwei Lu, Ipek Oguz [06th Oct., 2024] [SASHIMI, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "DeweiHu/AdaptDiff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1018,7 +1018,7 @@
             {
               "node_type": "item",
               "title": "Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model Kun Zhao, Jakub Prokop, Javier Montalt Tordera, Sadegh Mohammadi [19th Jul., 2024] [DGM4MICCAI, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "NVlabs/ODISE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1053,7 +1053,7 @@
             {
               "node_type": "item",
               "title": "Denoising Diffusions in Latent Space for Medical Image Segmentation Fahim Ahmed Zaman, Mathews Jacob, Amanda Chang, Kan Liu, Milan Sonka, Xiaodong Wu [17th Jul., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "LDSeg/LDSeg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1074,7 +1074,7 @@
             {
               "node_type": "item",
               "title": "DiffRect: Latent Diffusion Label Rectification for Semi-supervised Medical Image Segmentation Xinyu Liu, Wuyang Li, Yixuan Yuan [13th Jul., 2024] [MICCAI, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "CUHK-AIM-Group/DiffRect",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1095,7 +1095,7 @@
             {
               "node_type": "item",
               "title": "FairDiff: Fair Segmentation with Point-Image Diffusion Wenyi Li, Haoran Xu, Guiyu Zhang, Huan-ang Gao, Mingju Gao, Mengyu Wang, Hao Zhao [8th Jul., 2024] [MICCAI, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "wenyi-li/FairDiff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1116,7 +1116,7 @@
             {
               "node_type": "item",
               "title": "Enhancing Label-efficient Medical Image Segmentation with Text-guided Diffusion Models Chun-Mei Feng [7th Jul., 2024] [MICCAI, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "chunmeifeng/TextDiff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1137,7 +1137,7 @@
             {
               "node_type": "item",
               "title": "HiDiff: Hybrid Diffusion Framework for Medical Image Segmentation Tao Chen, Chenhui Wang, Zhihao Chen, Yiming Lei, Hongming Shan [3rd Jul., 2024] [IEEE TMI, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "takimailto/HiDiff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1158,7 +1158,7 @@
             {
               "node_type": "item",
               "title": "Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process Tianyu Lin, Zhiguang Chen, Zhonghao Yan, Weijiang Yu, Fudan Zheng [26th Jun., 2024] [MICCAI, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "lin-tianyu/Stable-Diffusion-Seg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1185,7 +1185,7 @@
             {
               "node_type": "item",
               "title": "CriDiff: Criss-cross Injection Diffusion Framework via Generative Pre-train for Prostate Segmentation Tingwei Liu, Miao Zhang, Leiye Liu, Jialong Zhong, Shuyao Wang, Yongri Piao, Huchuan Lu [20th Jun., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "LiuTingWed/CriDiff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1206,7 +1206,7 @@
             {
               "node_type": "item",
               "title": "Reliable Source Approximation: Source-Free Unsupervised Domain Adaptation for Vestibular Schwannoma MRI Segmentation Hongye Zeng, Ke Zou, Zhihao Chen, Rui Zheng, Huazhu Fu [25th May, 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "zenghy96/Reliable-Source-Approximation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1227,7 +1227,7 @@
             {
               "node_type": "item",
               "title": "CTS: A Consistency-Based Medical Image Segmentation Model Kejia Zhang, Lan Zhang, Haiwei Pan, Baolong Yu [14th May, 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "LanHEU/CTS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1248,7 +1248,7 @@
             {
               "node_type": "item",
               "title": "FlowSDF: Flow Matching for Medical Image Segmentation Using Distance Transforms Lea Bogensperger, Dominik Narnhofer, Alexander Falk, Konrad Schindler, Thomas Pock [28th May, 2024] [IJCV, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "leabogensperger/FlowSDF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1269,7 +1269,7 @@
             {
               "node_type": "item",
               "title": "Polyp-DDPM: Diffusion-Based Semantic Polyp Synthesis for Enhanced Segmentation Zolnamar Dorjsembe, Hsing-Kuo Pao, Furen Xiao [6th Feb., 2024] [arXiv, 2024] [Paper",
-              "description": "] [Github]",
+              "description": "mobaidoctor/polyp-ddpm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1290,7 +1290,7 @@
             {
               "node_type": "item",
               "title": "A 3D generative model of pathological multi-modal MR images and segmentations Virginia Fernandez, Walter Hugo Lopez Pinaya, Pedro Borges, Mark S. Graham, Tom Vercauteren, M. Jorge Cardoso [8th Nov., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "virginiafdez/brainSPADE3D_rel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1311,7 +1311,7 @@
             {
               "node_type": "item",
               "title": "Towards Generic Semi-Supervised Framework for Volumetric Medical Image Segmentation Haonan Wang, Xiaomeng Li [17th Oct., 2023] [NeurIPS, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "xmed-lab/GenericSSL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1339,7 +1339,7 @@
             {
               "node_type": "item",
               "title": "Certification of Deep Learning Models for Medical Image Segmentation Othmane Laousy, Alexandre Araujo, Guillaume Chassagnon, Nikos Paragios, Marie-Pierre Revel, Maria Vakalopoulou [5th Oct., 2023] [MICCAI, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "othmanela/medical_cert_seg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1360,7 +1360,7 @@
             {
               "node_type": "item",
               "title": "A Recycling Training Strategy for Medical Image Segmentation with Diffusion Denoising Models Yunguan Fu, Yiwen Li, Shaheer U Saeed, Matthew J Clarkson, Yipeng Hu [30th Aug., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "mathpluscode/ImgX-DiffSeg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1391,7 +1391,7 @@
             {
               "node_type": "item",
               "title": "DermoSegDiff: A Boundary-aware Segmentation Diffusion Model for Skin Lesion Delineation Afshin Bozorgpour, Yousef Sadegheih, Amirhossein Kazerouni, Reza Azad, Dorit Merhof [5th Aug., 2023] [MICCAI Workshop, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "xmindflow/DermoSegDiff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1423,7 +1423,7 @@
             {
               "node_type": "item",
               "title": "FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification Héctor Carrión, Narges Norouzi [21st Jul., 2023] [MICCAI, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "hectorcarrion/FEDD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1444,7 +1444,7 @@
             {
               "node_type": "item",
               "title": "Annotator Consensus Prediction for Medical Image Segmentation with Diffusion Models Tomer Amit, Shmuel Shichrur, Tal Shaharbany, and Lior Wolf [15th Jun., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "tomeramit/Annotator-Consensus-Prediction",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1465,7 +1465,7 @@
             {
               "node_type": "item",
               "title": "Conditional Diffusion Models for Weakly Supervised Medical Image Segmentation Xinrong Hu, Yu-Jen Chen, Tsung-Yi Ho, Yiyu Shi [6th Jun., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "xhu248/cond_ddpm_wsss",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1486,7 +1486,7 @@
             {
               "node_type": "item",
               "title": "Semi-supervised Brain Tumor Segmentation Using Diffusion Models Ahmed Alshenoudy, Bertram Sabrowsky-Hirsch, Stefan Thumfart, Michael Giretzlehner, Erich Kobler [1st Jun., 2023] [AIAI, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "risc-mi/braintumor-ddpm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1511,7 +1511,7 @@
             {
               "node_type": "item",
               "title": "Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model Fenghe Tang, Jianrui Ding, Lingtao Wang, Min Xian, Chunping Ning [16th May, 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "FengheTan9/Multi-Level-Global-Context-Cross-Consistency",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1539,7 +1539,7 @@
             {
               "node_type": "item",
               "title": "Ambiguous Medical Image Segmentation using Diffusion Models Aimon Rahman, Jeya Maria Jose Valanarasu, Ilker Hacihaliloglu, Vishal M Patel [10th Apr., 2023] [CVPR, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "aimansnigdha/Ambiguous-Medical-Image-Segmentation-using-Diffusion-Models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1563,7 +1563,7 @@
             {
               "node_type": "item",
               "title": "Distribution Aligned Diffusion and Prototype-guided network for Unsupervised Domain Adaptive Segmentation Haipeng Zhou, Lei Zhu, Yuyin Zhou [22nd Mar., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "haipengzhou856/DPNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1584,7 +1584,7 @@
             {
               "node_type": "item",
               "title": "Diff-UNet: A Diffusion Embedded Network for Volumetric Segmentation Zhaohu Xing, Liang Wan, Huazhu Fu, Guang Yang, Lei Zhu [18th Mar., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "ge-xing/Diff-UNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1613,7 +1613,7 @@
             {
               "node_type": "item",
               "title": "Stochastic Segmentation with Conditional Categorical Diffusion Models Lukas Zbinden, Lars Doorenbos, Theodoros Pissas, Raphael Sznitman, Pablo Márquez-Neila [15th Mar., 2023] [ICCV, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "LarsDoorenbos/ccdm-stochastic-segmentation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1640,7 +1640,7 @@
             {
               "node_type": "item",
               "title": "Importance of Aligning Training Strategy with Evaluation for Diffusion Models in 3D Multiclass Segmentation Yunguan Fu, Yiwen Li, Shaheer U. Saeed, Matthew J. Clarkson, Yipeng Hu [10th Mar., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "mathpluscode/ImgX-DiffSeg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1671,7 +1671,7 @@
             {
               "node_type": "item",
               "title": "MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer Junde Wu, Rao Fu, Huihui Fang, Yu Zhang, Yanwu Xu [19th Jan., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "ImprintLab/MedSegDiff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1699,7 +1699,7 @@
             {
               "node_type": "item",
               "title": "MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model Junde Wu, Huihui Fang, Yu Zhang, Yehui Yang, Yanwu Xu [1st Nov., 2022] [MIDL, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "ImprintLab/MedSegDiff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1727,7 +1727,7 @@
             {
               "node_type": "item",
               "title": "Diffusion Models for Implicit Image Segmentation Ensembles Julia Wolleb, Robin Sandkühler, Florentin Bieder, Philippe Valmaggia, Philippe C. Cattin [6th Dec., 2021] [MIDL, 2022] [Paper",
-              "description": "] [Github]",
+              "description": "JuliaWolleb/Diffusion-based-Segmentation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1755,7 +1755,7 @@
             {
               "node_type": "item",
               "title": "Benchmarking GANs, Diffusion Models, and Flow Matching for T1w-to-T2w MRI Translation Andrea Moschetto, Lemuel Puglisi, Alec Sargood, Pierluigi Dell'Acqua, Francesco Guarnera, Sebastiano Battiato, Daniele Ravì [19th Jul., 2025] [arXiv, 2025] [Paper",
-              "description": "] [Github]",
+              "description": "AndreaMoschetto/medical-I2I-benchmark",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1776,7 +1776,7 @@
             {
               "node_type": "item",
               "title": "3D Shape-to-Image Brownian Bridge Diffusion for Brain MRI Synthesis from Cortical Surfaces Fabian Bongratz, Yitong Li, Sama Elbaroudy, Christian Wachinger [18th Feb., 2025] [arXiv, 2025] [Paper",
-              "description": "] [GitHub]",
+              "description": "ai-med/Cor2Vox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1797,7 +1797,7 @@
             {
               "node_type": "item",
               "title": "Slice-Consistent 3D Volumetric Brain CT-to-MRI Translation with 2D Brownian Bridge Diffusion Model Kyobin Choo, Youngjun Jun, Mijin Yun, Seong Jae Hwang [6th Jul., 2024] [MICCAI, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "MICV-yonsei/CT2MRI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1818,7 +1818,7 @@
             {
               "node_type": "item",
               "title": "Soft Masked Mamba Diffusion Model for CT to MRI Conversion Zhenbin Wang, Lei Zhang, Lituan Wang, Zhenwei Zhang [22nd Jun., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "wongzbb/DiffMa-Diffusion-Mamba",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1839,7 +1839,7 @@
             {
               "node_type": "item",
               "title": "Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation Hongxu Jiang, Muhammad Imran, Linhai Ma, Teng Zhang, Yuyin Zhou, Muxuan Liang, Kuang Gong, Wei Shao [23rd May, 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "mirthAI/Fast-DDPM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1860,7 +1860,7 @@
             {
               "node_type": "item",
               "title": "Self-Consistent Recursive Diffusion Bridge for Medical Image Translation Fuat Arslan, Bilal Kabas, Onat Dalmaz, Muzaffer Ozbey, Tolga Çukur [10th May, 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "icon-lab/SelfRDB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1892,7 +1892,7 @@
             {
               "node_type": "item",
               "title": "Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study Jonghun Kim, Hyunjin Park [1st Nov., 2023] [WACV, 2024] [Paper",
-              "description": "] [Github]",
+              "description": "jongdory/ALDM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1913,7 +1913,7 @@
             {
               "node_type": "item",
               "title": "Zero-shot Medical Image Translation via Frequency-Guided Diffusion Models Yunxiang Li, Hua-Chieh Shao, Xiao Liang, Liyuan Chen, Ruiqi Li, Steve Jiang, Jing Wang, You Zhang [5th Apr., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "Kent0n-Li/FGDM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1934,7 +1934,7 @@
             {
               "node_type": "item",
               "title": "Class-Guided Image-to-Image Diffusion: Cell Painting from Brightfield Images with Class Labels Jan Oscar Cross-Zamirski, Praveen Anand, Guy Williams, Elizabeth Mouchet, Yinhai Wang, Carola-Bibiane Schönlieb [15th Mar., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "crosszamirski/guided-I2I",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1962,7 +1962,7 @@
             {
               "node_type": "item",
               "title": "Adaptive Mask-guided K-space Diffusion for Accelerated MRI Reconstruction Qinrong Cai, Yu Guan, Zhibo Chen, Dong Liang, Qiuyun Fan, Qiegen Liu [23th Jun., 2025] [arXiv, 2025] [Paper",
-              "description": "] [Github]",
+              "description": "yqx7150/AMDM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1983,7 +1983,7 @@
             {
               "node_type": "item",
               "title": "RN-SDEs: Limited-Angle CT Reconstruction with Residual Null-Space Diffusion Stochastic Differential Equations Jiaqi Guo, Santiago Lopez-Tapia, Wing Shun Li, Yunnan Wu, Marcelo Carignano, Vadim Backman, Vinayak P. Dravid, Aggelos K. Katsaggelos \\ [20th Sep., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "GuoJiaqi-1020/RN-SDE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2004,7 +2004,7 @@
             {
               "node_type": "item",
               "title": "Adaptive Compressed Sensing with Diffusion-Based Posterior Sampling Noam Elata, Tomer Michaeli, Michael Elad [11th Jul., 2024] [ECCV, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "noamelata/AdaSense",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2025,7 +2025,7 @@
             {
               "node_type": "item",
               "title": "Diffusion Transformer Model With Compact Prior for Low-dose PET Reconstruction Bin Huang, Xubiao Liu, Lei Fang, Qiegen Liu, Bingxuan Li [30 Jun., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "yqx7150/DTM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2046,7 +2046,7 @@
             {
               "node_type": "item",
               "title": "Reducing the cost of posterior sampling in linear inverse problems via task-dependent score learning Fabian Schneider, Duc-Lam Duong, Matti Lassas, Maarten V. de Hoop, Tapio Helin [24th May, 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "FabianSBD/SBD-task-dependent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2067,7 +2067,7 @@
             {
               "node_type": "item",
               "title": "DP-MDM: Detail-Preserving MR Reconstruction via Multiple Diffusion Models Mengxiao Geng, Jiahao Zhu, Xiaolin Zhu, Qiqing Liu, Dong Liang, Qiegen Liu [9th May, 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "yqx7150/DP-MDM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2109,7 +2109,7 @@
             {
               "node_type": "item",
               "title": "U2MRPD: Unsupervised undersampled MRI reconstruction by prompting a large latent diffusion model Ziqi Gao, S. Kevin Zhou [16th Feb., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "Z7Gao/MRPD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2130,7 +2130,7 @@
             {
               "node_type": "item",
               "title": "A Comparative Study of Variational Autoencoders, Normalizing Flows, and Score-based Diffusion Models for Electrical Impedance Tomography Huihui Wang, Guixian Xu, Qingping Zhou [29th Nov., 2023] [Journal of Inverse and Ill-posed Problems, 2024] [Paper",
-              "description": "] [Github]",
+              "description": "adahfbch/DGM-EIT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2151,7 +2151,7 @@
             {
               "node_type": "item",
               "title": "Ultrasound image reconstruction with denoising diffusion restoration models Yuxin Zhang, Clément Huneau, Jérôme Idier, Diana Mateus [8th Oct., 2023] [DGM4MICCAI, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "Yuxin-Zhang-Jasmine/DRUS-v1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2172,7 +2172,7 @@
             {
               "node_type": "item",
               "title": "Learning Fourier-Constrained Diffusion Bridges for MRI Reconstruction Muhammad U. Mirza, Onat Dalmaz, Hasan A. Bedel, Gokberk Elmas, Yilmaz Korkmaz, Alper Gungor, Salman UH Dar, Tolga Çukur [4th Aug., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "icon-lab/FDB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2201,7 +2201,7 @@
             {
               "node_type": "item",
               "title": "Optimizing Sampling Patterns for Compressed Sensing MRI with Diffusion Generative Models Sriram Ravula, Brett Levac, Ajil Jalal, Jonathan I. Tamir, Alexandros G. Dimakis [5th Jun., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "Sriram-Ravula/MRI_Sampling_Diffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2222,7 +2222,7 @@
             {
               "node_type": "item",
               "title": "Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models Hyungjin Chung, Dohoon Ryu, Michael T. McCann, Marc L. Klasky, Jong Chul Ye [19th Nov., 2022] [arXiv, 2022] [Paper",
-              "description": "] [Github]",
+              "description": "hyungjin-chung/DiffusionMBIR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2243,7 +2243,7 @@
             {
               "node_type": "item",
               "title": "One-shot Generative Prior in Hankel-k-space for Parallel Imaging Reconstruction Hong Peng, Chen Jiang, Jing Cheng, Minghui Zhang, Shanshan Wang, Dong Liang, Qiegen Liu [15th Aug., 2022] [arXiv, 2022] [Paper",
-              "description": "] [Github]",
+              "description": "yqx7150/HKGM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2264,7 +2264,7 @@
             {
               "node_type": "item",
               "title": "WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction Zongjiang Tu, Die Liu, Xiaoqing Wang, Chen Jiang, Pengwen Zhu, Minghui Zhang, Shanshan Wang, Dong Liang, Qiegen Liu [8th May, 2022] [arXiv, 2022] [Paper",
-              "description": "] [Github]",
+              "description": "yqx7150/WKGM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2285,7 +2285,7 @@
             {
               "node_type": "item",
               "title": "Towards performant and reliable undersampled MR reconstruction via diffusion model sampling Cheng Peng, Pengfei Guo, S. Kevin Zhou, Vishal Patel, Rama Chellappa [8th Mar., 2022] [MICCAI, 2022] [Paper",
-              "description": "] [Github]",
+              "description": "cpeng93/DiffuseRecon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2306,7 +2306,7 @@
             {
               "node_type": "item",
               "title": "Measurement-conditioned Denoising Diffusion Probabilistic Model for Under-sampled Medical Image Reconstruction Yutong Xie, Quanzheng Li [5th Mar., 2022] [MICCAI, 2022] [Paper",
-              "description": "] [Github]",
+              "description": "Theodore-PKU/MC-DDPM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2327,7 +2327,7 @@
             {
               "node_type": "item",
               "title": "MRI Reconstruction via Data Driven Markov Chain with Joint Uncertainty Estimation Guanxiong Luo, Martin Heide, Martin Uecker [3rd Feb., 2022] [arXiv, 2022] [Paper",
-              "description": "] [Github]",
+              "description": "mrirecon/spreco",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2348,7 +2348,7 @@
             {
               "node_type": "item",
               "title": "Solving Inverse Problems in Medical Imaging with Score-Based Generative Models Yang Song, Liyue Shen, Lei Xing, Stefano Ermon [15th Nov., 2021] [ICLR, 2022] [Paper",
-              "description": "] [Github]",
+              "description": "yang-song/score_inverse_problems",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2369,7 +2369,7 @@
             {
               "node_type": "item",
               "title": "Score-based diffusion models for accelerated MRI Hyungjin Chung, Jong chul Ye [8th Oct., 2021] [MIA, 2021] [Paper",
-              "description": "] [Github]",
+              "description": "yang-song/score_inverse_problems",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2390,7 +2390,7 @@
             {
               "node_type": "item",
               "title": "Robust Compressed Sensing MRI with Deep Generative Priors Ajil Jalal, Marius Arvinte, Giannis Daras, Eric Price, Alexandros G. Dimakis, Jonathan I. Tamir [3rd Aug., 2021] [NeurIPS, 2021] [Paper",
-              "description": "] [Github]",
+              "description": "utcsilab/csgm-mri-langevin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2418,7 +2418,7 @@
             {
               "node_type": "item",
               "title": "Perceptual Evaluation of GANs and Diffusion Models for Generating X-rays Gregory Schuit, Denis Parra, Cecilia Besa [10th Aug., 2025] [arXiv, 2025] [Paper",
-              "description": "] [GitHub]",
+              "description": "gregschuit/radiologist-perceptual-eval-xrays",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2466,7 +2466,7 @@
             {
               "node_type": "item",
               "title": "Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis Kunpeng Qiu, Zhiying Zhou, Yongxin Guo [31th Jul., 2025] [arXiv, 2025] [Paper",
-              "description": "] [GitHub]",
+              "description": "Qiukunpeng/ADC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2487,7 +2487,7 @@
             {
               "node_type": "item",
               "title": "LesionGen: A Concept-Guided Diffusion Model for Dermatology Image Synthesis Jamil Fayyad, Nourhan Bayasi, Ziyang Yu, Homayoun Najjaran [30th Jul., 2025] [arXiv, 2025] [Paper",
-              "description": "] [GitHub]",
+              "description": "jfayyad/LesionGen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2508,7 +2508,7 @@
             {
               "node_type": "item",
               "title": "MedDiff-FT: Data-Efficient Diffusion Model Fine-tuning with Structural Guidance for Controllable Medical Image Synthesis Jianhao Xie, Ziang Zhang, Zhenyu Weng, Yuesheng Zhu, Guibo Luo [01st Jul., 2025] [arXiv, 2025] [Paper",
-              "description": "] [GitHub]",
+              "description": "JianhaoXie1/MedDiff-FT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2529,7 +2529,7 @@
             {
               "node_type": "item",
               "title": "TRACE: Temporally Reliable Anatomically-Conditioned 3D CT Generation with Enhanced Efficiency Minye Shao, Xingyu Miao, Haoran Duan, Zeyu Wang, Jingkun Chen, Yawen Huang, Xian Wu, Jingjing Deng, Yang Long, Yefeng Zheng [01st Jul., 2025] [arXiv, 2025] [Paper",
-              "description": "] [GitHub]",
+              "description": "VinyehShaw/TRACE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2550,7 +2550,7 @@
             {
               "node_type": "item",
               "title": "Angio-Diff: Learning a Self-Supervised Adversarial Diffusion Model for Angiographic Geometry Generation Zhifeng Wang, Renjiao Yi, Xin Wen, Chenyang Zhu, Kai Xu, Kunlun He [24th Jun., 2025] [arXiv, 2025] [Paper",
-              "description": "] [GitHub]",
+              "description": "zfw-cv/AngioDiff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2571,7 +2571,7 @@
             {
               "node_type": "item",
               "title": "Doctor Approved: Generating Medically Accurate Skin Disease Images through AI-Expert Feedback Janet Wang, Yunbei Zhang, Zhengming Ding, Jihun Hamm [14th Jun., 2025] [arXiv, 2025] [Paper",
-              "description": "] [GitHub]",
+              "description": "janet-sw/MAGIC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2592,7 +2592,7 @@
             {
               "node_type": "item",
               "title": "Prompt-Guided Latent Diffusion with Predictive Class Conditioning for 3D Prostate MRI Generation Emerson P. Grabke, Masoom A. Haider, Babak Taati [11th Jun., 2025] [arXiv, 2025] [Paper",
-              "description": "] [GitHub]",
+              "description": "grabkeem/CCELLA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2634,7 +2634,7 @@
             {
               "node_type": "item",
               "title": "Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation Kunpeng Qiu, Zhiqiang Gao, Zhiying Zhou, Mingjie Sun, Yongxin Guo [09th May, 2025] [arXiv, 2025] [Paper",
-              "description": "] [GitHub]",
+              "description": "Qiukunpeng/Siamese-Diffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2660,7 +2660,7 @@
             {
               "node_type": "item",
               "title": "ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis Onkar Susladkar, Gayatri Deshmukh, Yalcin Tur, Gorkhem Durak, Ulas Bagci [08th May, 2025] [arXiv, 2025] [Paper",
-              "description": "] [GitHub]",
+              "description": "Onkarsus13/ViCTr-2D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2756,7 +2756,7 @@
             {
               "node_type": "item",
               "title": "CQ CNN: A Hybrid Classical Quantum Convolutional Neural Network for Alzheimer's Disease Detection Using Diffusion Generated and U Net Segmented 3D MRI Mominul Islam, Mohammad Junayed Hasan, M. R. C. Mahdy [04th Mar., 2025] [arXiv, 2025] [Paper",
-              "description": "] [GitHub]",
+              "description": "mominul-ssv/alz-cq-cnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2777,7 +2777,7 @@
             {
               "node_type": "item",
               "title": "Flow Matching for Medical Image Synthesis: Bridging the Gap Between Speed and Quality Milad Yazdani, Yasamin Medghalchi, Pooria Ashrafian, Ilker Hacihaliloglu, Dena Shahriari [01st Mar., 2025] [MICCAI, 2025] [Paper",
-              "description": "] [GitHub]",
+              "description": "milad1378yz/MOTFM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2809,7 +2809,7 @@
             {
               "node_type": "item",
               "title": "Robust Polyp Detection and Diagnosis through Compositional Prompt-Guided Diffusion Models Jia Yu, Yan Zhu, Peiyao Fu, Tianyi Chen, Junbo Huang, Quanlin Li, Pinghong Zhou, Zhihua Wang, Fei Wu, Shuo Wang, Xian Yang [25th Feb., 2025] [IEEE TMI, 2025] [Paper",
-              "description": "] [GitHub]",
+              "description": "Jia7878/compositional-prompt-diffusion-for-polyp-generation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2830,7 +2830,7 @@
             {
               "node_type": "item",
               "title": "Lung-DDPM: Semantic Layout-guided Diffusion Models for Thoracic CT Image Synthesis Yifan Jiang, Yannick Lemaréchal, Sophie Plante, Josée Bafaro, Jessica Abi-Rjeile, Philippe Joubert, Philippe Després, Venkata Manem [21st Feb., 2025] [arXiv, 2025] [Paper",
-              "description": "] [GitHub]",
+              "description": "Manem-Lab/Lung-DDPM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2897,7 +2897,7 @@
             {
               "node_type": "item",
               "title": "Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images Suhyun Ahn, Wonjung Park, Jihoon Cho, Seunghyuck Park, Jinah Park [29th Oct., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "Ahn-Ssu/VCM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2918,7 +2918,7 @@
             {
               "node_type": "item",
               "title": "cWDM: Conditional Wavelet Diffusion Models for Cross-Modality 3D Medical Image Synthesis Paul Friedrich, Alicia Durrer, Julia Wolleb, Philippe C. Cattin [26th Nov., 2024] [BraTS, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "pfriedri/cwdm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2939,7 +2939,7 @@
             {
               "node_type": "item",
               "title": "Counterfactual MRI Data Augmentation using Conditional Denoising Diffusion Generative Models Pedro Morão, Joao Santinha, Yasna Forghani, Nuno Loução, Pedro Gouveia, Mario A. T. Figueiredo [31th Oct., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "pedromorao/Counterfactual-MRI-Data-Augmentation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2960,7 +2960,7 @@
             {
               "node_type": "item",
               "title": "LPUWF-LDM: Enhanced Latent Diffusion Model for Precise Late-phase UWF-FA Generation on Limited Dataset Zhaojie Fang, Xiao Yu, Guanyu Zhou, Ke Zhuang, Yifei Chen, Ruiquan Ge, Changmiao Wang, Gangyong Jia, Qing Wu, Juan Ye, Maimaiti Nuliqiman, Peifang Xu, Ahmed Elazab [1st Sep., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "Tinysqua/LPUWF-LDM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2981,7 +2981,7 @@
             {
               "node_type": "item",
               "title": "Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis Van Phi Nguyen, Tri Nhan Luong Ha, Huy Hieu Pham, Quoc Long Tran [6th Aug., 2024] [MICCAI, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "gungui98/echo-free",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3002,7 +3002,7 @@
             {
               "node_type": "item",
               "title": "URCDM: Ultra-Resolution Image Synthesis in Histopathology Sarah Cechnicka, James Ball, Matthew Baugh, Hadrien Reynaud, Naomi Simmonds, Andrew P. T. Smith, Catherine Horsfield, Candice Roufosse, Bernhard Kainz [18th Jul., 2024] [MICCAI, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "scechnicka/URCDM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3023,7 +3023,7 @@
             {
               "node_type": "item",
               "title": "Enhancing Spatiotemporal Disease Progression Models via Latent Diffusion and Prior Knowledge Lemuel Puglisi, Daniel C. Alexander, Daniele Ravì [22th Aug., 2024] [MICCAI, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "LemuelPuglisi/BrLP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3055,7 +3055,7 @@
             {
               "node_type": "item",
               "title": "On Differentially Private 3D Medical Image Synthesis with Controllable Latent Diffusion Models Deniz Daum, Richard Osuala, Anneliese Riess, Georgios Kaissis, Julia A. Schnabel, Maxime Di Folco [23rd Jul., 2024] [MICCAI, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "compai-lab/2024-miccai-dgm-daum",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3076,7 +3076,7 @@
             {
               "node_type": "item",
               "title": "RadiomicsFill-Mammo: Synthetic Mammogram Mass Manipulation with Radiomics Features Inye Na, Jonghun Kim, Eun Sook Ko, Hyunjin Park [8th, Jul., 2024] [MICCAI, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "nainye/RadiomicsFill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3097,7 +3097,7 @@
             {
               "node_type": "item",
               "title": "Diffusion as Sound Propagation: Physics-inspired Model for Ultrasound Image Generation Marina Domínguez, Yordanka Velikova, Nassir Navab, Mohammad Farid Azampour [7th Jul., 2024] [IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control Journal, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "yuan-12138/Synomaly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3118,7 +3118,7 @@
             {
               "node_type": "item",
               "title": "Towards Synchronous Memorizability and Generalizability with Site-Modulated Diffusion Replay for Cross-Site Continual Segmentation Dunyuan Xu, Xi Wang, Jingyang Zhang, Pheng-Ann Heng [25th Jun., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "dyxu-cuhkcse/SMG-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3139,7 +3139,7 @@
             {
               "node_type": "item",
               "title": "Test-Time Generative Augmentation for Medical Image Segmentation Xiao Ma, Yuhui Tao, Yuhan Zhang, Zexuan Ji, Yizhe Zhang, Qiang Chen [25th Jun., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "maxiao0234/TTGA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3160,7 +3160,7 @@
             {
               "node_type": "item",
               "title": "X-ray2CTPA: Generating 3D CTPA scans from 2D X-ray conditioning Noa Cahan, Eyal Klang, Galit Aviram, Yiftach Barash, Eli Konen, Raja Giryes, Hayit Greenspan [23rd Jun., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "NoaCahan/X-ray2CTPA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3181,7 +3181,7 @@
             {
               "node_type": "item",
               "title": "Image Distillation for Safe Data Sharing in Histopathology Zhe Li, Bernhard Kainz [19th Jun., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "ZheLi2020/InfoDist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3202,7 +3202,7 @@
             {
               "node_type": "item",
               "title": "3D MRI Synthesis with Slice-Based Latent Diffusion Models: Improving Tumor Segmentation Tasks in Data-Scarce Regimes Aghiles Kebaili, Jérôme Lapuyade-Lahorgue, Pierre Vera, Su Ruan [8th Jun., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "Arksyd96/synthesis-with-slice-based-ldm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3244,7 +3244,7 @@
             {
               "node_type": "item",
               "title": "EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing Hadrien Reynaud, Qingjie Meng, Mischa Dombrowski, Arijit Ghosh, Thomas Day, Alberto Gomez, Paul Leeson, Bernhard Kainz [2nd Jun, 2024] [MICCAI, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "HReynaud/EchoNet-Synthetic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3265,7 +3265,7 @@
             {
               "node_type": "item",
               "title": "Unsupervised Contrastive Analysis for Salient Pattern Detection using Conditional Diffusion Models Cristiano Patrício, Carlo Alberto Barbano, Attilio Fiandrotti, Riccardo Renzulli, Marco Grangetto, Luis F. Teixeira, João C. Neves [2nd Jun, 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "CristianoPatricio/unsupervised-contrastive-cond-diff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3292,7 +3292,7 @@
             {
               "node_type": "item",
               "title": "Memory-efficient High-resolution OCT Volume Synthesis with Cascaded Amortized Latent Diffusion Models Kun Huang, Xiao Ma, Yuhan Zhang, Na Su, Songtao Yuan, Yong Liu, Qiang Chen, Huazhu Fu [26th May, 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "nicetomeetu21/CA-LDM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3313,7 +3313,7 @@
             {
               "node_type": "item",
               "title": "Long Tail Image Generation Through Feature Space Augmentation and Iterated Learning Rafael Elberg, Denis Parra, Mircea Petrache [2nd May, 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "SugarFreeManatee/Feature-Space-Augmentation-and-Iterated-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3334,7 +3334,7 @@
             {
               "node_type": "item",
               "title": "MaSkel: A Model for Human Whole-body X-rays Generation from Human Masking Images Yingjie Xi, Boyuan Cheng, Jingyao Cai, Jian Jun Zhang, Xiaosong Yang [13th Apr., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "2022yingjie/MaSkel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3355,7 +3355,7 @@
             {
               "node_type": "item",
               "title": "Debiasing Cardiac Imaging with Controlled Latent Diffusion Models Grzegorz Skorupko, Richard Osuala, Zuzanna Szafranowska, Kaisar Kushibar, Nay Aung, Steffen E Petersen, Karim Lekadir, Polyxeni Gkontra [28th Mar., 2024] [arXiv, 2024] [Paper",
-              "description": "] [Github]",
+              "description": "faildeny/debiasing-cardiac-mri",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3385,7 +3385,7 @@
             {
               "node_type": "item",
               "title": "Vision-Language Synthetic Data Enhances Echocardiography Downstream Tasks Pooria Ashrafian, Milad Yazdani, Moein Heidari, Dena Shahriari, Ilker Hacihaliloglu [28th Mar., 2024] [arXiv, 2024] [Paper",
-              "description": "] [Github]",
+              "description": "Pooria90/DiffEcho",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3406,7 +3406,7 @@
             {
               "node_type": "item",
               "title": "MEDDAP: Medical Dataset Enhancement via Diversified Augmentation Pipeline Yasamin Medghalchi, Niloufar Zakariaei, Arman Rahmim, Ilker Hacihaliloglu [25th Mar., 2024] [arXiv, 2024] [Paper",
-              "description": "] [Github]",
+              "description": "yasamin-med/SCDA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3427,7 +3427,7 @@
             {
               "node_type": "item",
               "title": "LeFusion: Synthesizing Myocardial Pathology on Cardiac MRI via Lesion-Focus Diffusion Models Hantao Zhang, Jiancheng Yang, Shouhong Wan, Pascal Fua [21st Mar., 2024] [arXiv, 2024] [Paper",
-              "description": "] [Github]",
+              "description": "M3DV/LeFusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3448,7 +3448,7 @@
             {
               "node_type": "item",
               "title": "Generative Enhancement for 3D Medical Images Lingting Zhu, Noel Codella, Dongdong Chen, Zhenchao Jin, Lu Yuan, Lequan Yu [14th Mar., 2024] [arXiv, 2024] [Paper",
-              "description": "] [Github]",
+              "description": "HKU-MedAI/GEM-3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3473,7 +3473,7 @@
             {
               "node_type": "item",
               "title": "XReal: Realistic Anatomy and Pathology-Aware X-ray Generation via Controllable Diffusion Model Anees Ur Rehman Hashmi, Ibrahim Almakky, Mohammad Areeb Qazi, Santosh Sanjeev, Vijay Ram Papineni, Dwarikanath Mahapatra, Mohammad Yaqub [14th Mar., 2024] [arXiv, 2024] [Paper",
-              "description": "] [Github]",
+              "description": "BioMedIA-MBZUAI/XReal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3500,7 +3500,7 @@
             {
               "node_type": "item",
               "title": "TrIND: Representing Anatomical Trees by Denoising Diffusion of Implicit Neural Fields Ashish Sinha, Ghassan Hamarneh [13th Mar., 2024] [MICCAI, 2024] [Paper",
-              "description": "] [Github]",
+              "description": "sinAshish/TreeDiffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3529,7 +3529,7 @@
             {
               "node_type": "item",
               "title": "Representing Anatomical Trees by Denoising Diffusion of Implicit Neural Fields Ashish Sinha, Ghassan Hamarneh [13th Mar., 2024] [arXiv, 2024] [Paper",
-              "description": "] [Github]",
+              "description": "sinAshish/TreeDiffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3558,7 +3558,7 @@
             {
               "node_type": "item",
               "title": "Towards Generalizable Tumor Synthesis Qi Chen, Xiaoxi Chen, Haorui Song, Zhiwei Xiong, Alan Yuille, Chen Wei, Zongwei Zhou [29th Feb., 2024] [CVPR, 2024] [Paper",
-              "description": "] [Github]",
+              "description": "MrGiovanni/DiffTumor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3608,7 +3608,7 @@
             {
               "node_type": "item",
               "title": "On the existence of optimal multi-valued decoders and their accuracy bounds for undersampled inverse problems Fangxin Shang, Jie Fu, Yehui Yang, Haifeng Huang, Junwei Liu, Lei Ma [1st Dec., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "parap1uie-s/SynFundus-1M",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3629,7 +3629,7 @@
             {
               "node_type": "item",
               "title": "Overcoming Pathology Image Data Deficiency: Generating Images from Pathological Transformation Process Zeyu Liu, Yufang He, Yu Zhao, Yunlu Feng, Guanglei Zhang [21st Nov., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "Rowerliu/ADD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3650,7 +3650,7 @@
             {
               "node_type": "item",
               "title": "Synthetically Enhanced: Unveiling Synthetic Data's Potential in Medical Imaging Research Bardia Khosravi, Frank Li, Theo Dapamede, Pouria Rouzrokh, Cooper U. Gamble, Hari M. Trivedi, Cody C. Wyles, Andrew B. Sellergren, Saptarshi Purkayastha, Bradley J. Erickson, Judy W. Gichoya [15th Nov., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "BardiaKh/SyntheticallyEnhanced",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3671,7 +3671,7 @@
             {
               "node_type": "item",
               "title": "Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation Daniel Saragih, Pascal Tyrrell [25th Oct., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "dsaragih/diffuse-gen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3692,7 +3692,7 @@
             {
               "node_type": "item",
               "title": "ArSDM: Colonoscopy Images Synthesis with Adaptive Refinement Semantic Diffusion Models Yuhao Du, Yuncheng Jiang, Shuangyi Tan, Xusheng Wu, Qi Dou, Zhen Li, Guanbin Li, Xiang Wan [3rd Sep., 2023] [MICCAI, 2023] [Paper",
-              "description": "] [GitHub]",
+              "description": "DuYooho/ArSDM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3713,7 +3713,7 @@
             {
               "node_type": "item",
               "title": "Synthetic Augmentation with Large-scale Unconditional Pre-training Jiarong Ye, Haomiao Ni, Peng Jin, Sharon X. Huang, Yuan Xue [8th Aug., 2023] [MICCAI, 2023] [Paper",
-              "description": "] [GitHub]",
+              "description": "karenyyy/HistoDiffAug",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3734,7 +3734,7 @@
             {
               "node_type": "item",
               "title": "DreaMR: Diffusion-driven Counterfactual Explanation for Functional MRI Hasan A. Bedel, Tolga C¸ ukur [18th Jul., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "icon-lab/DreaMR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3764,7 +3764,7 @@
             {
               "node_type": "item",
               "title": "Evaluating the feasibility of using Generative Models to generate Chest X-Ray Data Muhammad Danyal Malik, Danish Humair [30th May, 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "mdanyalmalik/chest-xray-synthesis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3785,7 +3785,7 @@
             {
               "node_type": "item",
               "title": "GenerateCT: Text-Guided 3D Chest CT Generation Ibrahim Ethem Hamamci, Sezgin Er, Enis Simsar, Alperen Tezcan, Ayse Gulnihan Simsek, Furkan Almas, Sevval Nil Esirgun, Hadrien Reynaud, Sarthak Pati, Christian Bluethgen, Bjoern Menze [25th May, 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "ibrahimethemhamamci/GenerateCT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3806,7 +3806,7 @@
             {
               "node_type": "item",
               "title": "Echo from noise: synthetic ultrasound image generation using diffusion models for real image segmentation David Stojanovski, Uxio Hermida, Pablo Lamata, Arian Beqiri, Alberto Gomez [9th May, 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "david-stojanovski/echo_from_noise",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3827,7 +3827,7 @@
             {
               "node_type": "item",
               "title": "Mask-conditioned latent diffusion for generating gastrointestinal polyp images Roman Macháček, Leila Mozaffari, Zahra Sepasdar, Sravanthi Parasa, Pål Halvorsen, Michael A. Riegler, Vajira Thambawita [11th Apr., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "simulamet-host/conditional-polyp-diffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3848,7 +3848,7 @@
             {
               "node_type": "item",
               "title": "Towards Realistic Ultrasound Fetal Brain Imaging Synthesis Michelle Iskandar, Harvey Mannering, Zhanxiang Sun, Jacqueline Matthew, Hamideh Kerdegari, Laura Peralta, Miguel Xochicale [8th Apr., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "xfetus/midl2023",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3877,7 +3877,7 @@
             {
               "node_type": "item",
               "title": "Feature-Conditioned Cascaded Video Diffusion Models for Precise Echocardiogram Synthesis Hadrien Reynaud, Mengyun Qiao, Mischa Dombrowski, Thomas Day, Reza Razavi, Alberto Gomez, Paul Leeson, Bernhard Kainz [22nd Mar., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "HReynaud/EchoDiffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3927,7 +3927,7 @@
             {
               "node_type": "item",
               "title": "Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Generation Firas Khader, Gustav Mueller-Franzes, Soroosh Tayebi Arasteh, Tianyu Han, Christoph Haarburger, Maximilian Schulze-Hagen, Philipp Schad, Sandy Engelhardt, Bettina Baessler, Sebastian Foersch, Johannes Stegmaier, Christiane Kuhl, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn [7th Nov., 2022] [arXiv, 2022] [Paper",
-              "description": "] [Github]",
+              "description": "FirasGit/medicaldiffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3953,7 +3953,7 @@
             {
               "node_type": "item",
               "title": "A Diffusion Model Predicts 3D Shapes from 2D Microscopy Images Dominik J. E. Waibel, Ernst Röell, Bastian Rieck, Raja Giryes, Carsten Marr [30th Aug., 2022] [arXiv, 2022] [Paper",
-              "description": "] [Github]",
+              "description": "marrlab/DISPR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3974,7 +3974,7 @@
             {
               "node_type": "item",
               "title": "Diffusion Deformable Model for 4D Temporal Medical Image Generation Boah Kim, Jong Chul Ye [27th Jan., 2022] [MICCAI, 2022] [Paper",
-              "description": "] [Github]",
+              "description": "torchDDM/DDM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3995,7 +3995,7 @@
             {
               "node_type": "item",
               "title": "Three-Dimensional Medical Image Synthesis with Denoising Diffusion Probabilistic Models Zolnamar Dorjsembe, Sodtavilan Odonchimed, Furen Xiao [22nd Apr., 2022] [MIDL, 2022] [Paper",
-              "description": "] [Github]",
+              "description": "DL-Circle/3D-DDPM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4023,7 +4023,7 @@
             {
               "node_type": "item",
               "title": "Prompt to Polyp: Medical Text-Conditioned Image Synthesis with Diffusion Models Mikhail Chaichuk, Sushant Gautam, Steven Hicks, Elena Tutubalina [08th May, 2025] [arXiv, 2025] [Paper",
-              "description": "] [Github]",
+              "description": "THunderCondOR/ImageCLEFmed-MEDVQA-GI-2024-MMCP-Team",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4044,7 +4044,7 @@
             {
               "node_type": "item",
               "title": "Navigating the Synthetic Realm: Harnessing Diffusion-based Models for Laparoscopic Text-to-Image Generation Simeon Allmendinger, Patrick Hemmer, Moritz Queisner, Igor Sauer, Leopold Müller, Johannes Jakubik, Michael Vössing, Niklas Kühl [5th Dec., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "SimeonAllmendinger/SyntheticImageGeneration",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4065,7 +4065,7 @@
             {
               "node_type": "item",
               "title": "MedSyn: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images Yanwu Xu, Li Sun, Wei Peng, Shyam Visweswaran, Kayhan Batmanghelich [5th Oct., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "batmanlab/MedSyn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4086,7 +4086,7 @@
             {
               "node_type": "item",
               "title": "Pay Attention: Accuracy Versus Interpretability Trade-off in Fine-tuned Diffusion Models Mischa Dombrowski, Hadrien Reynaud, Johanna P. Müller, Matthew Baugh, Bernhard Kainz [31st Mar., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "MischaD/chest-distillation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4114,7 +4114,7 @@
             {
               "node_type": "item",
               "title": "Learning Diffeomorphism for Image Registration with Time-Continuous Networks using Semigroup Regularization Mohammadjavad Matinkia, Nilanjan Ray [28th May, 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "mattkia/SGDIR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4135,7 +4135,7 @@
             {
               "node_type": "item",
               "title": "FSDiffReg: Feature-wise and Score-wise Diffusion-guided Unsupervised Deformable Image Registration for Cardiac Images Yi Qin, Xiaomeng Li [22nd Jul., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "xmed-lab/FSDiffReg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4163,7 +4163,7 @@
             {
               "node_type": "item",
               "title": "Deep Generative Classification of Blood Cell Morphology Simon Deltadahl, Julian Gilbey, Christine Van Laer, Nancy Boeckx, Mathie Leers, Tanya Freeman, Laura Aiken, Timothy Farren, Matthew Smith, Mohamad Zeina, BloodCounts! consortium, Concetta Piazzese, Joseph Taylor, Nicholas Gleadall, Carola-Bibiane Schönlieb, Suthesh Sivapalaratnam, Michael Roberts, Parashkev Nachev [16th Aug., 2024] [arXiv, 2024] [Paper",
-              "description": "][GitHub]",
+              "description": "Deltadahl/CytoDiffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4184,7 +4184,7 @@
             {
               "node_type": "item",
               "title": "Counterfactual Explanations for Medical Image Classification and Regression using Diffusion Autoencoder Matan Atad, David Schinz, Hendrik Moeller, Robert Graf, Benedikt Wiestler, Daniel Rueckert, Nassir Navab, Jan S. Kirschke, Matthias Keicher [2nd Aug., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "matanat/dae_counterfactual",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4205,7 +4205,7 @@
             {
               "node_type": "item",
               "title": "Diff3Dformer: Leveraging Slice Sequence Diffusion for Enhanced 3D CT Classification with Transformer Networks Zihao Jin, Yingying Fang, Jiahao Huang, Caiwen Xu, Simon Walsh, Guang Yang [24th Jun., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "ayanglab/Diff3Dformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4226,7 +4226,7 @@
             {
               "node_type": "item",
               "title": "DiffMIC: Dual-Guidance Diffusion Network for Medical Image Classification Yijun Yang, Huazhu Fu, Angelica I. Aviles-Rivero, Carola-Bibiane Schönlieb, Lei Zhu [19th Mar., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "scott-yjyang/DiffMIC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4254,7 +4254,7 @@
             {
               "node_type": "item",
               "title": "LoGex: Improved tail detection of extremely rare histopathology classes via guided diffusion Maximilian Mueller, Matthias Hein [2nd Sep., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "mueller-mp/logex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4275,7 +4275,7 @@
             {
               "node_type": "item",
               "title": "Diffusion-Based Hierarchical Multi-Label Object Detection to Analyze Panoramic Dental X-rays Ibrahim Ethem Hamamci, Sezgin Er, Enis Simsar, Anjany Sekuboyina, Mustafa Gundogar, Bernd Stadlinger, Albert Mehl, Bjoern Menze [11th Mar., 2023] [arXiv, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "ibrahimethemhamamci/HierarchicalDet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4305,7 +4305,7 @@
                 {
                   "node_type": "item",
                   "title": "MaskMedPaint: Masked Medical Image Inpainting with Diffusion Models for Mitigation of Spurious Correlations Qixuan Jin, Walter Gerych, Marzyeh Ghassemi [16th Nov., 2024] [ML4H, 2024] [Paper",
-                  "description": "] [GitHub]",
+                  "description": "QixuanJin99/generative_validation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4354,7 +4354,7 @@
                 {
                   "node_type": "item",
                   "title": "MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting Mojtaba Safari, Shansong Wang, Zach Eidex, Qiang Li, Erik H. Middlebrooks, David S. Yu, Xiaofeng Yang [3rd Mar., 2025] [arXiv, 2025] [Paper",
-                  "description": "] [GitHub]",
+                  "description": "mosaf/Res-SRDiff",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4375,7 +4375,7 @@
                 {
                   "node_type": "item",
                   "title": "Temporal and Spatial Super Resolution with Latent Diffusion Model in Medical MRI images Vishal Dubey [29th Oct., 2024] [arXiv, 2024] [Paper",
-                  "description": "] [GitHub]",
+                  "description": "vishal-dubey-0026/TemporalSpatialSR_LDM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4396,7 +4396,7 @@
                 {
                   "node_type": "item",
                   "title": "InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model Jueqi Wang, Jacob Levman, Walter Hugo Lopez Pinaya, Petru-Daniel Tudosiu, M. Jorge Cardoso, Razvan Marinescu [23rd Aug, 2023] [MICCAI, 2023] [Paper",
-                  "description": "] [GitHub]",
+                  "description": "BioMedAI-UCSC/InverseSR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4425,7 +4425,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-similarity-based super-resolution of photoacoustic angiography from hand-drawn doodles Yuanzheng Ma, Wangting Zhou, Rui Ma, Sihua Yang, Yansong Tang, Xun Guan [2nd May, 2023] [arXiv, 2023] [Paper",
-                  "description": "] [GitHub]",
+                  "description": "yuanzhengthu/handDrawnPAAImages",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4453,7 +4453,7 @@
                 {
                   "node_type": "item",
                   "title": "Lightening Anything in Medical Images Ben Fei, Yixuan Li, Weidong Yang, Hengjun Gao, Jingyi Xu, Lipeng Ma, Yatian Yang, Pinghong Zhou [1st Jun., 2024] [arXiv, 2024] [Paper",
-                  "description": "] [GitHub]",
+                  "description": "Feynben/UniMIE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4474,7 +4474,7 @@
                 {
                   "node_type": "item",
                   "title": "LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion Tong Chen, Qingcheng Lyu, Long Bai, Erjian Guo, Huxin Gao, Xiaoxiao Yang, Hongliang Ren, Luping Zhou [17th May, 2024] [MICCAI, 2024] [Paper",
-                  "description": "] [GitHub]",
+                  "description": "DavisMeee/LighTDiff",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4500,7 +4500,7 @@
                 {
                   "node_type": "item",
                   "title": "Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models Richard Osuala, Daniel Lang, Preeti Verma, Smriti Joshi, Apostolia Tsirikoglou, Grzegorz Skorupko, Kaisar Kushibar, Lidia Garrucho, Walter H. L. Pinaya, Oliver Diaz, Julia Schnabel, Karim Lekadir [20th Mar, 2024] [arXiv, 2024] [Paper",
-                  "description": "] [GitHub]",
+                  "description": "RichardObi/ccnet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4541,7 +4541,7 @@
                 {
                   "node_type": "item",
                   "title": "Step-Calibrated Diffusion for Biomedical Optical Image Restoration Yiwei Lyu, Sung Jik Cha, Cheng Jiang, Asadur Chowdury, Xinhai Hou, Edward Harake, Akhil Kondepudi, Christian Freudiger, Honglak Lee, Todd C. Hollon [20th Mar, 2024] [arXiv, 2024] [Paper",
-                  "description": "] [GitHub]",
+                  "description": "MLNeurosurg/restorative_step-calibrated_diffusion",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4562,7 +4562,7 @@
                 {
                   "node_type": "item",
                   "title": "LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion Long Bai, Tong Chen, Yanan Wu, An Wang, Mobarakol Islam, Hongliang Ren [5th July, 2023] [arXiv, 2023] [Paper",
-                  "description": "] [GitHub]",
+                  "description": "longbai1006/LLCaps",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4595,7 +4595,7 @@
             {
               "node_type": "item",
               "title": "Prompt2Perturb (P2P): Text-Guided Diffusion-Based Adversarial Attacks on Breast Ultrasound Images Yasamin Medghalchi, Moein Heidari, Clayton Allard, Leonid Sigal, Ilker Hacihaliloglu [13th December, 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "yasamin-med/P2P",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4616,7 +4616,7 @@
             {
               "node_type": "item",
               "title": "On enhancing the robustness of Vision Transformers: Defensive Diffusion Raza Imam, Muhammad Huzaifa, Mohammed El-Amine Azz [14th May, 2023] [arXiv, 2023] [Paper",
-              "description": "] [GitHub]",
+              "description": "Muhammad-Huzaifaa/Defensive_Diffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4644,7 +4644,7 @@
             {
               "node_type": "item",
               "title": "AI Alignment in Medical Imaging: Unveiling Hidden Biases Through Counterfactual Analysis Haroui Ma, Francesco Quinzan, Theresa Willem, Stefan Bauer [28th Apr., 2025] [arXiv, 2025] [Paper",
-              "description": "] [GitHub]",
+              "description": "mHaoruikk/AI-Alignment-Medical-Imaging",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4665,7 +4665,7 @@
             {
               "node_type": "item",
               "title": "FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation Yan Luo, Muhammad Osama Khan, Congcong Wen, Muhammad Muneeb Afzal, Titus Fidelis Wuermeling, Min Shi, Yu Tian, Yi Fang, Mengyu Wang [29th Dec., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "Harvard-Ophthalmology-AI-Lab/FairDiffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4686,7 +4686,7 @@
             {
               "node_type": "item",
               "title": "FairDiff: Fair Segmentation with Point-Image Diffusion Wenyi Li, Haoran Xu, Guiyu Zhang, Huan-ang Gao, Mingju Gao, Mengyu Wang, Hao Zhao [8th Jul., 2024] [MICCAI, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "wenyi-li/FairDiff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4707,7 +4707,7 @@
             {
               "node_type": "item",
               "title": "Debiasing Cardiac Imaging with Controlled Latent Diffusion Models Grzegorz Skorupko, Richard Osuala, Zuzanna Szafranowska, Kaisar Kushibar, Nay Aung, Steffen E Petersen, Karim Lekadir, Polyxeni Gkontra [28th Mar., 2024] [arXiv, 2024] [Paper",
-              "description": "] [Github]",
+              "description": "faildeny/debiasing-cardiac-mri",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4737,7 +4737,7 @@
             {
               "node_type": "item",
               "title": "FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification Héctor Carrión, Narges Norouzi [21st Jul., 2023] [MICCAI, 2023] [Paper",
-              "description": "] [Github]",
+              "description": "hectorcarrion/FEDD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4765,7 +4765,7 @@
             {
               "node_type": "item",
               "title": "NODER: Image Sequence Regression Based on Neural Ordinary Differential Equations Hao Bai, Yi Hong [18th Jul., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "ZedKing12138/NODER-pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4786,7 +4786,7 @@
             {
               "node_type": "item",
               "title": "SSSD-ECG-nle: New Label Embeddings with Structured State-Space Models for ECG generation Sergey Skorik, Aram Avetisyan [15th Jul., 2024] [IEEE IVMEM Workshop, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "ispras/EcgLib",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4814,7 +4814,7 @@
             {
               "node_type": "item",
               "title": "Adversarial Fine-tuning using Generated Respiratory Sound to Address Class Imbalance June-Woo Kim, Chihyeon Yoon, Miika Toikkanen, Sangmin Bae, Ho-Young Jung [11th Nov., 2023] [NeurIPS Workshop, 2023] [Paper",
-              "description": "] [GitHub]",
+              "description": "kaen2891/adversarial_fine-tuning_using_generated_respiratory_sound",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4842,7 +4842,7 @@
             {
               "node_type": "item",
               "title": "Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning Xiaodan Xing, Junzhi Ning, Yang Nan, Guang Yang [17th Oct., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "junzhin/DGM-VLC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4863,7 +4863,7 @@
             {
               "node_type": "item",
               "title": "Assessing Sample Quality via the Latent Space of Generative Models Jingyi Xu, Hieu Le, Dimitris Samaras [21st Jul., 2024] [ECCV, 2025] [Paper",
-              "description": "] [GitHub]",
+              "description": "cvlab-stonybrook/LS-sample-quality",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4884,7 +4884,7 @@
             {
               "node_type": "item",
               "title": "DUE: Dynamic Uncertainty-Aware Explanation Supervision via 3D Imputation Qilong Zhao, Yifei Zhang, Mengdan Zhu, Siyi Gu, Yuyang Gao, Xiaofeng Yang, Liang Zhao [16th Feb., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "AlexQilong/DUE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4905,7 +4905,7 @@
             {
               "node_type": "item",
               "title": "Statistical Test for Generated Hypotheses by Diffusion Models Teruyuki Katsuoka, Tomohiro Shiraishi, Daiki Miwa, Vo Nguyen Le Duy, Ichiro Takeuchi [19th Feb., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "tkatsuoka/DAL-test",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4926,7 +4926,7 @@
             {
               "node_type": "item",
               "title": "Unconditional Latent Diffusion Models Memorize Patient Imaging Data Salman Ul Hassan Dar, Marvin Seyfarth, Jannik Kahmann, Isabelle Ayx, Theano Papavassiliu, Stefan O. Schoenberg, Sandy Engelhardt [1st Feb., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "Warvito/generative_chestxray",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4954,7 +4954,7 @@
             {
               "node_type": "item",
               "title": "FedTabDiff: Federated Learning of Diffusion Probabilistic Models for Synthetic Mixed-Type Tabular Data Generation Timur Sattarov, Marco Schreyer, Damian Borth [11th Jan., 2024] [arXiv, 2024] [Paper",
-              "description": "] [GitHub]",
+              "description": "sattarov/FedTabDiff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4996,7 +4996,7 @@
             {
               "node_type": "item",
               "title": "Unsupervised 3D out-of-distribution detection with latent diffusion models Mark S. Graham, Walter Hugo Lopez Pinaya, Paul Wright, Petru-Daniel Tudosiu, Yee H. Mah, James T. Teo, H. Rolf Jäger, David Werring, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso [7th Jul., 2023] [MICCAI, 2023] [Paper",
-              "description": "] [GitHub]",
+              "description": "marksgraham/ddpm-ood",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:17:07.226Z",
+    "last_updated": "2026-10-03T04:24:24.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
