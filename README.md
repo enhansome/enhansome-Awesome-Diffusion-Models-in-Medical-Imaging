@@ -1781,7 +1781,7 @@
 **U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation** \
 *Chenxin Li, Xinyu Liu, Wuyang Li, Cheng Wang, Hengyu Liu, Yixuan Yuan* \
 \[5th Jun, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2406.02918)] \[[GitHub](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 559 | 🐛 40 | 🌐 Python | 📅 2025-06-23] \[[Website](https://yes-ukan.github.io/)]
+\[[Paper](https://arxiv.org/abs/2406.02918)] \[[GitHub](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 560 | 🐛 40 | 🌐 Python | 📅 2025-06-23] \[[Website](https://yes-ukan.github.io/)]
 
 **EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing** \
 *Hadrien Reynaud, Qingjie Meng, Mischa Dombrowski, Arijit Ghosh, Thomas Day, Alberto Gomez, Paul Leeson, Bernhard Kainz* \
@@ -1866,7 +1866,7 @@
 **Generative Enhancement for 3D Medical Images** \
 *Lingting Zhu, Noel Codella, Dongdong Chen, Zhenchao Jin, Lu Yuan, Lequan Yu* \
 \[14th Mar., 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2403.12852)] \[[Github](https://github.com/HKU-MedAI/GEM-3D) ⭐ 82 | 🐛 0 | 🌐 Python | 📅 2026-03-12]
+\[[Paper](https://arxiv.org/abs/2403.12852)] \[[Github](https://github.com/HKU-MedAI/GEM-3D) ⭐ 83 | 🐛 0 | 🌐 Python | 📅 2026-03-12]
 
 **XReal: Realistic Anatomy and Pathology-Aware X-ray Generation via Controllable Diffusion Model** \
 *Anees Ur Rehman Hashmi, Ibrahim Almakky, Mohammad Areeb Qazi, Santosh Sanjeev, Vijay Ram Papineni, Dwarikanath Mahapatra, Mohammad Yaqub* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

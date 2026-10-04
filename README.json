@@ -1780,7 +1780,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Official Pytorch Implementation of Cor2Vox",
+                "description": "Official Pytorch Implementation of Cor2Vox - IPMI 2025, MedIA 2026",
                 "homepage": null,
                 "id": 991427094,
                 "language": "Python",
@@ -3236,7 +3236,7 @@
                 "open_issues": 40,
                 "owner": "CUHK-AIM-Group",
                 "repo": "U-KAN",
-                "stars": 559,
+                "stars": 560,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -3461,7 +3461,7 @@
                 "open_issues": 0,
                 "owner": "HKU-MedAI",
                 "repo": "GEM-3D",
-                "stars": 82,
+                "stars": 83,
                 "topics": [
                   "3d-medical-images",
                   "diffusion-models",
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:56:41.617Z",
+    "last_updated": "2026-10-04T18:09:12.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
