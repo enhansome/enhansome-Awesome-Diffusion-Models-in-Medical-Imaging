@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,559 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-09-27] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,560 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-09-27] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -2904,7 +2904,7 @@
 **Statistical Test for Generated Hypotheses by Diffusion Models** \
 *Teruyuki Katsuoka, Tomohiro Shiraishi, Daiki Miwa, Vo Nguyen Le Duy, Ichiro Takeuchi* \
 \[19th Feb., 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2402.11789)] \[[GitHub](https://github.com/teruyukikatsuoka/DMAD-test) ⭐ 1 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-20]
+\[[Paper](https://arxiv.org/abs/2402.11789)] \[[GitHub](https://github.com/teruyukikatsuoka/DMAD-test) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-05]
 
 **On the Standardization of Behavioral Use Clauses and Their Adoption for Responsible Licensing of AI** \
 *Daniel McDuff, Tim Korjakow, Scott Cambo, Jesse Josua Benjamin, Jenny Lee, Yacine Jernite, Carlos Muñoz Ferrandis, Aaron Gokaslan, Alek Tarkowski, Joseph Lindley, A. Feder Cooper, Danish Contractor* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._

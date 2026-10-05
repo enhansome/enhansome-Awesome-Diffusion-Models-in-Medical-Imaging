@@ -2452,7 +2452,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2559,
+                "stars": 2560,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -4912,9 +4912,9 @@
                 "description": null,
                 "homepage": null,
                 "id": 760413853,
-                "language": "Jupyter Notebook",
-                "license": null,
-                "last_commit": "2024-02-20T11:42:07Z",
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-05T09:15:23Z",
                 "open_issues": 0,
                 "owner": "tkatsuoka",
                 "repo": "DAL-test",
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:09:12.592Z",
+    "last_updated": "2026-10-05T21:29:59.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
