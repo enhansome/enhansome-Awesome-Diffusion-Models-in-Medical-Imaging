@@ -948,7 +948,7 @@
 **3D Shape-to-Image Brownian Bridge Diffusion for Brain MRI Synthesis from Cortical Surfaces** \
 *Fabian Bongratz, Yitong Li, Sama Elbaroudy, Christian Wachinger* \
 \[18th Feb., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2502.12742v1)] \[[GitHub](https://github.com/ai-med/Cor2Vox) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-05-07]
+\[[Paper](http://arxiv.org/abs/2502.12742v1)] \[[GitHub](https://github.com/ai-med/Cor2Vox) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-05-07]
 
 **Trustworthy image-to-image translation: evaluating uncertainty calibration in unpaired training scenarios** \
 *Ciaran Bench, Emir Ahmed, Spencer A. Thomas* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,560 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-09-27] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,561 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-09-27] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -1546,7 +1546,7 @@
 **Flow Matching for Medical Image Synthesis: Bridging the Gap Between Speed and Quality** \
 *Milad Yazdani, Yasamin Medghalchi, Pooria Ashrafian, Ilker Hacihaliloglu, Dena Shahriari* \
 \[01st Mar., 2025] \[MICCAI, 2025] \
-\[[Paper](http://arxiv.org/abs/2503.00266v1)] \[[GitHub](https://github.com/milad1378yz/MOTFM) ⭐ 83 | 🐛 3 | 🌐 Python | 📅 2026-03-16]
+\[[Paper](http://arxiv.org/abs/2503.00266v1)] \[[GitHub](https://github.com/milad1378yz/MOTFM) ⭐ 84 | 🐛 3 | 🌐 Python | 📅 2026-03-16]
 
 **Advancing AI-Powered Medical Image Synthesis: Insights from MedVQA-GI Challenge Using CLIP, Fine-Tuned Stable Diffusion, and Dream-Booth + LoRA** \
 *Ojonugwa Oluwafemi Ejiga Peter, Md Mahmudur Rahman, Fahmi Khalifa* \
