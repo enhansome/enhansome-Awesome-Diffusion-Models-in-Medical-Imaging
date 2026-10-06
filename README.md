@@ -1013,7 +1013,7 @@
 **Self-Consistent Recursive Diffusion Bridge for Medical Image Translation** \
 *Fuat Arslan, Bilal Kabas, Onat Dalmaz, Muzaffer Ozbey, Tolga Çukur* \
 \[10th May, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2405.06789)] \[[GitHub](https://github.com/icon-lab/SelfRDB) ⭐ 92 | 🐛 6 | 🌐 Python | 📅 2025-10-05]
+\[[Paper](https://arxiv.org/abs/2405.06789)] \[[GitHub](https://github.com/icon-lab/SelfRDB) ⭐ 93 | 🐛 6 | 🌐 Python | 📅 2025-10-05]
 
 **Tackling Structural Hallucination in Image Translation with Local Diffusion** \
 *Seunghoi Kim, Chen Jin, Tom Diethe, Matteo Figini, Henry F. J. Tregidgo, Asher Mullokandov, Philip Teare, Daniel C. Alexander* \
@@ -1038,7 +1038,7 @@
 **Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study** \
 *Jonghun Kim, Hyunjin Park* \
 \[1st Nov., 2023] \[WACV, 2024] \
-\[[Paper](https://arxiv.org/abs/2311.00265)] \[[Github](https://github.com/jongdory/ALDM/) ⭐ 189 | 🐛 10 | 🌐 Python | 📅 2026-01-09]
+\[[Paper](https://arxiv.org/abs/2311.00265)] \[[Github](https://github.com/jongdory/ALDM/) ⭐ 190 | 🐛 10 | 🌐 Python | 📅 2026-01-09]
 
 **Cycle-guided Denoising Diffusion Probability Model for 3D Cross-modality MRI Synthesis** \
 *Shaoyan Pan, Chih-Wei Chang, Junbo Peng, Jiahan Zhang, Richard L.J. Qiu, Tonghe Wang, Justin Roper, Tian Liu, Hui Mao, Xiaofeng Yang* \
@@ -1546,7 +1546,7 @@
 **Flow Matching for Medical Image Synthesis: Bridging the Gap Between Speed and Quality** \
 *Milad Yazdani, Yasamin Medghalchi, Pooria Ashrafian, Ilker Hacihaliloglu, Dena Shahriari* \
 \[01st Mar., 2025] \[MICCAI, 2025] \
-\[[Paper](http://arxiv.org/abs/2503.00266v1)] \[[GitHub](https://github.com/milad1378yz/MOTFM) ⭐ 82 | 🐛 3 | 🌐 Python | 📅 2026-03-16]
+\[[Paper](http://arxiv.org/abs/2503.00266v1)] \[[GitHub](https://github.com/milad1378yz/MOTFM) ⭐ 83 | 🐛 3 | 🌐 Python | 📅 2026-03-16]
 
 **Advancing AI-Powered Medical Image Synthesis: Insights from MedVQA-GI Challenge Using CLIP, Fine-Tuned Stable Diffusion, and Dream-Booth + LoRA** \
 *Ojonugwa Oluwafemi Ejiga Peter, Md Mahmudur Rahman, Fahmi Khalifa* \
@@ -1921,7 +1921,7 @@
 **WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis** \
 *Paul Friedrich, Julia Wolleb, Florentin Bieder, Alicia Durrer, Philippe C. Cattin* \
 \[29th Feb., 2024] \[DGM4MICCAI, 2024] \
-\[[Paper](https://arxiv.org/abs/2402.19043)] \[[Github](https://github.com/pfriedri/wdm-3d) ⭐ 141 | 🐛 1 | 🌐 Python | 📅 2025-09-01] \[[Project Page](https://pfriedri.github.io/wdm-3d-io/)]
+\[[Paper](https://arxiv.org/abs/2402.19043)] \[[Github](https://github.com/pfriedri/wdm-3d) ⭐ 142 | 🐛 1 | 🌐 Python | 📅 2025-09-01] \[[Project Page](https://pfriedri.github.io/wdm-3d-io/)]
 
 **Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models** \
 *Nicholas Konz, Yuwen Chen, Haoyu Dong, Maciej A. Mazurowski* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

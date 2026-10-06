@@ -1873,7 +1873,7 @@
                 "open_issues": 6,
                 "owner": "icon-lab",
                 "repo": "SelfRDB",
-                "stars": 92,
+                "stars": 93,
                 "topics": [
                   "deep-learning",
                   "diffusion-bridge",
@@ -1905,7 +1905,7 @@
                 "open_issues": 10,
                 "owner": "jongdory",
                 "repo": "ALDM",
-                "stars": 189,
+                "stars": 190,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -2790,7 +2790,7 @@
                 "open_issues": 3,
                 "owner": "milad1378yz",
                 "repo": "MOTFM",
-                "stars": 82,
+                "stars": 83,
                 "topics": [
                   "brain-mri",
                   "diffusion-models",
@@ -3595,7 +3595,7 @@
                 "open_issues": 1,
                 "owner": "pfriedri",
                 "repo": "wdm-3d",
-                "stars": 141,
+                "stars": 142,
                 "topics": [
                   "3d",
                   "diffusion-models",
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:29:59.170Z",
+    "last_updated": "2026-10-06T10:30:16.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
