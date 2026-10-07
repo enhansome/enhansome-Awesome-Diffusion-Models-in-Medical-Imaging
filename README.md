@@ -195,7 +195,7 @@
 **Diffusion Models: A Comprehensive Survey of Methods and Applications** \
 *Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang* \
 \[2nd Sep., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,363 | 🐛 7 | 📅 2025-09-27]
+\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,364 | 🐛 7 | 📅 2025-09-27]
 
 ## Challenge Reports
 
@@ -948,7 +948,7 @@
 **3D Shape-to-Image Brownian Bridge Diffusion for Brain MRI Synthesis from Cortical Surfaces** \
 *Fabian Bongratz, Yitong Li, Sama Elbaroudy, Christian Wachinger* \
 \[18th Feb., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2502.12742v1)] \[[GitHub](https://github.com/ai-med/Cor2Vox) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-05-07]
+\[[Paper](http://arxiv.org/abs/2502.12742v1)] \[[GitHub](https://github.com/ai-med/Cor2Vox) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-05-07]
 
 **Trustworthy image-to-image translation: evaluating uncertainty calibration in unpaired training scenarios** \
 *Ciaran Bench, Emir Ahmed, Spencer A. Thomas* \
@@ -1446,7 +1446,7 @@
 **MedDiff-FT: Data-Efficient Diffusion Model Fine-tuning with Structural Guidance for Controllable Medical Image Synthesis** \
 *Jianhao Xie, Ziang Zhang, Zhenyu Weng, Yuesheng Zhu, Guibo Luo* \
 \[01st Jul., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2507.00377v1)] \[[GitHub](https://github.com/JianhaoXie1/MedDiff-FT) ⭐ 21 | 🐛 2 | 🌐 Python | 📅 2025-07-11]
+\[[Paper](http://arxiv.org/abs/2507.00377v1)] \[[GitHub](https://github.com/JianhaoXie1/MedDiff-FT) ⭐ 22 | 🐛 2 | 🌐 Python | 📅 2025-07-11]
 
 **TRACE: Temporally Reliable Anatomically-Conditioned 3D CT Generation with Enhanced Efficiency** \
 *Minye Shao, Xingyu Miao, Haoran Duan, Zeyu Wang, Jingkun Chen, Yawen Huang, Xian Wu, Jingjing Deng, Yang Long, Yefeng Zheng* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
