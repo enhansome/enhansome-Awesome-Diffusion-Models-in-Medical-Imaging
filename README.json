@@ -2181,7 +2181,7 @@
                 "id": 674676579,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2023-12-20T11:56:24Z",
+                "last_commit": "2026-10-08T08:32:51Z",
                 "open_issues": 4,
                 "owner": "icon-lab",
                 "repo": "FDB",
@@ -2449,10 +2449,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-27T17:24:00Z",
-                "open_issues": 128,
+                "open_issues": 129,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2561,
+                "stars": 2562,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T19:58:27.849Z",
+    "last_updated": "2026-10-08T19:56:24.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",

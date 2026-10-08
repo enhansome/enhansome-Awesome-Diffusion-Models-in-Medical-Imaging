@@ -1247,7 +1247,7 @@
 **Learning Fourier-Constrained Diffusion Bridges for MRI Reconstruction** \
 *Muhammad U. Mirza, Onat Dalmaz, Hasan A. Bedel, Gokberk Elmas, Yilmaz Korkmaz, Alper Gungor, Salman UH Dar, Tolga Çukur* \
 \[4th Aug., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2308.01096)] \[[Github](https://github.com/icon-lab/FDB) ⭐ 42 | 🐛 4 | 🌐 Python | 📅 2023-12-20]
+\[[Paper](https://arxiv.org/abs/2308.01096)] \[[Github](https://github.com/icon-lab/FDB) ⭐ 42 | 🐛 4 | 🌐 Python | 📅 2026-10-08]
 
 **Fast and Stable Diffusion Inverse Solver with History Gradient Update** \
 *Linchao He, Hongyu Yan, Mengting Luo, Hongjie Wu, Kunming Luo, Wang Wang, Wenchao Du, Hu Chen, Hongyu Yang, Yi Zhang, Jiancheng Lv* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,561 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-09-27] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,562 | 🐛 129 | 🌐 Jupyter Notebook | 📅 2026-09-27] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
