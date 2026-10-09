@@ -504,7 +504,7 @@
 **Echo-DND: A dual noise diffusion model for robust and precise left ventricle segmentation in echocardiography** \
 *Abdur Rahman, Keerthiveena Balraj, Manojkumar Ramteke, Anurag Singh Rathore* \
 \[18th Jun., 2025] \[Discover Applied Sciences (Springer Nature), 2025] \
-\[[Paper](http://arxiv.org/abs/2506.15166v1)] \[[Github](https://github.com/abdur75648/Echo-DND) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-06-19] \[[Project Page](https://abdur75648.github.io/Echo-DND/)]
+\[[Paper](http://arxiv.org/abs/2506.15166v1)] \[[Github](https://github.com/abdur75648/Echo-DND) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-06-19] \[[Project Page](https://abdur75648.github.io/Echo-DND/)]
 
 **Unleashing Diffusion and State Space Models for Medical Image Segmentation** \
 *Rong Wu, Ziqi Chen, Liming Zhong, Heng Li, Hai Shu* \
@@ -644,7 +644,7 @@
 **FairDiff: Fair Segmentation with Point-Image Diffusion** \
 *Wenyi Li, Haoran Xu, Guiyu Zhang, Huan-ang Gao, Mingju Gao, Mengyu Wang, Hao Zhao* \
 \[8th Jul., 2024] \[MICCAI, 2024] \
-\[[Paper](https://arxiv.org/abs/2407.06250)] \[[GitHub](https://github.com/wenyi-li/FairDiff) ⭐ 60 | 🐛 1 | 🌐 Python | 📅 2025-03-12]
+\[[Paper](https://arxiv.org/abs/2407.06250)] \[[GitHub](https://github.com/wenyi-li/FairDiff) ⭐ 59 | 🐛 1 | 🌐 Python | 📅 2025-03-12]
 
 **Enhancing Label-efficient Medical Image Segmentation with Text-guided Diffusion Models** \
 *Chun-Mei Feng* \
@@ -978,7 +978,7 @@
 **Slice-Consistent 3D Volumetric Brain CT-to-MRI Translation with 2D Brownian Bridge Diffusion Model** \
 *Kyobin Choo, Youngjun Jun, Mijin Yun, Seong Jae Hwang* \
 \[6th Jul., 2024] \[MICCAI, 2024] \
-\[[Paper](https://arxiv.org/abs/2407.05059)] \[[GitHub](https://github.com/MICV-yonsei/CT2MRI) ⭐ 65 | 🐛 9 | 🌐 Python | 📅 2025-01-07]
+\[[Paper](https://arxiv.org/abs/2407.05059)] \[[GitHub](https://github.com/MICV-yonsei/CT2MRI) ⭐ 66 | 🐛 9 | 🌐 Python | 📅 2025-01-07]
 
 **Soft Masked Mamba Diffusion Model for CT to MRI Conversion** \
 *Zhenbin Wang, Lei Zhang, Lituan Wang, Zhenwei Zhang* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,562 | 🐛 129 | 🌐 Jupyter Notebook | 📅 2026-09-27] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,564 | 🐛 129 | 🌐 Jupyter Notebook | 📅 2026-09-27] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -2643,7 +2643,7 @@
 **FairDiff: Fair Segmentation with Point-Image Diffusion** \
 *Wenyi Li, Haoran Xu, Guiyu Zhang, Huan-ang Gao, Mingju Gao, Mengyu Wang, Hao Zhao* \
 \[8th Jul., 2024] \[MICCAI, 2024] \
-\[[Paper](https://arxiv.org/abs/2407.06250)] \[[GitHub](https://github.com/wenyi-li/FairDiff) ⭐ 60 | 🐛 1 | 🌐 Python | 📅 2025-03-12]
+\[[Paper](https://arxiv.org/abs/2407.06250)] \[[GitHub](https://github.com/wenyi-li/FairDiff) ⭐ 59 | 🐛 1 | 🌐 Python | 📅 2025-03-12]
 
 **From Majority to Minority: A Diffusion-based Augmentation for Underrepresented Groups in Skin Lesion Analysis** \
 *Janet Wang, Yunsung Chung, Zhengming Ding, Jihun Hamm* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
