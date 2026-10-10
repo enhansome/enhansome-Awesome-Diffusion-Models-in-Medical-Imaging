@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "ChunmingHe",
             "repo": "awesome-diffusion-models-in-low-level-vision",
-            "stars": 558,
+            "stars": 559,
             "topics": [
               "diffusion-model",
               "image-deblurring",
@@ -2452,7 +2452,7 @@
                 "open_issues": 129,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2564,
+                "stars": 2566,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -3194,7 +3194,7 @@
                 "open_issues": 1,
                 "owner": "ZheLi2020",
                 "repo": "InfoDist",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:32:09.262Z",
+    "last_updated": "2026-10-10T18:33:41.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
