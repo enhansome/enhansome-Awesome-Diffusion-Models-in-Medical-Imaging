@@ -105,7 +105,7 @@
             "open_issues": 2,
             "owner": "chq1155",
             "repo": "A-Survey-on-Generative-Diffusion-Model",
-            "stars": 974,
+            "stars": 975,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:07.770Z"
@@ -2647,7 +2647,7 @@
                 "open_issues": 1,
                 "owner": "Qiukunpeng",
                 "repo": "Siamese-Diffusion",
-                "stars": 89,
+                "stars": 90,
                 "topics": [
                   "cvpr2025",
                   "diffusion-models",
@@ -3236,7 +3236,7 @@
                 "open_issues": 40,
                 "owner": "CUHK-AIM-Group",
                 "repo": "U-KAN",
-                "stars": 560,
+                "stars": 561,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:33:41.112Z",
+    "last_updated": "2026-10-11T18:53:26.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",

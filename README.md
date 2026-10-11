@@ -190,7 +190,7 @@
 **A Survey on Generative Diffusion Model** \
 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* \
 \[6th Sep., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/pdf/2209.02646.pdf)] \[[Github](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) ⭐ 974 | 🐛 2 | 📅 2023-10-18]
+\[[Paper](https://arxiv.org/pdf/2209.02646.pdf)] \[[Github](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) ⭐ 975 | 🐛 2 | 📅 2023-10-18]
 
 **Diffusion Models: A Comprehensive Survey of Methods and Applications** \
 *Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang* \
@@ -1481,7 +1481,7 @@
 **Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation** \
 *Kunpeng Qiu, Zhiqiang Gao, Zhiying Zhou, Mingjie Sun, Yongxin Guo* \
 \[09th May, 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2505.06068v1)] \[[GitHub](https://github.com/Qiukunpeng/Siamese-Diffusion) ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2025-11-29]
+\[[Paper](http://arxiv.org/abs/2505.06068v1)] \[[GitHub](https://github.com/Qiukunpeng/Siamese-Diffusion) ⭐ 90 | 🐛 1 | 🌐 Python | 📅 2025-11-29]
 
 **ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis** \
 *Onkar Susladkar, Gayatri Deshmukh, Yalcin Tur, Gorkhem Durak, Ulas Bagci* \
@@ -1781,7 +1781,7 @@
 **U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation** \
 *Chenxin Li, Xinyu Liu, Wuyang Li, Cheng Wang, Hengyu Liu, Yixuan Yuan* \
 \[5th Jun, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2406.02918)] \[[GitHub](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 560 | 🐛 40 | 🌐 Python | 📅 2025-06-23] \[[Website](https://yes-ukan.github.io/)]
+\[[Paper](https://arxiv.org/abs/2406.02918)] \[[GitHub](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 561 | 🐛 40 | 🌐 Python | 📅 2025-06-23] \[[Website](https://yes-ukan.github.io/)]
 
 **EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing** \
 *Hadrien Reynaud, Qingjie Meng, Mischa Dombrowski, Arijit Ghosh, Thomas Day, Alberto Gomez, Paul Leeson, Bernhard Kainz* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
