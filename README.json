@@ -126,7 +126,7 @@
             "open_issues": 7,
             "owner": "YangLing0818",
             "repo": "Diffusion-Models-Papers-Survey-Taxonomy",
-            "stars": 3364,
+            "stars": 3363,
             "topics": [
               "diffusion-models",
               "stable-diffusion",
@@ -1031,7 +1031,7 @@
                 "open_issues": 57,
                 "owner": "NVlabs",
                 "repo": "ODISE",
-                "stars": 943,
+                "stars": 944,
                 "topics": [
                   "deep-learning",
                   "diffusion-models",
@@ -1849,7 +1849,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-06-13T04:16:45Z",
-                "open_issues": 17,
+                "open_issues": 16,
                 "owner": "mirthAI",
                 "repo": "Fast-DDPM",
                 "stars": 184,
@@ -2448,7 +2448,7 @@
                 "id": 288774122,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T17:24:00Z",
+                "last_commit": "2026-10-12T16:26:10Z",
                 "open_issues": 129,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
@@ -3036,7 +3036,7 @@
                 "open_issues": 4,
                 "owner": "LemuelPuglisi",
                 "repo": "BrLP",
-                "stars": 141,
+                "stars": 140,
                 "topics": [
                   "brain-latent-progression",
                   "diffusion-models",
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:53:26.723Z",
+    "last_updated": "2026-10-12T22:08:01.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
