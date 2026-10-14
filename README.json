@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "ChunmingHe",
             "repo": "awesome-diffusion-models-in-low-level-vision",
-            "stars": 560,
+            "stars": 561,
             "topics": [
               "diffusion-model",
               "image-deblurring",
@@ -126,7 +126,7 @@
             "open_issues": 7,
             "owner": "YangLing0818",
             "repo": "Diffusion-Models-Papers-Survey-Taxonomy",
-            "stars": 3364,
+            "stars": 3365,
             "topics": [
               "diffusion-models",
               "stable-diffusion",
@@ -1810,7 +1810,7 @@
                 "open_issues": 9,
                 "owner": "MICV-yonsei",
                 "repo": "CT2MRI",
-                "stars": 66,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -2452,7 +2452,7 @@
                 "open_issues": 129,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2569,
+                "stars": 2570,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -5028,7 +5028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:14:43.010Z",
+    "last_updated": "2026-10-14T18:37:12.572Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
@@ -5040,7 +5040,7 @@
       "open_issues": 2,
       "owner": "amirhossein-kz",
       "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-      "stars": 2113,
+      "stars": 2112,
       "topics": [
         "ddpm",
         "deep-learning",
