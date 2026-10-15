@@ -53,7 +53,7 @@
             "open_issues": 44,
             "owner": "Project-MONAI",
             "repo": "GenerativeModels",
-            "stars": 760,
+            "stars": 761,
             "topics": [
               "anomaly-detection",
               "diffusion-models",
@@ -922,7 +922,7 @@
                 "open_issues": 15,
                 "owner": "bwittmann",
                 "repo": "vesselFM",
-                "stars": 174,
+                "stars": 175,
                 "topics": [
                   "blood-vessel-segmentation",
                   "foundation-models",
@@ -1684,7 +1684,7 @@
                 "open_issues": 116,
                 "owner": "ImprintLab",
                 "repo": "MedSegDiff",
-                "stars": 1363,
+                "stars": 1364,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -1712,7 +1712,7 @@
                 "open_issues": 116,
                 "owner": "ImprintLab",
                 "repo": "MedSegDiff",
-                "stars": 1363,
+                "stars": 1364,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -2448,8 +2448,8 @@
                 "id": 288774122,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T16:26:10Z",
-                "open_issues": 129,
+                "last_commit": "2026-10-15T10:56:51Z",
+                "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
                 "stars": 2570,
@@ -2694,7 +2694,7 @@
                 "open_issues": 1,
                 "owner": "jwmao1",
                 "repo": "MedSegFactory",
-                "stars": 45,
+                "stars": 46,
                 "topics": [
                   "diffusion-models",
                   "generative-model",
@@ -3233,7 +3233,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-06-23T16:35:29Z",
-                "open_issues": 40,
+                "open_issues": 41,
                 "owner": "CUHK-AIM-Group",
                 "repo": "U-KAN",
                 "stars": 561,
@@ -4846,8 +4846,8 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": null,
-                "homepage": null,
+                "description": "[NeurIPS 2024 AIM-FM Workshop] Official implementation of vision-language-conditioned medical image generation. Combines clinical text and segmentation masks with deep generative models to synthesize chest CT images and reveal imaging patterns associated with clinical attributes.",
+                "homepage": "https://openreview.net/pdf/10184d813cdcc01d695afdcc9bb24fdf39711cf8.pdf",
                 "id": 872959236,
                 "language": "Python",
                 "license": "MIT",
@@ -4856,7 +4856,20 @@
                 "owner": "junzhin",
                 "repo": "DGM-VLC",
                 "stars": 5,
-                "topics": []
+                "topics": [
+                  "chest-ct",
+                  "clinical-data",
+                  "conditional-generation",
+                  "diffusion-models",
+                  "generative-adversarial-networks",
+                  "generative-models",
+                  "medical-image-generation",
+                  "medical-image-synthesis",
+                  "medical-imaging",
+                  "multimodal-learning",
+                  "pytorch",
+                  "vision-language-models"
+                ]
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
             },
@@ -5028,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T18:37:12.572Z",
+    "last_updated": "2026-10-15T18:16:31.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
