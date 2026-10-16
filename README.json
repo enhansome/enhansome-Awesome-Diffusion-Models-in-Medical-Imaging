@@ -126,7 +126,7 @@
             "open_issues": 7,
             "owner": "YangLing0818",
             "repo": "Diffusion-Models-Papers-Survey-Taxonomy",
-            "stars": 3365,
+            "stars": 3366,
             "topics": [
               "diffusion-models",
               "stable-diffusion",
@@ -2452,7 +2452,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2570,
+                "stars": 2569,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -3915,7 +3915,7 @@
                 "id": 579910992,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2024-03-06T09:13:07Z",
+                "last_commit": "2026-10-16T16:40:32Z",
                 "open_issues": 5,
                 "owner": "stegmaierj",
                 "repo": "DiffusionModelsForImageSynthesis",
@@ -4855,7 +4855,7 @@
                 "open_issues": 0,
                 "owner": "junzhin",
                 "repo": "DGM-VLC",
-                "stars": 5,
+                "stars": 6,
                 "topics": [
                   "chest-ct",
                   "clinical-data",
@@ -4927,7 +4927,7 @@
                 "id": 760413853,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T09:15:23Z",
+                "last_commit": "2026-10-16T09:55:25Z",
                 "open_issues": 0,
                 "owner": "tkatsuoka",
                 "repo": "DAL-test",
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T18:16:31.130Z",
+    "last_updated": "2026-10-16T18:02:16.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
