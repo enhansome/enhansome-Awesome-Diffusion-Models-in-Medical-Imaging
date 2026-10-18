@@ -53,7 +53,7 @@
             "open_issues": 44,
             "owner": "Project-MONAI",
             "repo": "GenerativeModels",
-            "stars": 761,
+            "stars": 760,
             "topics": [
               "anomaly-detection",
               "diffusion-models",
@@ -922,7 +922,7 @@
                 "open_issues": 15,
                 "owner": "bwittmann",
                 "repo": "vesselFM",
-                "stars": 175,
+                "stars": 176,
                 "topics": [
                   "blood-vessel-segmentation",
                   "foundation-models",
@@ -2452,7 +2452,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2569,
+                "stars": 2568,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -3940,7 +3940,7 @@
                 "open_issues": 19,
                 "owner": "FirasGit",
                 "repo": "medicaldiffusion",
-                "stars": 495,
+                "stars": 496,
                 "topics": [
                   "ct",
                   "diffusion-models",
@@ -4435,7 +4435,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-03-11T02:05:58Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "yuanzhengthu",
                     "repo": "handDrawnPAAImages",
                     "stars": 23,
@@ -4855,7 +4855,7 @@
                 "open_issues": 0,
                 "owner": "junzhin",
                 "repo": "DGM-VLC",
-                "stars": 6,
+                "stars": 7,
                 "topics": [
                   "chest-ct",
                   "clinical-data",
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:08:57.753Z",
+    "last_updated": "2026-10-18T17:21:39.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
@@ -5053,7 +5053,7 @@
       "open_issues": 2,
       "owner": "amirhossein-kz",
       "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-      "stars": 2112,
+      "stars": 2111,
       "topics": [
         "ddpm",
         "deep-learning",
