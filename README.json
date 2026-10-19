@@ -922,7 +922,7 @@
                 "open_issues": 15,
                 "owner": "bwittmann",
                 "repo": "vesselFM",
-                "stars": 176,
+                "stars": 177,
                 "topics": [
                   "blood-vessel-segmentation",
                   "foundation-models",
@@ -2452,7 +2452,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2568,
+                "stars": 2570,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -4855,7 +4855,7 @@
                 "open_issues": 0,
                 "owner": "junzhin",
                 "repo": "DGM-VLC",
-                "stars": 7,
+                "stars": 8,
                 "topics": [
                   "chest-ct",
                   "clinical-data",
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T17:21:39.469Z",
+    "last_updated": "2026-10-19T19:54:20.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",

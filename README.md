@@ -579,7 +579,7 @@
 **vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation** \
 *Bastian Wittmann, Yannick Wattenberg, Tamaz Amiranashvili, Suprosanna Shit, Bjoern Menze* \
 \[26th Nov., 2024] \[CVPR, 2025] \
-\[[Paper](http://arxiv.org/abs/2411.17386v2)] \[[Github](https://github.com/bwittmann/vesselFM) ⭐ 176 | 🐛 15 | 🌐 Python | 📅 2026-09-04]
+\[[Paper](http://arxiv.org/abs/2411.17386v2)] \[[Github](https://github.com/bwittmann/vesselFM) ⭐ 177 | 🐛 15 | 🌐 Python | 📅 2026-09-04]
 
 **ScribbleVS: Scribble-Supervised Medical Image Segmentation via Dynamic Competitive Pseudo Label Selection** \
 *Tao Wang, Xinlin Zhang, Yuanbin Chen, Yuanbo Zhou, Longxuan Zhao, Tao Tan, Tong Tong* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,568 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-10-15] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,570 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-10-15] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -2829,7 +2829,7 @@
 **Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning** \
 *Xiaodan Xing, Junzhi Ning, Yang Nan, Guang Yang* \
 \[17th Oct., 2024] \[arXiv, 2024] \
-\[[Paper](http://arxiv.org/abs/2410.13823v1)] \[[GitHub](https://github.com/junzhin/DGM-VLC) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2024-10-31]
+\[[Paper](http://arxiv.org/abs/2410.13823v1)] \[[GitHub](https://github.com/junzhin/DGM-VLC) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-10-31]
 
 **Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images** \\
 *Roberto Di Via, Francesca Odone, Vito Paolo Pastore* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
