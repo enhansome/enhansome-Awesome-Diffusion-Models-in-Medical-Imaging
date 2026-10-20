@@ -2235,7 +2235,7 @@
                 "open_issues": 8,
                 "owner": "hyungjin-chung",
                 "repo": "DiffusionMBIR",
-                "stars": 189,
+                "stars": 190,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -2448,8 +2448,8 @@
                 "id": 288774122,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T10:56:51Z",
-                "open_issues": 128,
+                "last_commit": "2026-10-20T15:53:05Z",
+                "open_issues": 127,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
                 "stars": 2570,
@@ -2647,7 +2647,7 @@
                 "open_issues": 1,
                 "owner": "Qiukunpeng",
                 "repo": "Siamese-Diffusion",
-                "stars": 90,
+                "stars": 91,
                 "topics": [
                   "cvpr2025",
                   "diffusion-models",
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:54:20.006Z",
+    "last_updated": "2026-10-20T18:27:18.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
@@ -5053,7 +5053,7 @@
       "open_issues": 2,
       "owner": "amirhossein-kz",
       "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-      "stars": 2111,
+      "stars": 2112,
       "topics": [
         "ddpm",
         "deep-learning",

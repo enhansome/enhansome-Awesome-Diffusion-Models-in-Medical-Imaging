@@ -1327,7 +1327,7 @@
 **Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models** \
 *Hyungjin Chung, Dohoon Ryu, Michael T. McCann, Marc L. Klasky, Jong Chul Ye* \
 \[19th Nov., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/abs/2211.10655)] \[[Github](https://github.com/HJ-harry/DiffusionMBIR) ⭐ 189 | 🐛 8 | 🌐 Python | 📅 2025-07-22]
+\[[Paper](https://arxiv.org/abs/2211.10655)] \[[Github](https://github.com/HJ-harry/DiffusionMBIR) ⭐ 190 | 🐛 8 | 🌐 Python | 📅 2025-07-22]
 
 **Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction** \
 *Wenjun Xia, Wenxiang Cong, Ge Wang* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,570 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-10-15] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,570 | 🐛 127 | 🌐 Jupyter Notebook | 📅 2026-10-20] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -1481,7 +1481,7 @@
 **Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation** \
 *Kunpeng Qiu, Zhiqiang Gao, Zhiying Zhou, Mingjie Sun, Yongxin Guo* \
 \[09th May, 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2505.06068v1)] \[[GitHub](https://github.com/Qiukunpeng/Siamese-Diffusion) ⭐ 90 | 🐛 1 | 🌐 Python | 📅 2025-11-29]
+\[[Paper](http://arxiv.org/abs/2505.06068v1)] \[[GitHub](https://github.com/Qiukunpeng/Siamese-Diffusion) ⭐ 91 | 🐛 1 | 🌐 Python | 📅 2025-11-29]
 
 **ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis** \
 *Onkar Susladkar, Gayatri Deshmukh, Yalcin Tur, Gorkhem Durak, Ulas Bagci* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
