@@ -195,7 +195,7 @@
 **Diffusion Models: A Comprehensive Survey of Methods and Applications** \
 *Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang* \
 \[2nd Sep., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,366 | 🐛 7 | 📅 2025-09-27]
+\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,368 | 🐛 7 | 📅 2025-09-27]
 
 ## Challenge Reports
 
@@ -1421,12 +1421,12 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,570 | 🐛 127 | 🌐 Jupyter Notebook | 📅 2026-10-20] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,572 | 🐛 127 | 🌐 Jupyter Notebook | 📅 2026-10-20] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
 \[31th Jul., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2507.23652v1)] \[[GitHub](https://github.com/Qiukunpeng/ADC) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-01-09]
+\[[Paper](http://arxiv.org/abs/2507.23652v1)] \[[GitHub](https://github.com/Qiukunpeng/ADC) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-01-09]
 
 **LesionGen: A Concept-Guided Diffusion Model for Dermatology Image Synthesis** \
 *Jamil Fayyad, Nourhan Bayasi, Ziyang Yu, Homayoun Najjaran* \
@@ -1921,7 +1921,7 @@
 **WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis** \
 *Paul Friedrich, Julia Wolleb, Florentin Bieder, Alicia Durrer, Philippe C. Cattin* \
 \[29th Feb., 2024] \[DGM4MICCAI, 2024] \
-\[[Paper](https://arxiv.org/abs/2402.19043)] \[[Github](https://github.com/pfriedri/wdm-3d) ⭐ 142 | 🐛 1 | 🌐 Python | 📅 2025-09-01] \[[Project Page](https://pfriedri.github.io/wdm-3d-io/)]
+\[[Paper](https://arxiv.org/abs/2402.19043)] \[[Github](https://github.com/pfriedri/wdm-3d) ⭐ 143 | 🐛 1 | 🌐 Python | 📅 2025-09-01] \[[Project Page](https://pfriedri.github.io/wdm-3d-io/)]
 
 **Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models** \
 *Nicholas Konz, Yuwen Chen, Haoyu Dong, Maciej A. Mazurowski* \
@@ -2829,7 +2829,7 @@
 **Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning** \
 *Xiaodan Xing, Junzhi Ning, Yang Nan, Guang Yang* \
 \[17th Oct., 2024] \[arXiv, 2024] \
-\[[Paper](http://arxiv.org/abs/2410.13823v1)] \[[GitHub](https://github.com/junzhin/DGM-VLC) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-10-31]
+\[[Paper](http://arxiv.org/abs/2410.13823v1)] \[[GitHub](https://github.com/junzhin/DGM-VLC) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-10-31]
 
 **Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images** \\
 *Roberto Di Via, Francesca Odone, Vito Paolo Pastore* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
