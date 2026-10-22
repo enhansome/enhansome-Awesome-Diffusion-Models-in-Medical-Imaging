@@ -126,7 +126,7 @@
             "open_issues": 7,
             "owner": "YangLing0818",
             "repo": "Diffusion-Models-Papers-Survey-Taxonomy",
-            "stars": 3368,
+            "stars": 3370,
             "topics": [
               "diffusion-models",
               "stable-diffusion",
@@ -1031,7 +1031,7 @@
                 "open_issues": 57,
                 "owner": "NVlabs",
                 "repo": "ODISE",
-                "stars": 944,
+                "stars": 943,
                 "topics": [
                   "deep-learning",
                   "diffusion-models",
@@ -3305,7 +3305,7 @@
                 "open_issues": 0,
                 "owner": "nicetomeetu21",
                 "repo": "CA-LDM",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -3987,7 +3987,7 @@
                 "open_issues": 5,
                 "owner": "torchDDM",
                 "repo": "DDM",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:36:51.262Z",
+    "last_updated": "2026-10-22T18:31:06.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",

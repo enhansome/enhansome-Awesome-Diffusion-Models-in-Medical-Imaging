@@ -195,7 +195,7 @@
 **Diffusion Models: A Comprehensive Survey of Methods and Applications** \
 *Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang* \
 \[2nd Sep., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,368 | 🐛 7 | 📅 2025-09-27]
+\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,370 | 🐛 7 | 📅 2025-09-27]
 
 ## Challenge Reports
 
@@ -629,7 +629,7 @@
 **Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model** \
 *Kun Zhao, Jakub Prokop, Javier Montalt Tordera, Sadegh Mohammadi* \
 \[19th Jul., 2024] \[DGM4MICCAI, 2024] \
-\[[Paper](https://arxiv.org/abs/2407.14326)] \[[GitHub](https://github.com/NVlabs/ODISE) ⭐ 944 | 🐛 57 | 🌐 Python | 📅 2024-07-06]
+\[[Paper](https://arxiv.org/abs/2407.14326)] \[[GitHub](https://github.com/NVlabs/ODISE) ⭐ 943 | 🐛 57 | 🌐 Python | 📅 2024-07-06]
 
 **Denoising Diffusions in Latent Space for Medical Image Segmentation** \
 *Fahim Ahmed Zaman, Mathews Jacob, Amanda Chang, Kan Liu, Milan Sonka, Xiaodong Wu* \
@@ -1801,7 +1801,7 @@
 **Memory-efficient High-resolution OCT Volume Synthesis with Cascaded Amortized Latent Diffusion Models** \
 *Kun Huang, Xiao Ma, Yuhan Zhang, Na Su, Songtao Yuan, Yong Liu, Qiang Chen, Huazhu Fu* \
 \[26th May, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2405.16516)] \[[GitHub](https://github.com/nicetomeetu21/ca-ldm) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-01-09]
+\[[Paper](https://arxiv.org/abs/2405.16516)] \[[GitHub](https://github.com/nicetomeetu21/ca-ldm) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-01-09]
 
 **MediSyn: Text-Guided Diffusion Models for Broad Medical 2D and 3D Image Synthesis** \
 *Joseph Cho, Cyril Zakka, Rohan Shad, Ross Wightman, Akshay Chaudhari, William Hiesinger* \
@@ -2246,7 +2246,7 @@
 **Diffusion Deformable Model for 4D Temporal Medical Image Generation** \
 *Boah Kim, Jong Chul Ye* \
 \[27th Jan., 2022] \[MICCAI, 2022] \
-\[[Paper](https://arxiv.org/abs/2206.13295)] \[[Github](https://github.com/torchddm/ddm) ⭐ 83 | 🐛 5 | 🌐 Python | 📅 2023-08-30]
+\[[Paper](https://arxiv.org/abs/2206.13295)] \[[Github](https://github.com/torchddm/ddm) ⭐ 84 | 🐛 5 | 🌐 Python | 📅 2023-08-30]
 
 **Three-Dimensional Medical Image Synthesis with Denoising Diffusion Probabilistic Models** \
 *Zolnamar Dorjsembe, Sodtavilan Odonchimed, Furen Xiao* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
