@@ -84,7 +84,7 @@
             "open_issues": 0,
             "owner": "CroitoruAlin",
             "repo": "Diffusion-Models-in-Vision-A-Survey",
-            "stars": 405,
+            "stars": 406,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:07.770Z"
@@ -1031,7 +1031,7 @@
                 "open_issues": 57,
                 "owner": "NVlabs",
                 "repo": "ODISE",
-                "stars": 943,
+                "stars": 944,
                 "topics": [
                   "deep-learning",
                   "diffusion-models",
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T18:19:08.639Z",
+    "last_updated": "2026-10-24T17:25:57.999Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
