@@ -1597,7 +1597,7 @@
                 "open_issues": 34,
                 "owner": "ge-xing",
                 "repo": "Diff-UNet",
-                "stars": 199,
+                "stars": 198,
                 "topics": [
                   "3d",
                   "brats2020",
@@ -3236,7 +3236,7 @@
                 "open_issues": 41,
                 "owner": "CUHK-AIM-Group",
                 "repo": "U-KAN",
-                "stars": 561,
+                "stars": 560,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -3940,7 +3940,7 @@
                 "open_issues": 19,
                 "owner": "FirasGit",
                 "repo": "medicaldiffusion",
-                "stars": 496,
+                "stars": 495,
                 "topics": [
                   "ct",
                   "diffusion-models",
@@ -4952,7 +4952,7 @@
                 "open_issues": 8,
                 "owner": "Warvito",
                 "repo": "generative_chestxray",
-                "stars": 65,
+                "stars": 64,
                 "topics": [
                   "chest-xray-images",
                   "diffusion-models",
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:25:57.999Z",
+    "last_updated": "2026-10-25T17:38:28.061Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
@@ -5053,7 +5053,7 @@
       "open_issues": 2,
       "owner": "amirhossein-kz",
       "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-      "stars": 2113,
+      "stars": 2112,
       "topics": [
         "ddpm",
         "deep-learning",

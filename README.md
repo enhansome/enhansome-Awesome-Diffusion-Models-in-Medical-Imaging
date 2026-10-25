@@ -839,7 +839,7 @@
 **Diff-UNet: A Diffusion Embedded Network for Volumetric Segmentation** \
 *Zhaohu Xing, Liang Wan, Huazhu Fu, Guang Yang, Lei Zhu* \
 \[18th Mar., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2303.10326)] \[[Github](https://github.com/ge-xing/Diff-UNet) ⭐ 199 | 🐛 34 | 🌐 Python | 📅 2024-03-22]
+\[[Paper](https://arxiv.org/abs/2303.10326)] \[[Github](https://github.com/ge-xing/Diff-UNet) ⭐ 198 | 🐛 34 | 🌐 Python | 📅 2024-03-22]
 
 **Stochastic Segmentation with Conditional Categorical Diffusion Models** \
 *Lukas Zbinden, Lars Doorenbos, Theodoros Pissas, Raphael Sznitman, Pablo Márquez-Neila* \
@@ -1781,7 +1781,7 @@
 **U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation** \
 *Chenxin Li, Xinyu Liu, Wuyang Li, Cheng Wang, Hengyu Liu, Yixuan Yuan* \
 \[5th Jun, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2406.02918)] \[[GitHub](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 561 | 🐛 41 | 🌐 Python | 📅 2025-06-23] \[[Website](https://yes-ukan.github.io/)]
+\[[Paper](https://arxiv.org/abs/2406.02918)] \[[GitHub](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 560 | 🐛 41 | 🌐 Python | 📅 2025-06-23] \[[Website](https://yes-ukan.github.io/)]
 
 **EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing** \
 *Hadrien Reynaud, Qingjie Meng, Mischa Dombrowski, Arijit Ghosh, Thomas Day, Alberto Gomez, Paul Leeson, Bernhard Kainz* \
@@ -2216,7 +2216,7 @@
 **Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Generation** \
 *Firas Khader, Gustav Mueller-Franzes, Soroosh Tayebi Arasteh, Tianyu Han, Christoph Haarburger, Maximilian Schulze-Hagen, Philipp Schad, Sandy Engelhardt, Bettina Baessler, Sebastian Foersch, Johannes Stegmaier, Christiane Kuhl, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn* \
 \[7th Nov., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/abs/2211.03364)] \[[Github](https://github.com/FirasGit/medicaldiffusion) ⭐ 496 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2023-05-12]
+\[[Paper](https://arxiv.org/abs/2211.03364)] \[[Github](https://github.com/FirasGit/medicaldiffusion) ⭐ 495 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2023-05-12]
 
 **Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems** \
 *Kai Packhäuser, Lukas Folle, Florian Thamm, Andreas Maier* \
@@ -2914,7 +2914,7 @@
 **Unconditional Latent Diffusion Models Memorize Patient Imaging Data** \
 *Salman Ul Hassan Dar, Marvin Seyfarth, Jannik Kahmann, Isabelle Ayx, Theano Papavassiliu, Stefan O. Schoenberg, Sandy Engelhardt* \
 \[1st Feb., 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2402.01054)] \[[GitHub](https://github.com/Warvito/generative_chestxray) ⭐ 65 | 🐛 8 | 🌐 Python | 📅 2023-07-05]
+\[[Paper](https://arxiv.org/abs/2402.01054)] \[[GitHub](https://github.com/Warvito/generative_chestxray) ⭐ 64 | 🐛 8 | 🌐 Python | 📅 2023-07-05]
 
 **FedTabDiff: Federated Learning of Diffusion Probabilistic Models for Synthetic Mixed-Type Tabular Data Generation** \
 *Timur Sattarov, Marco Schreyer, Damian Borth* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
