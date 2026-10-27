@@ -336,7 +336,7 @@
 **Unsupervised Anomaly Detection in Medical Images Using Masked Diffusion Model** \
 *Hasan Iqbal, Umar Khalid, Jing Hua, Chen Chen* \
 \[31st May, 2023] \[MICCAI MLMI Workshop, 2023]<br>
-\[[Paper](https://arxiv.org/abs/2305.19867)] \[[Github](https://github.com/hasan1292/mDDPM) ⭐ 96 | 🐛 6 | 🌐 Python | 📅 2024-01-12]
+\[[Paper](https://arxiv.org/abs/2305.19867)] \[[Github](https://github.com/hasan1292/mDDPM) ⭐ 97 | 🐛 6 | 🌐 Python | 📅 2024-01-12]
 
 **Reversing the Abnormal: Pseudo-Healthy Generative Networks for Anomaly Detection** \
 *Cosmin I Bercea, Benedikt Wiestler, Daniel Rueckert, Julia A Schnabel* \
@@ -376,7 +376,7 @@
 **Diffusion Models for Medical Anomaly Detection** <br>
 *Julia Wolleb, Florentin Bieder, Robin Sandkühler, Philippe C. Cattin*<br>
 \[8th Mar., 2022] \[MICCAI, 2022]<br>
-\[[Paper](https://arxiv.org/abs/2203.04306)] \[[Github](https://github.com/JuliaWolleb/diffusion-anomaly) ⭐ 138 | 🐛 17 | 🌐 Python | 📅 2023-06-05]
+\[[Paper](https://arxiv.org/abs/2203.04306)] \[[Github](https://github.com/JuliaWolleb/diffusion-anomaly) ⭐ 139 | 🐛 17 | 🌐 Python | 📅 2023-06-05]
 
 ***
 
@@ -1392,12 +1392,12 @@
 **Solving Inverse Problems in Medical Imaging with Score-Based Generative Models**<br>
 *Yang Song, Liyue Shen, Lei Xing, Stefano Ermon*<br>
 \[15th Nov., 2021] \[ICLR, 2022] <br>
-\[[Paper](https://arxiv.org/abs/2111.08005)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 270 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
+\[[Paper](https://arxiv.org/abs/2111.08005)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 269 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
 
 **Score-based diffusion models for accelerated MRI** <br>
 *Hyungjin Chung, Jong chul Ye*<br>
 \[8th Oct., 2021] \[MIA, 2021]<br>
-\[[Paper](https://arxiv.org/abs/2110.05243)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 270 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
+\[[Paper](https://arxiv.org/abs/2110.05243)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 269 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
 
 **Robust Compressed Sensing MRI with Deep Generative Priors** <br>
 *Ajil Jalal, Marius Arvinte, Giannis Daras, Eric Price, Alexandros G. Dimakis, Jonathan I. Tamir*<br>
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,572 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-10-20] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,575 | 🐛 129 | 🌐 Jupyter Notebook | 📅 2026-10-20] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -1546,7 +1546,7 @@
 **Flow Matching for Medical Image Synthesis: Bridging the Gap Between Speed and Quality** \
 *Milad Yazdani, Yasamin Medghalchi, Pooria Ashrafian, Ilker Hacihaliloglu, Dena Shahriari* \
 \[01st Mar., 2025] \[MICCAI, 2025] \
-\[[Paper](http://arxiv.org/abs/2503.00266v1)] \[[GitHub](https://github.com/milad1378yz/MOTFM) ⭐ 84 | 🐛 3 | 🌐 Python | 📅 2026-03-16]
+\[[Paper](http://arxiv.org/abs/2503.00266v1)] \[[GitHub](https://github.com/milad1378yz/MOTFM) ⭐ 85 | 🐛 3 | 🌐 Python | 📅 2026-03-16]
 
 **Advancing AI-Powered Medical Image Synthesis: Insights from MedVQA-GI Challenge Using CLIP, Fine-Tuned Stable Diffusion, and Dream-Booth + LoRA** \
 *Ojonugwa Oluwafemi Ejiga Peter, Md Mahmudur Rahman, Fahmi Khalifa* \
@@ -2216,7 +2216,7 @@
 **Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Generation** \
 *Firas Khader, Gustav Mueller-Franzes, Soroosh Tayebi Arasteh, Tianyu Han, Christoph Haarburger, Maximilian Schulze-Hagen, Philipp Schad, Sandy Engelhardt, Bettina Baessler, Sebastian Foersch, Johannes Stegmaier, Christiane Kuhl, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn* \
 \[7th Nov., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/abs/2211.03364)] \[[Github](https://github.com/FirasGit/medicaldiffusion) ⭐ 495 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2023-05-12]
+\[[Paper](https://arxiv.org/abs/2211.03364)] \[[Github](https://github.com/FirasGit/medicaldiffusion) ⭐ 496 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2023-05-12]
 
 **Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems** \
 *Kai Packhäuser, Lukas Folle, Florian Thamm, Andreas Maier* \
@@ -2614,7 +2614,7 @@
 **Prompt2Perturb (P2P): Text-Guided Diffusion-Based Adversarial Attacks on Breast Ultrasound Images** \
 *Yasamin Medghalchi, Moein Heidari, Clayton Allard, Leonid Sigal, Ilker Hacihaliloglu* \
 \[13th December, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2412.09910)] \[[GitHub](https://github.com/yasamin-med/P2P) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-03-18]
+\[[Paper](https://arxiv.org/abs/2412.09910)] \[[GitHub](https://github.com/yasamin-med/P2P) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2026-03-18]
 
 **On enhancing the robustness of Vision Transformers: Defensive Diffusion** \
 *Raza Imam, Muhammad Huzaifa, Mohammed El-Amine Azz* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._

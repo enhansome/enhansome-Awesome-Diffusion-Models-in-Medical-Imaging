@@ -396,7 +396,7 @@
                 "open_issues": 6,
                 "owner": "hasan1292",
                 "repo": "mDDPM",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -490,7 +490,7 @@
                 "open_issues": 12,
                 "owner": "Julian-Wyatt",
                 "repo": "AnoDDPM",
-                "stars": 218,
+                "stars": 219,
                 "topics": [
                   "anomaly-detection",
                   "computer-vision",
@@ -519,7 +519,7 @@
                 "open_issues": 17,
                 "owner": "JuliaWolleb",
                 "repo": "diffusion-anomaly",
-                "stars": 138,
+                "stars": 139,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -2361,7 +2361,7 @@
                 "open_issues": 11,
                 "owner": "yang-song",
                 "repo": "score_inverse_problems",
-                "stars": 270,
+                "stars": 269,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -2382,7 +2382,7 @@
                 "open_issues": 11,
                 "owner": "yang-song",
                 "repo": "score_inverse_problems",
-                "stars": 270,
+                "stars": 269,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -2449,10 +2449,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-20T23:10:32Z",
-                "open_issues": 128,
+                "open_issues": 129,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2572,
+                "stars": 2575,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2790,7 +2790,7 @@
                 "open_issues": 3,
                 "owner": "milad1378yz",
                 "repo": "MOTFM",
-                "stars": 84,
+                "stars": 85,
                 "topics": [
                   "brain-mri",
                   "diffusion-models",
@@ -3940,7 +3940,7 @@
                 "open_issues": 19,
                 "owner": "FirasGit",
                 "repo": "medicaldiffusion",
-                "stars": 495,
+                "stars": 496,
                 "topics": [
                   "ct",
                   "diffusion-models",
@@ -4608,7 +4608,7 @@
                 "open_issues": 1,
                 "owner": "yasamin-med",
                 "repo": "P2P",
-                "stars": 21,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T19:55:54.748Z",
+    "last_updated": "2026-10-27T19:25:30.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
@@ -5053,7 +5053,7 @@
       "open_issues": 2,
       "owner": "amirhossein-kz",
       "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-      "stars": 2112,
+      "stars": 2111,
       "topics": [
         "ddpm",
         "deep-learning",
