@@ -449,7 +449,7 @@
 **Aleatoric Uncertainty Medical Image Segmentation Estimation via Flow Matching** \
 *Phi Van Nguyen, Ngoc Huynh Trinh, Duy Minh Lam Nguyen, Phu Loc Nguyen, Quoc Long Tran* \
 \[30th Jul., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2507.22418v1)] \[[Github](https://github.com/huynhspm/Data-Uncertainty) ⭐ 9 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2025-10-01]
+\[[Paper](http://arxiv.org/abs/2507.22418v1)] \[[Github](https://github.com/huynhspm/Data-Uncertainty) ⭐ 9 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-10-27]
 
 **Flow Stochastic Segmentation Networks** \
 *Fabio De Sousa Ribeiro, Omar Todd, Charles Jones, Avinash Kori, Raghav Mehta, Ben Glocker* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,575 | 🐛 129 | 🌐 Jupyter Notebook | 📅 2026-10-20] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,574 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-10-28] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -1781,7 +1781,7 @@
 **U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation** \
 *Chenxin Li, Xinyu Liu, Wuyang Li, Cheng Wang, Hengyu Liu, Yixuan Yuan* \
 \[5th Jun, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2406.02918)] \[[GitHub](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 560 | 🐛 41 | 🌐 Python | 📅 2025-06-23] \[[Website](https://yes-ukan.github.io/)]
+\[[Paper](https://arxiv.org/abs/2406.02918)] \[[GitHub](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 561 | 🐛 41 | 🌐 Python | 📅 2025-06-23] \[[Website](https://yes-ukan.github.io/)]
 
 **EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing** \
 *Hadrien Reynaud, Qingjie Meng, Mischa Dombrowski, Arijit Ghosh, Thomas Day, Alberto Gomez, Paul Leeson, Bernhard Kainz* \
@@ -2374,7 +2374,7 @@
 **Learning Diffeomorphism for Image Registration with Time-Continuous Networks using Semigroup Regularization** \
 *Mohammadjavad Matinkia, Nilanjan Ray* \
 \[28th May, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2405.18684)] \[[GitHub](https://github.com/mattkia/SGDIR) ⭐ 22 | 🐛 5 | 🌐 Python | 📅 2026-07-02]
+\[[Paper](https://arxiv.org/abs/2405.18684)] \[[GitHub](https://github.com/mattkia/SGDIR) ⭐ 23 | 🐛 5 | 🌐 Python | 📅 2026-07-02]
 
 **FSDiffReg: Feature-wise and Score-wise Diffusion-guided Unsupervised Deformable Image Registration for Cardiac Images** \
 *Yi Qin, Xiaomeng Li* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

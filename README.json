@@ -619,7 +619,7 @@
                 "id": 1028764139,
                 "language": "Jupyter Notebook",
                 "license": null,
-                "last_commit": "2025-10-01T03:26:48Z",
+                "last_commit": "2026-10-27T21:30:00Z",
                 "open_issues": 2,
                 "owner": "huynhspm",
                 "repo": "Data-Uncertainty",
@@ -2448,11 +2448,11 @@
                 "id": 288774122,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T23:10:32Z",
-                "open_issues": 129,
+                "last_commit": "2026-10-28T10:09:56Z",
+                "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2575,
+                "stars": 2574,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -3236,7 +3236,7 @@
                 "open_issues": 41,
                 "owner": "CUHK-AIM-Group",
                 "repo": "U-KAN",
-                "stars": 560,
+                "stars": 561,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -4127,7 +4127,7 @@
                 "open_issues": 5,
                 "owner": "mattkia",
                 "repo": "SGDIR",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:25:30.388Z",
+    "last_updated": "2026-10-28T19:32:32.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
