@@ -1831,7 +1831,7 @@
                 "open_issues": 17,
                 "owner": "wongzbb",
                 "repo": "DiffMa-Diffusion-Mamba",
-                "stars": 111,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -2452,7 +2452,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2574,
+                "stars": 2578,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -3236,7 +3236,7 @@
                 "open_issues": 41,
                 "owner": "CUHK-AIM-Group",
                 "repo": "U-KAN",
-                "stars": 561,
+                "stars": 562,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:32:32.430Z",
+    "last_updated": "2026-10-29T19:36:59.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
@@ -5053,7 +5053,7 @@
       "open_issues": 2,
       "owner": "amirhossein-kz",
       "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-      "stars": 2111,
+      "stars": 2112,
       "topics": [
         "ddpm",
         "deep-learning",
