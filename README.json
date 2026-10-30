@@ -2452,7 +2452,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2578,
+                "stars": 2579,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2748,7 +2748,7 @@
                 "open_issues": 0,
                 "owner": "Brack-Wang",
                 "repo": "ZECO",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -3398,7 +3398,7 @@
                 "open_issues": 2,
                 "owner": "Pooria90",
                 "repo": "DiffEcho",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -3571,7 +3571,7 @@
                 "open_issues": 13,
                 "owner": "MrGiovanni",
                 "repo": "DiffTumor",
-                "stars": 220,
+                "stars": 221,
                 "topics": [
                   "data-synthesis",
                   "tumor-segmentation"
@@ -4074,8 +4074,8 @@
                 "id": 699030894,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2024-07-12T01:47:54Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-30T18:28:32Z",
+                "open_issues": 7,
                 "owner": "batmanlab",
                 "repo": "MedSyn",
                 "stars": 62,
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:36:59.480Z",
+    "last_updated": "2026-10-30T19:19:44.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
@@ -5053,7 +5053,7 @@
       "open_issues": 2,
       "owner": "amirhossein-kz",
       "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-      "stars": 2112,
+      "stars": 2113,
       "topics": [
         "ddpm",
         "deep-learning",

@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,578 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-10-28] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,579 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-10-28] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -1516,7 +1516,7 @@
 **ZECO: ZeroFusion Guided 3D MRI Conditional Generation** \
 *Feiran Wang, Bin Duan, Jiachen Tao, Nikhil Sharma, Dawen Cai, Yan Yan* \
 \[24th Mar., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2503.18246v1)] \[[GitHub](https://github.com/Brack-Wang/ZECO) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-01-31] \[[Project Page](https://brack-wang.github.io/ZECO_web/)]
+\[[Paper](http://arxiv.org/abs/2503.18246v1)] \[[GitHub](https://github.com/Brack-Wang/ZECO) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-01-31] \[[Project Page](https://brack-wang.github.io/ZECO_web/)]
 
 **MedLoRD: A Medical Low-Resource Diffusion Model for High-Resolution 3D CT Image Synthesis** \
 *Marvin Seyfarth, Salman Ul Hassan Dar, Isabelle Ayx, Matthias Alexander Fink, Stefan O. Schoenberg, Hans-Ulrich Kauczor, Sandy Engelhardt* \
@@ -1841,7 +1841,7 @@
 **Vision-Language Synthetic Data Enhances Echocardiography Downstream Tasks** \
 *Pooria Ashrafian, Milad Yazdani, Moein Heidari, Dena Shahriari, Ilker Hacihaliloglu* \
 \[28th Mar., 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2403.19880)] \[[Github](https://github.com/Pooria90/DiffEcho) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2024-05-08]
+\[[Paper](https://arxiv.org/abs/2403.19880)] \[[Github](https://github.com/Pooria90/DiffEcho) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2024-05-08]
 
 **CT Synthesis with Conditional Diffusion Models for Abdominal Lymph Node Segmentation** \
 *Yongrui Yu, Hanyu Chen, Zitian Zhang, Qiong Xiao, Wenhui Lei, Linrui Dai, Yu Fu, Hui Tan, Guan Wang, Peng Gao, Xiaofan Zhang* \
@@ -1916,7 +1916,7 @@
 **Towards Generalizable Tumor Synthesis** \
 *Qi Chen, Xiaoxi Chen, Haorui Song, Zhiwei Xiong, Alan Yuille, Chen Wei, Zongwei Zhou* \
 \[29th Feb., 2024] \[CVPR, 2024] \
-\[[Paper](https://arxiv.org/abs/2402.19470)] \[[Github](https://github.com/MrGiovanni/DiffTumor) ⭐ 220 | 🐛 13 | 🌐 Python | 📅 2026-08-25]
+\[[Paper](https://arxiv.org/abs/2402.19470)] \[[Github](https://github.com/MrGiovanni/DiffTumor) ⭐ 221 | 🐛 13 | 🌐 Python | 📅 2026-08-25]
 
 **WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis** \
 *Paul Friedrich, Julia Wolleb, Florentin Bieder, Alicia Durrer, Philippe C. Cattin* \
@@ -2325,7 +2325,7 @@
 **MedSyn: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images** \
 *Yanwu Xu, Li Sun, Wei Peng, Shyam Visweswaran, Kayhan Batmanghelich* \
 \[5th Oct., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2310.03559)] \[[Github](https://github.com/batmanlab/MedSyn) ⭐ 62 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2024-07-12]
+\[[Paper](https://arxiv.org/abs/2310.03559)] \[[Github](https://github.com/batmanlab/MedSyn) ⭐ 62 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-10-30]
 
 **Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts** \
 *Shiyi Du, Xiaosong Wang, Yongyi Lu, Yuyin Zhou, Shaoting Zhang, Alan Yuille, Kang Li, Zongwei Zhou* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
