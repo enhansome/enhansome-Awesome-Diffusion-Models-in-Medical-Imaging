@@ -764,7 +764,7 @@
 **DermoSegDiff: A Boundary-aware Segmentation Diffusion Model for Skin Lesion Delineation** \
 *Afshin Bozorgpour, Yousef Sadegheih, Amirhossein Kazerouni, Reza Azad, Dorit Merhof* \
 \[5th Aug., 2023] \[MICCAI Workshop, 2023] \
-\[[Paper](https://arxiv.org/abs/2308.02959)] \[[Github](https://github.com/mindflow-institue/DermoSegDiff) ⭐ 89 | 🐛 3 | 🌐 Python | 📅 2024-06-27]
+\[[Paper](https://arxiv.org/abs/2308.02959)] \[[Github](https://github.com/mindflow-institue/DermoSegDiff) ⭐ 90 | 🐛 3 | 🌐 Python | 📅 2024-06-27]
 
 **C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation** \
 *Boah Kim, Yujin Oh, Bradford J. Wood, Ronald M. Summers, Jong Chul Ye* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,579 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-10-28] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,580 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-10-28] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -2216,7 +2216,7 @@
 **Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Generation** \
 *Firas Khader, Gustav Mueller-Franzes, Soroosh Tayebi Arasteh, Tianyu Han, Christoph Haarburger, Maximilian Schulze-Hagen, Philipp Schad, Sandy Engelhardt, Bettina Baessler, Sebastian Foersch, Johannes Stegmaier, Christiane Kuhl, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn* \
 \[7th Nov., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/abs/2211.03364)] \[[Github](https://github.com/FirasGit/medicaldiffusion) ⭐ 496 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2023-05-12]
+\[[Paper](https://arxiv.org/abs/2211.03364)] \[[Github](https://github.com/FirasGit/medicaldiffusion) ⭐ 497 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2023-05-12]
 
 **Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems** \
 *Kai Packhäuser, Lukas Folle, Florian Thamm, Andreas Maier* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
