@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-02-23T18:03:03Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "ChunmingHe",
             "repo": "awesome-diffusion-models-in-low-level-vision",
             "stars": 561,
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T18:32:51.688Z",
+    "last_updated": "2026-11-01T18:54:41.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
