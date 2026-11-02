@@ -983,7 +983,7 @@
 **Soft Masked Mamba Diffusion Model for CT to MRI Conversion** \
 *Zhenbin Wang, Lei Zhang, Lituan Wang, Zhenwei Zhang* \
 \[22nd Jun., 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2406.15910)] \[[GitHub](https://github.com/wongzbb/DiffMa-Diffusion-Mamba) ⭐ 112 | 🐛 17 | 🌐 Python | 📅 2024-07-02]
+\[[Paper](https://arxiv.org/abs/2406.15910)] \[[GitHub](https://github.com/wongzbb/DiffMa-Diffusion-Mamba) ⭐ 113 | 🐛 17 | 🌐 Python | 📅 2024-07-02]
 
 **2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction** \
 *Tianqi Chen, Jun Hou, Yinchi Zhou, Huidong Xie, Xiongchao Chen, Qiong Liu, Xueqi Guo, Menghua Xia, James S. Duncan, Chi Liu, Bo Zhou*  \
@@ -998,7 +998,7 @@
 **Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation** \
 *Hongxu Jiang, Muhammad Imran, Linhai Ma, Teng Zhang, Yuyin Zhou, Muxuan Liang, Kuang Gong, Wei Shao* \
 \[23rd May, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2405.14802)] \[[GitHub](https://github.com/mirthAI/Fast-DDPM) ⭐ 184 | 🐛 16 | 🌐 Python | 📅 2025-06-13]
+\[[Paper](https://arxiv.org/abs/2405.14802)] \[[GitHub](https://github.com/mirthAI/Fast-DDPM) ⭐ 183 | 🐛 16 | 🌐 Python | 📅 2025-06-13]
 
 **Cascaded Multi-path Shortcut Diffusion Model for Medical Image Translation** \
 *Yinchi Zhou, Tianqi Chen, Jun Hou, Huidong Xie, Nicha C. Dvornek, S. Kevin Zhou, David L. Wilson, James S. Duncan, Chi Liu, Bo Zhou* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._

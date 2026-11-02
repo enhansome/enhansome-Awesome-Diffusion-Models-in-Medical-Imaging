@@ -1831,7 +1831,7 @@
                 "open_issues": 17,
                 "owner": "wongzbb",
                 "repo": "DiffMa-Diffusion-Mamba",
-                "stars": 112,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -1852,7 +1852,7 @@
                 "open_issues": 16,
                 "owner": "mirthAI",
                 "repo": "Fast-DDPM",
-                "stars": 184,
+                "stars": 183,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:54:41.786Z",
+    "last_updated": "2026-11-02T22:46:15.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
@@ -5053,7 +5053,7 @@
       "open_issues": 2,
       "owner": "amirhossein-kz",
       "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-      "stars": 2115,
+      "stars": 2116,
       "topics": [
         "ddpm",
         "deep-learning",
