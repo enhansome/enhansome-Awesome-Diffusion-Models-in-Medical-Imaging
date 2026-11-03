@@ -126,7 +126,7 @@
             "open_issues": 7,
             "owner": "YangLing0818",
             "repo": "Diffusion-Models-Papers-Survey-Taxonomy",
-            "stars": 3369,
+            "stars": 3368,
             "topics": [
               "diffusion-models",
               "stable-diffusion",
@@ -2452,7 +2452,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2580,
+                "stars": 2581,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:46:15.653Z",
+    "last_updated": "2026-11-03T20:29:51.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
@@ -5053,7 +5053,7 @@
       "open_issues": 2,
       "owner": "amirhossein-kz",
       "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-      "stars": 2116,
+      "stars": 2115,
       "topics": [
         "ddpm",
         "deep-learning",
