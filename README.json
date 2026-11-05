@@ -105,7 +105,7 @@
             "open_issues": 2,
             "owner": "chq1155",
             "repo": "A-Survey-on-Generative-Diffusion-Model",
-            "stars": 974,
+            "stars": 975,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:07.770Z"
@@ -126,7 +126,7 @@
             "open_issues": 7,
             "owner": "YangLing0818",
             "repo": "Diffusion-Models-Papers-Survey-Taxonomy",
-            "stars": 3367,
+            "stars": 3369,
             "topics": [
               "diffusion-models",
               "stable-diffusion",
@@ -922,7 +922,7 @@
                 "open_issues": 15,
                 "owner": "bwittmann",
                 "repo": "vesselFM",
-                "stars": 178,
+                "stars": 179,
                 "topics": [
                   "blood-vessel-segmentation",
                   "foundation-models",
@@ -1324,7 +1324,7 @@
                 "open_issues": 6,
                 "owner": "xmed-lab",
                 "repo": "GenericSSL",
-                "stars": 116,
+                "stars": 117,
                 "topics": [
                   "diffusion-models",
                   "medical-image-segmentation",
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:48:53.633Z",
+    "last_updated": "2026-11-05T21:04:32.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
@@ -5053,7 +5053,7 @@
       "open_issues": 2,
       "owner": "amirhossein-kz",
       "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-      "stars": 2115,
+      "stars": 2116,
       "topics": [
         "ddpm",
         "deep-learning",
