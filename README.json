@@ -2452,7 +2452,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2580,
+                "stars": 2581,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:04:32.911Z",
+    "last_updated": "2026-11-06T20:26:19.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
