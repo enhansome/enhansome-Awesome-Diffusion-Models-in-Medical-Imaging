@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-02-23T18:03:03Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "ChunmingHe",
             "repo": "awesome-diffusion-models-in-low-level-vision",
             "stars": 561,
@@ -81,7 +81,7 @@
             "language": null,
             "license": null,
             "last_commit": "2023-11-26T19:30:40Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "CroitoruAlin",
             "repo": "Diffusion-Models-in-Vision-A-Survey",
             "stars": 406,
@@ -102,7 +102,7 @@
             "language": null,
             "license": null,
             "last_commit": "2023-10-18T10:45:40Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "chq1155",
             "repo": "A-Survey-on-Generative-Diffusion-Model",
             "stars": 975,
@@ -123,7 +123,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-09-27T02:49:32Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "YangLing0818",
             "repo": "Diffusion-Models-Papers-Survey-Taxonomy",
             "stars": 3369,
@@ -1031,7 +1031,7 @@
                 "open_issues": 57,
                 "owner": "NVlabs",
                 "repo": "ODISE",
-                "stars": 944,
+                "stars": 943,
                 "topics": [
                   "deep-learning",
                   "diffusion-models",
@@ -1789,7 +1789,7 @@
                 "open_issues": 0,
                 "owner": "ai-med",
                 "repo": "Cor2Vox",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:26:19.738Z",
+    "last_updated": "2026-11-07T18:46:10.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",

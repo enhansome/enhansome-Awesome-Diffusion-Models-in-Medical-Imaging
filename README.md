@@ -95,7 +95,7 @@
 **Diffusion Models in Low-Level Vision: A Survey** \
 *Chunming He, Yuqi Shen, Chengyu Fang, Fengyang Xiao, Longxiang Tang, Yulun Zhang, Wangmeng Zuo, Zhenhua Guo, Xiu Li* \
 \[16th Jun., 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2406.11138)] \[[GitHub](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) ⭐ 561 | 🐛 3 | 📅 2025-02-23]
+\[[Paper](https://arxiv.org/abs/2406.11138)] \[[GitHub](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) ⭐ 561 | 🐛 4 | 📅 2025-02-23]
 
 **Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review** \
 *Mohammadreza Amirian, Daniel Barco, Ivo Herzig, Frank-Peter Schilling* \
@@ -185,17 +185,17 @@
 **Diffusion Models in Vision: A Survey** \
 *Florinel-Alin Croitoru, Vlad Hondru, Radu Tudor Ionescu, Mubarak Shah* \
 \[10th Sep., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/pdf/2209.04747.pdf)] \[[Github](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey) ⭐ 406 | 🐛 0 | 📅 2023-11-26]
+\[[Paper](https://arxiv.org/pdf/2209.04747.pdf)] \[[Github](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey) ⭐ 406 | 🐛 1 | 📅 2023-11-26]
 
 **A Survey on Generative Diffusion Model** \
 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* \
 \[6th Sep., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/pdf/2209.02646.pdf)] \[[Github](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) ⭐ 975 | 🐛 2 | 📅 2023-10-18]
+\[[Paper](https://arxiv.org/pdf/2209.02646.pdf)] \[[Github](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) ⭐ 975 | 🐛 3 | 📅 2023-10-18]
 
 **Diffusion Models: A Comprehensive Survey of Methods and Applications** \
 *Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang* \
 \[2nd Sep., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,369 | 🐛 7 | 📅 2025-09-27]
+\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,369 | 🐛 8 | 📅 2025-09-27]
 
 ## Challenge Reports
 
@@ -629,7 +629,7 @@
 **Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model** \
 *Kun Zhao, Jakub Prokop, Javier Montalt Tordera, Sadegh Mohammadi* \
 \[19th Jul., 2024] \[DGM4MICCAI, 2024] \
-\[[Paper](https://arxiv.org/abs/2407.14326)] \[[GitHub](https://github.com/NVlabs/ODISE) ⭐ 944 | 🐛 57 | 🌐 Python | 📅 2024-07-06]
+\[[Paper](https://arxiv.org/abs/2407.14326)] \[[GitHub](https://github.com/NVlabs/ODISE) ⭐ 943 | 🐛 57 | 🌐 Python | 📅 2024-07-06]
 
 **Denoising Diffusions in Latent Space for Medical Image Segmentation** \
 *Fahim Ahmed Zaman, Mathews Jacob, Amanda Chang, Kan Liu, Milan Sonka, Xiaodong Wu* \
@@ -948,7 +948,7 @@
 **3D Shape-to-Image Brownian Bridge Diffusion for Brain MRI Synthesis from Cortical Surfaces** \
 *Fabian Bongratz, Yitong Li, Sama Elbaroudy, Christian Wachinger* \
 \[18th Feb., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2502.12742v1)] \[[GitHub](https://github.com/ai-med/Cor2Vox) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-05-07]
+\[[Paper](http://arxiv.org/abs/2502.12742v1)] \[[GitHub](https://github.com/ai-med/Cor2Vox) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-05-07]
 
 **Trustworthy image-to-image translation: evaluating uncertainty calibration in unpaired training scenarios** \
 *Ciaran Bench, Emir Ahmed, Spencer A. Thomas* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
