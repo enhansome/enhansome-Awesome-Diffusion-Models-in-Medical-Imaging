@@ -2790,7 +2790,7 @@
                 "open_issues": 3,
                 "owner": "milad1378yz",
                 "repo": "MOTFM",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "brain-mri",
                   "diffusion-models",
@@ -4148,7 +4148,7 @@
                 "open_issues": 12,
                 "owner": "xmed-lab",
                 "repo": "FSDiffReg",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:46:10.289Z",
+    "last_updated": "2026-11-08T18:49:38.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
