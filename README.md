@@ -195,7 +195,7 @@
 **Diffusion Models: A Comprehensive Survey of Methods and Applications** \
 *Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang* \
 \[2nd Sep., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,369 | 🐛 8 | 📅 2025-09-27]
+\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,368 | 🐛 8 | 📅 2025-09-27]
 
 ## Challenge Reports
 
@@ -739,7 +739,7 @@
 **Towards Generic Semi-Supervised Framework for Volumetric Medical Image Segmentation** \
 *Haonan Wang, Xiaomeng Li* \
 \[17th Oct., 2023] \[NeurIPS, 2023] \
-\[[Paper](https://openreview.net/forum?id=NibgkUin5n)] \[[Github](https://github.com/xmed-lab/GenericSSL) ⭐ 117 | 🐛 6 | 🌐 Python | 📅 2024-06-04]
+\[[Paper](https://openreview.net/forum?id=NibgkUin5n)] \[[Github](https://github.com/xmed-lab/GenericSSL) ⭐ 118 | 🐛 6 | 🌐 Python | 📅 2024-06-04]
 
 **Certification of Deep Learning Models for Medical Image Segmentation** \
 *Othmane Laousy, Alexandre Araujo, Guillaume Chassagnon, Nikos Paragios, Marie-Pierre Revel, Maria Vakalopoulou* \
@@ -754,7 +754,7 @@
 **A Recycling Training Strategy for Medical Image Segmentation with Diffusion Denoising Models** \
 *Yunguan Fu, Yiwen Li, Shaheer U Saeed, Matthew J Clarkson, Yipeng Hu* \
 \[30th Aug., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2308.16355)] \[[Github](https://github.com/mathpluscode/ImgX-DiffSeg) ⭐ 87 | 🐛 1 | 🌐 Python | 📅 2024-06-11]
+\[[Paper](https://arxiv.org/abs/2308.16355)] \[[Github](https://github.com/mathpluscode/ImgX-DiffSeg) ⭐ 86 | 🐛 1 | 🌐 Python | 📅 2024-06-11]
 
 **Masked Diffusion as Self-supervised Representation Learner** \
 *Zixuan Pan, Jianxu Chen, Yiyu Shi* \
@@ -849,7 +849,7 @@
 **Importance of Aligning Training Strategy with Evaluation for Diffusion Models in 3D Multiclass Segmentation** \
 *Yunguan Fu, Yiwen Li, Shaheer U. Saeed, Matthew J. Clarkson, Yipeng Hu* \
 \[10th Mar., 2023] \[arXiv, 2023] \
-\[[Paper](https://arxiv.org/abs/2303.06040)] \[[Github](https://github.com/mathpluscode/ImgX-DiffSeg) ⭐ 87 | 🐛 1 | 🌐 Python | 📅 2024-06-11]
+\[[Paper](https://arxiv.org/abs/2303.06040)] \[[Github](https://github.com/mathpluscode/ImgX-DiffSeg) ⭐ 86 | 🐛 1 | 🌐 Python | 📅 2024-06-11]
 
 **Score-Based Generative Models for Medical Image Segmentation using Signed Distance Functions** \
 *Lea Bogensperger, Dominik Narnhofer, Filip Ilic, Thomas Pock* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,581 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-10-28] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,582 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-10-28] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -1481,7 +1481,7 @@
 **Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation** \
 *Kunpeng Qiu, Zhiqiang Gao, Zhiying Zhou, Mingjie Sun, Yongxin Guo* \
 \[09th May, 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2505.06068v1)] \[[GitHub](https://github.com/Qiukunpeng/Siamese-Diffusion) ⭐ 91 | 🐛 1 | 🌐 Python | 📅 2025-11-29]
+\[[Paper](http://arxiv.org/abs/2505.06068v1)] \[[GitHub](https://github.com/Qiukunpeng/Siamese-Diffusion) ⭐ 92 | 🐛 1 | 🌐 Python | 📅 2025-11-29]
 
 **ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis** \
 *Onkar Susladkar, Gayatri Deshmukh, Yalcin Tur, Gorkhem Durak, Ulas Bagci* \
@@ -1781,7 +1781,7 @@
 **U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation** \
 *Chenxin Li, Xinyu Liu, Wuyang Li, Cheng Wang, Hengyu Liu, Yixuan Yuan* \
 \[5th Jun, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2406.02918)] \[[GitHub](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 562 | 🐛 41 | 🌐 Python | 📅 2025-06-23] \[[Website](https://yes-ukan.github.io/)]
+\[[Paper](https://arxiv.org/abs/2406.02918)] \[[GitHub](https://github.com/CUHK-AIM-Group/U-KAN) ⭐ 564 | 🐛 41 | 🌐 Python | 📅 2025-06-23] \[[Website](https://yes-ukan.github.io/)]
 
 **EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing** \
 *Hadrien Reynaud, Qingjie Meng, Mischa Dombrowski, Arijit Ghosh, Thomas Day, Alberto Gomez, Paul Leeson, Bernhard Kainz* \
@@ -1916,7 +1916,7 @@
 **Towards Generalizable Tumor Synthesis** \
 *Qi Chen, Xiaoxi Chen, Haorui Song, Zhiwei Xiong, Alan Yuille, Chen Wei, Zongwei Zhou* \
 \[29th Feb., 2024] \[CVPR, 2024] \
-\[[Paper](https://arxiv.org/abs/2402.19470)] \[[Github](https://github.com/MrGiovanni/DiffTumor) ⭐ 221 | 🐛 13 | 🌐 Python | 📅 2026-08-25]
+\[[Paper](https://arxiv.org/abs/2402.19470)] \[[Github](https://github.com/MrGiovanni/DiffTumor) ⭐ 222 | 🐛 13 | 🌐 Python | 📅 2026-08-25]
 
 **WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis** \
 *Paul Friedrich, Julia Wolleb, Florentin Bieder, Alicia Durrer, Philippe C. Cattin* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._

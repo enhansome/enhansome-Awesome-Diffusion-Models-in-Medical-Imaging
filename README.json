@@ -126,7 +126,7 @@
             "open_issues": 8,
             "owner": "YangLing0818",
             "repo": "Diffusion-Models-Papers-Survey-Taxonomy",
-            "stars": 3369,
+            "stars": 3368,
             "topics": [
               "diffusion-models",
               "stable-diffusion",
@@ -1324,7 +1324,7 @@
                 "open_issues": 6,
                 "owner": "xmed-lab",
                 "repo": "GenericSSL",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "diffusion-models",
                   "medical-image-segmentation",
@@ -1373,7 +1373,7 @@
                 "open_issues": 1,
                 "owner": "mathpluscode",
                 "repo": "ImgX-DiffSeg",
-                "stars": 87,
+                "stars": 86,
                 "topics": [
                   "abdominal-organ-segmentation",
                   "brain-tumor-segmentation",
@@ -1653,7 +1653,7 @@
                 "open_issues": 1,
                 "owner": "mathpluscode",
                 "repo": "ImgX-DiffSeg",
-                "stars": 87,
+                "stars": 86,
                 "topics": [
                   "abdominal-organ-segmentation",
                   "brain-tumor-segmentation",
@@ -2452,7 +2452,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2581,
+                "stars": 2582,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2647,7 +2647,7 @@
                 "open_issues": 1,
                 "owner": "Qiukunpeng",
                 "repo": "Siamese-Diffusion",
-                "stars": 91,
+                "stars": 92,
                 "topics": [
                   "cvpr2025",
                   "diffusion-models",
@@ -3236,7 +3236,7 @@
                 "open_issues": 41,
                 "owner": "CUHK-AIM-Group",
                 "repo": "U-KAN",
-                "stars": 562,
+                "stars": 564,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -3571,7 +3571,7 @@
                 "open_issues": 13,
                 "owner": "MrGiovanni",
                 "repo": "DiffTumor",
-                "stars": 221,
+                "stars": 222,
                 "topics": [
                   "data-synthesis",
                   "tumor-segmentation"
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:49:38.989Z",
+    "last_updated": "2026-11-09T23:25:45.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
