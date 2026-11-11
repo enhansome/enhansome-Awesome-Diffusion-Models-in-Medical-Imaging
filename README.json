@@ -123,7 +123,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-09-27T02:49:32Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "YangLing0818",
             "repo": "Diffusion-Models-Papers-Survey-Taxonomy",
             "stars": 3368,
@@ -2449,7 +2449,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-28T10:09:56Z",
-                "open_issues": 128,
+                "open_issues": 129,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
                 "stars": 2583,
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:48:34.215Z",
+    "last_updated": "2026-11-11T21:24:20.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
