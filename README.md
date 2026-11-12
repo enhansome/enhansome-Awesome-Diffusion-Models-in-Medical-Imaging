@@ -80,7 +80,7 @@
 **Foundation Models for Music: A Survey** \
 *Yinghao Ma, Anders Øland, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elona Shatri, Fabio Morreale, Ge Zhang, György Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen, Wenhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, Ziyu Wang* \
 \[26th Aug., 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2408.14340)] \[[GitHub](https://github.com/nicolaus625/FM4Music) ⭐ 226 | 🐛 2 | 📅 2024-09-04] \[Music Generation - Music Therapy & Medical Applications]
+\[[Paper](https://arxiv.org/abs/2408.14340)] \[[GitHub](https://github.com/nicolaus625/FM4Music) ⭐ 225 | 🐛 2 | 📅 2024-09-04] \[Music Generation - Music Therapy & Medical Applications]
 
 **A Comprehensive Survey on Diffusion Models and Their Applications** \
 *Md Manjurul Ahsan, Shivakumar Raman, Yingtao Liu, Zahed Siddique* \
@@ -95,7 +95,7 @@
 **Diffusion Models in Low-Level Vision: A Survey** \
 *Chunming He, Yuqi Shen, Chengyu Fang, Fengyang Xiao, Longxiang Tang, Yulun Zhang, Wangmeng Zuo, Zhenhua Guo, Xiu Li* \
 \[16th Jun., 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2406.11138)] \[[GitHub](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) ⭐ 561 | 🐛 4 | 📅 2025-02-23]
+\[[Paper](https://arxiv.org/abs/2406.11138)] \[[GitHub](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) ⭐ 562 | 🐛 4 | 📅 2025-02-23]
 
 **Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review** \
 *Mohammadreza Amirian, Daniel Barco, Ivo Herzig, Frank-Peter Schilling* \
@@ -440,7 +440,7 @@
 **Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model** \
 *Dewei Hu, Yuankai K. Tao, Ipek Oguz* \
 \[27th Jan., 2022] \[Medical Imaging 2022: Image Processing] \
-\[[Paper](https://arxiv.org/abs/2201.11760)] \[[Github](https://github.com/DeweiHu/OCT_DDPM) ⭐ 83 | 🐛 12 | 🌐 Python | 📅 2024-06-12]
+\[[Paper](https://arxiv.org/abs/2201.11760)] \[[Github](https://github.com/DeweiHu/OCT_DDPM) ⭐ 84 | 🐛 12 | 🌐 Python | 📅 2024-06-12]
 
 ***
 
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,583 | 🐛 129 | 🌐 Jupyter Notebook | 📅 2026-10-28] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,584 | 🐛 129 | 🌐 Jupyter Notebook | 📅 2026-10-28] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
