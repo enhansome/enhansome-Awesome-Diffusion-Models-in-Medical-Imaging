@@ -579,7 +579,7 @@
 **vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation** \
 *Bastian Wittmann, Yannick Wattenberg, Tamaz Amiranashvili, Suprosanna Shit, Bjoern Menze* \
 \[26th Nov., 2024] \[CVPR, 2025] \
-\[[Paper](http://arxiv.org/abs/2411.17386v2)] \[[Github](https://github.com/bwittmann/vesselFM) ⭐ 179 | 🐛 15 | 🌐 Python | 📅 2026-09-04]
+\[[Paper](http://arxiv.org/abs/2411.17386v2)] \[[Github](https://github.com/bwittmann/vesselFM) ⭐ 180 | 🐛 15 | 🌐 Python | 📅 2026-09-04]
 
 **ScribbleVS: Scribble-Supervised Medical Image Segmentation via Dynamic Competitive Pseudo Label Selection** \
 *Tao Wang, Xinlin Zhang, Yuanbin Chen, Yuanbo Zhou, Longxuan Zhao, Tao Tan, Tong Tong* \
@@ -609,7 +609,7 @@
 **AdaptDiff: Cross-Modality Domain Adaptation via Weak Conditional Semantic Diffusion for Retinal Vessel Segmentation** \
 *Dewei Hu, Hao Li, Han Liu, Jiacheng Wang, Xing Yao, Daiwei Lu, Ipek Oguz* \
 \[06th Oct., 2024] \[SASHIMI, 2024] \
-\[[Paper](http://arxiv.org/abs/2410.04648v1)] \[[GitHub](https://github.com/DeweiHu/AdaptDiff) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2024-11-04]
+\[[Paper](http://arxiv.org/abs/2410.04648v1)] \[[GitHub](https://github.com/DeweiHu/AdaptDiff) ⭐ 13 | 🐛 3 | 🌐 Python | 📅 2024-11-04]
 
 **Diffuse-UDA: Addressing Unsupervised Domain Adaptation in Medical Image Segmentation with Appearance and Structure Aligned Diffusion Models** \
 *Haifan Gong, Yitao Wang, Yihan Wang, Jiashun Xiao, Xiang Wan, Haofeng Li* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,585 | 🐛 129 | 🌐 Jupyter Notebook | 📅 2026-10-28] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,586 | 🐛 129 | 🌐 Jupyter Notebook | 📅 2026-10-28] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
