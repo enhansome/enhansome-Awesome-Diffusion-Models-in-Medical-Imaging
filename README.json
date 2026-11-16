@@ -3940,7 +3940,7 @@
                 "open_issues": 19,
                 "owner": "FirasGit",
                 "repo": "medicaldiffusion",
-                "stars": 497,
+                "stars": 498,
                 "topics": [
                   "ct",
                   "diffusion-models",
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:45:54.981Z",
+    "last_updated": "2026-11-16T23:22:49.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
