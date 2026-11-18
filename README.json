@@ -53,7 +53,7 @@
             "open_issues": 44,
             "owner": "Project-MONAI",
             "repo": "GenerativeModels",
-            "stars": 760,
+            "stars": 761,
             "topics": [
               "anomaly-detection",
               "diffusion-models",
@@ -2449,7 +2449,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-28T10:09:56Z",
-                "open_issues": 129,
+                "open_issues": 130,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
                 "stars": 2586,
@@ -2563,7 +2563,7 @@
                 "open_issues": 3,
                 "owner": "zfw-cv",
                 "repo": "AngioDiff",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -3236,7 +3236,7 @@
                 "open_issues": 41,
                 "owner": "CUHK-AIM-Group",
                 "repo": "U-KAN",
-                "stars": 564,
+                "stars": 563,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -4078,7 +4078,7 @@
                 "open_issues": 7,
                 "owner": "batmanlab",
                 "repo": "MedSyn",
-                "stars": 62,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:19:59.796Z",
+    "last_updated": "2026-11-18T21:54:30.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
