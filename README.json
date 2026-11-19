@@ -2181,11 +2181,11 @@
                 "id": 674676579,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-08T08:32:51Z",
+                "last_commit": "2026-11-19T14:25:03Z",
                 "open_issues": 4,
                 "owner": "icon-lab",
                 "repo": "FDB",
-                "stars": 42,
+                "stars": 43,
                 "topics": [
                   "artificial-intelligence",
                   "bridges",
@@ -2448,11 +2448,11 @@
                 "id": 288774122,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T10:09:56Z",
-                "open_issues": 130,
+                "last_commit": "2026-11-19T20:16:36Z",
+                "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2586,
+                "stars": 2589,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -4124,7 +4124,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-02T19:55:45Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "mattkia",
                 "repo": "SGDIR",
                 "stars": 23,
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:54:30.285Z",
+    "last_updated": "2026-11-19T22:08:21.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
