@@ -922,7 +922,7 @@
                 "open_issues": 15,
                 "owner": "bwittmann",
                 "repo": "vesselFM",
-                "stars": 180,
+                "stars": 182,
                 "topics": [
                   "blood-vessel-segmentation",
                   "foundation-models",
@@ -1684,7 +1684,7 @@
                 "open_issues": 116,
                 "owner": "ImprintLab",
                 "repo": "MedSegDiff",
-                "stars": 1363,
+                "stars": 1362,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -1712,7 +1712,7 @@
                 "open_issues": 116,
                 "owner": "ImprintLab",
                 "repo": "MedSegDiff",
-                "stars": 1363,
+                "stars": 1362,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -2181,7 +2181,7 @@
                 "id": 674676579,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-19T14:25:03Z",
+                "last_commit": "2026-11-20T07:19:49Z",
                 "open_issues": 4,
                 "owner": "icon-lab",
                 "repo": "FDB",
@@ -2452,7 +2452,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2589,
+                "stars": 2590,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -3173,7 +3173,7 @@
                 "open_issues": 10,
                 "owner": "NoaCahan",
                 "repo": "X-ray2CTPA",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:07.770Z"
@@ -3940,7 +3940,7 @@
                 "open_issues": 19,
                 "owner": "FirasGit",
                 "repo": "medicaldiffusion",
-                "stars": 498,
+                "stars": 497,
                 "topics": [
                   "ct",
                   "diffusion-models",
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:08:21.884Z",
+    "last_updated": "2026-11-20T21:48:09.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
@@ -5053,7 +5053,7 @@
       "open_issues": 2,
       "owner": "amirhossein-kz",
       "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-      "stars": 2116,
+      "stars": 2115,
       "topics": [
         "ddpm",
         "deep-learning",
