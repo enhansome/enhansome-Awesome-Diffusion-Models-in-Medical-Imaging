@@ -922,7 +922,7 @@
                 "open_issues": 15,
                 "owner": "bwittmann",
                 "repo": "vesselFM",
-                "stars": 182,
+                "stars": 183,
                 "topics": [
                   "blood-vessel-segmentation",
                   "foundation-models",
@@ -3036,7 +3036,7 @@
                 "open_issues": 4,
                 "owner": "LemuelPuglisi",
                 "repo": "BrLP",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "brain-latent-progression",
                   "diffusion-models",
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:30:18.668Z",
+    "last_updated": "2026-11-22T20:42:50.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
