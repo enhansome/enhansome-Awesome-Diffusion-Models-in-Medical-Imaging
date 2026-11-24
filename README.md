@@ -95,7 +95,7 @@
 **Diffusion Models in Low-Level Vision: A Survey** \
 *Chunming He, Yuqi Shen, Chengyu Fang, Fengyang Xiao, Longxiang Tang, Yulun Zhang, Wangmeng Zuo, Zhenhua Guo, Xiu Li* \
 \[16th Jun., 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2406.11138)] \[[GitHub](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) ⭐ 562 | 🐛 4 | 📅 2025-02-23]
+\[[Paper](https://arxiv.org/abs/2406.11138)] \[[GitHub](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) ⭐ 563 | 🐛 4 | 📅 2025-02-23]
 
 **Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review** \
 *Mohammadreza Amirian, Daniel Barco, Ivo Herzig, Frank-Peter Schilling* \
@@ -195,7 +195,7 @@
 **Diffusion Models: A Comprehensive Survey of Methods and Applications** \
 *Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Yingxia Shao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang* \
 \[2nd Sep., 2022] \[arXiv, 2022] \
-\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,368 | 🐛 9 | 📅 2025-09-27]
+\[[Paper](https://arxiv.org/pdf/2209.00796)] \[[Github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) ⭐ 3,367 | 🐛 9 | 📅 2025-09-27]
 
 ## Challenge Reports
 
@@ -361,7 +361,7 @@
 **What is Healthy? Generative Counterfactual Diffusion for Lesion Localization** \
 *Pedro Sanchez, Antanas Kascenas, Xiao Liu, Alison Q. O'Neil, Sotirios A. Tsaftaris* \
 \[25th Jul., 2022] \[MICCAI Workshop, 2022] \
-\[[Paper](https://arxiv.org/abs/2207.12268)] \[[Github](https://github.com/vios-s/Diff-SCM) ⭐ 105 | 🐛 0 | 🌐 Python | 📅 2023-06-07]
+\[[Paper](https://arxiv.org/abs/2207.12268)] \[[Github](https://github.com/vios-s/Diff-SCM) ⭐ 104 | 🐛 0 | 🌐 Python | 📅 2023-06-07]
 
 **AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using Simplex Noise** \
 *Julian Wyatt, Adam Leach, Sebastian M. Schmon, Chris G. Willcocks* \
@@ -889,7 +889,7 @@
 **Diffusion Models for Implicit Image Segmentation Ensembles** \
 *Julia Wolleb, Robin Sandkühler, Florentin Bieder, Philippe Valmaggia, Philippe C. Cattin* \
 \[6th Dec., 2021] \[MIDL, 2022] \
-\[[Paper](https://arxiv.org/abs/2112.03145)] \[[Github](https://github.com/juliawolleb/diffusion-based-segmentation) ⭐ 318 | 🐛 28 | 🌐 Python | 📅 2023-06-05]
+\[[Paper](https://arxiv.org/abs/2112.03145)] \[[Github](https://github.com/juliawolleb/diffusion-based-segmentation) ⭐ 317 | 🐛 28 | 🌐 Python | 📅 2023-06-05]
 
 ***
 
@@ -1372,12 +1372,12 @@
 **Towards performant and reliable undersampled MR reconstruction via diffusion model sampling**<br>
 *Cheng Peng, Pengfei Guo, S. Kevin Zhou, Vishal Patel, Rama Chellappa*<br>
 \[8th Mar., 2022] \[MICCAI, 2022]<br>
-\[[Paper](https://arxiv.org/abs/2203.04292)] \[[Github](https://github.com/cpeng93/diffuserecon) ⭐ 69 | 🐛 7 | 🌐 Python | 📅 2023-02-09]
+\[[Paper](https://arxiv.org/abs/2203.04292)] \[[Github](https://github.com/cpeng93/diffuserecon) ⭐ 68 | 🐛 7 | 🌐 Python | 📅 2023-02-09]
 
 **Measurement-conditioned Denoising Diffusion Probabilistic Model for Under-sampled Medical Image Reconstruction**<br>
 *Yutong Xie, Quanzheng Li*<br>
 \[5th Mar., 2022] \[MICCAI, 2022]<br>
-\[[Paper](https://arxiv.org/abs/2203.03623)] \[[Github](https://github.com/Theodore-PKU/MC-DDPM) ⭐ 84 | 🐛 8 | 🌐 Python | 📅 2022-12-04]
+\[[Paper](https://arxiv.org/abs/2203.03623)] \[[Github](https://github.com/Theodore-PKU/MC-DDPM) ⭐ 83 | 🐛 8 | 🌐 Python | 📅 2022-12-04]
 
 **MRI Reconstruction via Data Driven Markov Chain with Joint Uncertainty Estimation**<br>
 *Guanxiong Luo, Martin Heide, Martin Uecker*<br>
@@ -1392,12 +1392,12 @@
 **Solving Inverse Problems in Medical Imaging with Score-Based Generative Models**<br>
 *Yang Song, Liyue Shen, Lei Xing, Stefano Ermon*<br>
 \[15th Nov., 2021] \[ICLR, 2022] <br>
-\[[Paper](https://arxiv.org/abs/2111.08005)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 269 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
+\[[Paper](https://arxiv.org/abs/2111.08005)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 268 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
 
 **Score-based diffusion models for accelerated MRI** <br>
 *Hyungjin Chung, Jong chul Ye*<br>
 \[8th Oct., 2021] \[MIA, 2021]<br>
-\[[Paper](https://arxiv.org/abs/2110.05243)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 269 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
+\[[Paper](https://arxiv.org/abs/2110.05243)] \[[Github](https://github.com/yang-song/score_inverse_problems) ⭐ 268 | 🐛 11 | 🌐 Python | 📅 2022-06-20]
 
 **Robust Compressed Sensing MRI with Deep Generative Priors** <br>
 *Ajil Jalal, Marius Arvinte, Giannis Daras, Eric Price, Alexandros G. Dimakis, Jonathan I. Tamir*<br>
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,590 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-11-19] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,591 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-11-19] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -1701,7 +1701,7 @@
 **Enhancing Spatiotemporal Disease Progression Models via Latent Diffusion and Prior Knowledge** \
 *Lemuel Puglisi, Daniel C. Alexander, Daniele Ravì* \
 \[22th Aug., 2024] \[MICCAI, 2024] \
-\[[Paper](https://arxiv.org/abs/2405.03328)] \[[GitHub](https://github.com/LemuelPuglisi/BrLP) ⭐ 141 | 🐛 4 | 🌐 Python | 📅 2025-10-31]
+\[[Paper](https://arxiv.org/abs/2405.03328)] \[[GitHub](https://github.com/LemuelPuglisi/BrLP) ⭐ 142 | 🐛 4 | 🌐 Python | 📅 2025-10-31]
 
 **SeLoRA: Self-Expanding Low-Rank Adaptation of Latent Diffusion Model for Medical Image Synthesis** \
 *Yuchen Mao, Hongwei Li, Wei Pang, Giorgos Papanastasiou, Guang Yang, Chengjia Wang* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
