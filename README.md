@@ -95,7 +95,7 @@
 **Diffusion Models in Low-Level Vision: A Survey** \
 *Chunming He, Yuqi Shen, Chengyu Fang, Fengyang Xiao, Longxiang Tang, Yulun Zhang, Wangmeng Zuo, Zhenhua Guo, Xiu Li* \
 \[16th Jun., 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2406.11138)] \[[GitHub](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) ⭐ 563 | 🐛 4 | 📅 2025-02-23]
+\[[Paper](https://arxiv.org/abs/2406.11138)] \[[GitHub](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) ⭐ 564 | 🐛 4 | 📅 2025-02-23]
 
 **Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review** \
 *Mohammadreza Amirian, Daniel Barco, Ivo Herzig, Frank-Peter Schilling* \
@@ -346,7 +346,7 @@
 **Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI** \
 *Finn Behrendt, Debayan Bhattacharya, Julia Krüger, Roland Opfer, Alexander Schlaefer* \
 \[7th Mar., 2023] \[MIDL, 2023]<br>
-\[[Paper](https://arxiv.org/abs/2303.03758)] \[[Github](https://github.com/FinnBehrendt/patched-Diffusion-Models-UAD) ⭐ 54 | 🐛 1 | 🌐 Python | 📅 2025-03-19]
+\[[Paper](https://arxiv.org/abs/2303.03758)] \[[Github](https://github.com/FinnBehrendt/patched-Diffusion-Models-UAD) ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2025-03-19]
 
 **Dissolving Is Amplifying: Towards Fine-Grained Anomaly Detection** \
 *Jian Shi, Pengyi Zhang, Ni Zhang, Hakim Ghazzai, Yehia Massoud* \
@@ -1013,7 +1013,7 @@
 **Self-Consistent Recursive Diffusion Bridge for Medical Image Translation** \
 *Fuat Arslan, Bilal Kabas, Onat Dalmaz, Muzaffer Ozbey, Tolga Çukur* \
 \[10th May, 2024] \[arXiv, 2024] \
-\[[Paper](https://arxiv.org/abs/2405.06789)] \[[GitHub](https://github.com/icon-lab/SelfRDB) ⭐ 93 | 🐛 6 | 🌐 Python | 📅 2025-10-05]
+\[[Paper](https://arxiv.org/abs/2405.06789)] \[[GitHub](https://github.com/icon-lab/SelfRDB) ⭐ 94 | 🐛 6 | 🌐 Python | 📅 2025-10-05]
 
 **Tackling Structural Hallucination in Image Translation with Local Diffusion** \
 *Seunghoi Kim, Chen Jin, Tom Diethe, Matteo Figini, Henry F. J. Tregidgo, Asher Mullokandov, Philip Teare, Daniel C. Alexander* \
@@ -1421,7 +1421,7 @@
 **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss** \
 *Can Zhao, Pengfei Guo, Dong Yang, Yucheng Tang, Yufan He, Benjamin Simon, Mason Belue, Stephanie Harmon, Baris Turkbey, Daguang Xu* \
 \[07th Aug., 2025] \[arXiv, 2025] \
-\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,595 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-11-19] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
+\[[Paper](http://arxiv.org/abs/2508.05772v1)] \[[GitHub](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi) ⭐ 2,596 | 🐛 128 | 🌐 Jupyter Notebook | 📅 2026-11-19] \[[Demo](https://build.nvidia.com/nvidia/maisi)]
 
 **Adaptively Distilled ControlNet: Accelerated Training and Superior Sampling for Medical Image Synthesis** \
 *Kunpeng Qiu, Zhiying Zhou, Yongxin Guo* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
