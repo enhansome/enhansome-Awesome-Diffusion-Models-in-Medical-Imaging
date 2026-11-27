@@ -568,7 +568,7 @@
                 "open_issues": 29,
                 "owner": "StanfordMIMI",
                 "repo": "DDM2",
-                "stars": 192,
+                "stars": 193,
                 "topics": [
                   "denoising",
                   "diffusion-models",
@@ -3036,7 +3036,7 @@
                 "open_issues": 4,
                 "owner": "LemuelPuglisi",
                 "repo": "BrLP",
-                "stars": 142,
+                "stars": 143,
                 "topics": [
                   "brain-latent-progression",
                   "diffusion-models",
@@ -5041,7 +5041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:58:29.540Z",
+    "last_updated": "2026-11-27T22:41:07.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",

@@ -425,7 +425,7 @@
 **DDM2: Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models** \
 *Tiange Xiang, Mahmut Yurt, Ali B Syed, Kawin Setsompop, Akshay Chaudhari* \
 \[6th Feb., 2023] \[ICLR, 2023] \
-\[[Paper](https://arxiv.org/abs/2302.03018)] \[[Github](https://github.com/StanfordMIMI/DDM2) ⭐ 192 | 🐛 29 | 🌐 Python | 📅 2024-01-21]
+\[[Paper](https://arxiv.org/abs/2302.03018)] \[[Github](https://github.com/StanfordMIMI/DDM2) ⭐ 193 | 🐛 29 | 🌐 Python | 📅 2024-01-21]
 
 **Low-Dose CT Using Denoising Diffusion Probabilistic Model for 20× Speedup** \
 *Wenjun Xia, Qing Lyu, Ge Wang* \
@@ -1701,7 +1701,7 @@
 **Enhancing Spatiotemporal Disease Progression Models via Latent Diffusion and Prior Knowledge** \
 *Lemuel Puglisi, Daniel C. Alexander, Daniele Ravì* \
 \[22th Aug., 2024] \[MICCAI, 2024] \
-\[[Paper](https://arxiv.org/abs/2405.03328)] \[[GitHub](https://github.com/LemuelPuglisi/BrLP) ⭐ 142 | 🐛 4 | 🌐 Python | 📅 2025-10-31]
+\[[Paper](https://arxiv.org/abs/2405.03328)] \[[GitHub](https://github.com/LemuelPuglisi/BrLP) ⭐ 143 | 🐛 4 | 🌐 Python | 📅 2025-10-31]
 
 **SeLoRA: Self-Expanding Low-Rank Adaptation of Latent Diffusion Model for Medical Image Synthesis** \
 *Yuchen Mao, Hongwei Li, Wei Pang, Giorgos Papanastasiou, Guang Yang, Chengjia Wang* \
@@ -2995,4 +2995,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
